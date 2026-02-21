@@ -1,0 +1,53 @@
+name: Publish blog to main site repo
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout blog repo
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby (for Jekyll)
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Install Jekyll
+        run: |
+          gem install jekyll bundler
+
+      - name: Build blog
+        run: |
+          jekyll build
+
+      - name: Checkout main site repo
+        uses: actions/checkout@v4
+        with:
+          repository: StephShobiye/learnwithoutlimitscic.github.io
+          token: ${{ secrets.BLOG_PUBLISH_TOKEN }}
+          path: mainrepo
+
+      - name: Replace /blog output in main repo
+        run: |
+          rm -rf mainrepo/blog
+          mkdir -p mainrepo/blog
+          cp -r _site/* mainrepo/blog/
+
+      - name: Commit and push to main site repo
+        run: |
+          cd mainrepo
+          git config user.name "lwl-blog-publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git add blog
+          git commit -m "Publish blog update from lwl-blog" || exit 0
+          git push
