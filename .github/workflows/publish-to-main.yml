@@ -34,7 +34,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: StephShobiye/learnwithoutlimitscic.github.io
-          token: ${{ secrets.BLOG_PUBLISH_TOKEN }}
+          token: ${{ secrets.LWL_SITE_DEPLOY_TOKEN }}
           path: mainrepo
 
       - name: Replace /blog output in main repo
