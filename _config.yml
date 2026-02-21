@@ -1,0 +1,21 @@
+title: Learn Without Limits CIC Blog
+description: Blog articles from Learn Without Limits CIC on ALN, education, online safety and system reform.
+baseurl: "" 
+url: "" 
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+timezone: Europe/London
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+plugins: []
+
+exclude:
+  - README.md
