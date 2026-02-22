@@ -1,7 +1,7 @@
 title: Learn Without Limits CIC Blog
 description: Blog articles from Learn Without Limits CIC on ALN, education, online safety and system reform.
-baseurl: "" 
-url: "" 
+baseurl: ""
+url: "https://blog.learnwithoutlimitscic.org"
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
