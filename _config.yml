@@ -15,7 +15,8 @@ defaults:
     values:
       layout: "post"
 
-plugins: []
+plugins:
+  - jekyll-sitemap
 
 exclude:
   - README.md
