@@ -14,9 +14,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      lang: "en"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
 
 exclude:
   - README.md
