@@ -1,26 +1,92 @@
 ---
 layout: default
 title: Blog
+description: Practical, parent-led guidance for ALN families in Wales. Clear steps, plain language, and useful signposts.
 ---
 
-<h1>Learn Without Limits CIC Blog</h1>
+<h1>Blog</h1>
+
+<p class="lede">
+  Practical, parent-led guidance for ALN families in Wales.
+  We write to reduce stress and prevent escalation by making the system easier to navigate.
+</p>
 
 <p>
   <a href="https://learnwithoutlimitscic.org/">Main website</a> •
-  <a href="https://learnwithoutlimitscic.org/about.en.html">About Learn Without Limits CIC</a>
+  <a href="https://learnwithoutlimitscic.org/about.en.html">About</a> •
+  <a href="https://learnwithoutlimitscic.org/app.en.html">Parent Guide App</a> •
+  <a href="https://learnwithoutlimitscic.org/events.en.html">Events</a>
 </p>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <small>({{ post.date | date: "%-d %B %Y" }})</small>
-    </li>
-  {% endfor %}
-</ul>
+{% assign latest = site.posts | first %}
+{% if latest %}
+<section aria-labelledby="latest">
+  <h2 id="latest">Latest</h2>
+
+  <article class="post-featured">
+    <h3 class="post-title">
+      <a href="{{ latest.url }}">{{ latest.title }}</a>
+    </h3>
+
+    <p class="post-meta">
+      <time datetime="{{ latest.date | date_to_xmlschema }}">{{ latest.date | date: "%-d %B %Y" }}</time>
+    </p>
+
+    <p class="post-excerpt">
+      {{ latest.excerpt | strip_html | strip_newlines | truncate: 240 }}
+    </p>
+
+    <p>
+      <a class="btn" href="{{ latest.url }}">
+        Read the full article<span class="sr-only">: {{ latest.title }}</span>
+      </a>
+    </p>
+  </article>
+</section>
+{% endif %}
+
+<section aria-labelledby="recent">
+  <h2 id="recent">Recent articles</h2>
+
+  <div class="post-grid">
+    {% for post in site.posts offset:1 limit:18 %}
+      <article class="post-card">
+        <h3 class="post-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
+
+        <p class="post-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time>
+        </p>
+
+        <p class="post-excerpt">
+          {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}
+        </p>
+
+        <p>
+          <a href="{{ post.url }}">Read<span class="sr-only">: {{ post.title }}</span></a>
+        </p>
+      </article>
+    {% endfor %}
+  </div>
+</section>
 
 <hr>
 
-<p>
-  Learn Without Limits CIC • https://learnwithoutlimitscic.org/
+<section aria-labelledby="about-this-blog">
+  <h2 id="about-this-blog">What you’ll find here</h2>
+  <ul>
+    <li>ALN in Wales, including the IDP process and what to do when things stall.</li>
+    <li>EOTAS, alternative provision, EBSA, reduced timetables, and attendance pressure.</li>
+    <li>Post-16 transitions, reasonable adjustments, and support pathways.</li>
+    <li>Practical templates, signposts, and next-step checklists (where relevant).</li>
+  </ul>
+
+  <p class="hint">
+    Want the tools in one place? Try the <a href="https://learnwithoutlimitscic.org/app.en.html">ALN Parent Guide App</a>.
+  </p>
+</section>
+
+<p class="hint">
+  Learn Without Limits CIC • <a href="https://learnwithoutlimitscic.org/">learnwithoutlimitscic.org</a>
 </p>
