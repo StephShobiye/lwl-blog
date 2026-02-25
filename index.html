@@ -73,6 +73,22 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
 
 <hr>
 
+<section aria-labelledby="browse-by-topic" class="topic-browse">
+  <h2 id="browse-by-topic">Browse by topic</h2>
+  <p class="hint">
+    Select a topic to filter the archive below. You can also type your own keyword in the search box.
+  </p>
+
+  <div class="topic-grid" role="group" aria-label="Topic filters">
+    <button class="btn topic-btn" type="button" data-topic="idp">IDP &amp; ALN Code</button>
+    <button class="btn topic-btn" type="button" data-topic="eotas">EOTAS &amp; Alternative Provision</button>
+    <button class="btn topic-btn" type="button" data-topic="attendance">Attendance &amp; EBSA</button>
+    <button class="btn topic-btn" type="button" data-topic="post-16">Post-16 &amp; College</button>
+    <button class="btn topic-btn" type="button" data-topic="tribunal">Rights &amp; Escalation</button>
+    <button class="btn topic-btn" type="button" data-topic="">Show all</button>
+  </div>
+</section>
+
 <section aria-labelledby="archive" class="archive">
   <h2 id="archive">Blog archive</h2>
   <p class="hint">
@@ -117,44 +133,59 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
 </section>
 
 <script>
-  (function () {
-    var input = document.getElementById("blogSearch");
-    var list = document.getElementById("archiveList");
-    var count = document.getElementById("archiveCount");
-    if (!input || !list) return;
+(function () {
+  var input = document.getElementById("blogSearch");
+  var list = document.getElementById("archiveList");
+  var count = document.getElementById("archiveCount");
+  var topicButtons = document.querySelectorAll(".topic-btn");
 
-    var items = Array.prototype.slice.call(list.querySelectorAll(".archive-item"));
+  if (!list) return;
 
-    function updateCount(visible) {
-      if (!count) return;
-      count.textContent = visible + " article" + (visible === 1 ? "" : "s") + " shown";
-    }
+  var items = Array.prototype.slice.call(list.querySelectorAll(".archive-item"));
+  var activeTopic = "";
 
-    function normalise(s) {
-      return (s || "").toLowerCase().trim();
-    }
+  function normalise(s) {
+    return (s || "").toLowerCase().trim();
+  }
 
-    function filter() {
-      var q = normalise(input.value);
-      var visible = 0;
+  function updateCount(visible) {
+    if (!count) return;
+    count.textContent = visible + " article" + (visible === 1 ? "" : "s") + " shown";
+  }
 
-      items.forEach(function (li) {
-        var title = normalise(li.getAttribute("data-title"));
-        var match = !q || title.indexOf(q) !== -1;
-        li.style.display = match ? "" : "none";
-        if (match) visible++;
-      });
+  function filter() {
+    var query = input ? normalise(input.value) : "";
+    var visible = 0;
 
-      updateCount(visible);
-    }
+    items.forEach(function (li) {
+      var title = normalise(li.getAttribute("data-title"));
 
-    updateCount(items.length);
+      var matchesSearch = !query || title.indexOf(query) !== -1;
+      var matchesTopic = !activeTopic || title.indexOf(activeTopic) !== -1;
+
+      var show = matchesSearch && matchesTopic;
+      li.style.display = show ? "" : "none";
+      if (show) visible++;
+    });
+
+    updateCount(visible);
+  }
+
+  if (input) {
     input.addEventListener("input", filter);
-  })();
+  }
+
+  Array.prototype.forEach.call(topicButtons, function (btn) {
+    btn.addEventListener("click", function () {
+      activeTopic = normalise(btn.getAttribute("data-topic"));
+      filter();
+    });
+  });
+
+  updateCount(items.length);
+})();
 </script>
 
 <p class="hint">
   Learn Without Limits CIC • <a href="https://learnwithoutlimitscic.org/">learnwithoutlimitscic.org</a>
 </p>
-
-
