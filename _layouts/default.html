@@ -15,17 +15,19 @@
   <!-- Main site CSS (shared) -->
   <link rel="preload" href="https://learnwithoutlimitscic.org/assets/css/styles.css" as="style">
   <link rel="stylesheet" href="https://learnwithoutlimitscic.org/assets/css/styles.css">
-<link rel="stylesheet" href="{{ "/assets/blog.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/blog.css" | relative_url }}">
+
   <link rel="icon" href="https://learnwithoutlimitscic.org/assets/img/favicon.ico">
 
-  <!-- Canonical: always set (prevents duplicate URL variants diluting SEO) -->
+  <!-- Canonical: always set -->
   {% if page.canonical %}
     <link rel="canonical" href="{{ page.canonical }}">
   {% else %}
+    <!-- Uses site.url if set; otherwise still resolves sensibly for GH Pages builds -->
     <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% endif %}
 
-  <!-- RSS feed discovery (trust/authority + useful for professionals) -->
+  <!-- RSS feed discovery -->
   <link rel="alternate" type="application/rss+xml" title="Learn Without Limits CIC Blog" href="{{ "/feed.xml" | absolute_url }}">
 
   {% seo %}
@@ -62,11 +64,13 @@
     </nav>
 
     <nav class="lang-switch" aria-label="Language switch">
-      <!-- Later: wire to a Welsh blog landing page if/when created -->
+      <!-- Until a Welsh blog exists, this switches language on the main website -->
       <a class="btn ghost"
          href="https://learnwithoutlimitscic.org/index.cy.html"
          lang="cy" hreflang="cy"
-         aria-label="Switch language to Cymraeg">Cymraeg</a>
+         aria-label="Switch language to Cymraeg on the main website">
+         Cymraeg (main site)
+      </a>
     </nav>
   </header>
 
