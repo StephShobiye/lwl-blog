@@ -1,0 +1,88 @@
+/* Blog-specific minimal styling */
+/* Designed to layer on top of main site CSS safely */
+
+.lede {
+  font-size: 1.1rem;
+  max-width: 60ch;
+}
+
+.hint {
+  font-size: 0.95rem;
+  opacity: 0.8;
+}
+
+.post-featured {
+  padding: 1.5rem;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+  background: rgba(0,0,0,0.02);
+}
+
+.post-meta {
+  font-size: 0.9rem;
+  opacity: 0.75;
+  margin-bottom: 0.75rem;
+}
+
+.post-excerpt {
+  margin-bottom: 1rem;
+  max-width: 65ch;
+}
+
+.post-grid {
+  display: grid;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .post-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.post-card {
+  padding: 1rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 0.5rem;
+}
+
+.archive-search {
+  width: 100%;
+  max-width: 32rem;
+  padding: 0.6rem;
+  margin: 1rem 0;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 0.4rem;
+}
+
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.archive-item {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+}
+
+.archive-date {
+  font-size: 0.85rem;
+  opacity: 0.7;
+  margin-left: 0.5rem;
+}
+
+/* Screen reader utility */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  white-space: nowrap;
+  border: 0;
+}
