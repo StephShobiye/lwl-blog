@@ -5,7 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }} | {% endif %}Learn Without Limits CIC Blog</title>
-  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}Articles and updates from Learn Without Limits CIC.{% endif %}">
+
+  {% assign meta_desc = page.description | default: "Articles and updates from Learn Without Limits CIC." %}
+  <meta name="description" content="{{ meta_desc | strip_html | strip_newlines | escape }}">
+
+  <!-- Performance: shared assets live on main domain -->
+  <link rel="preconnect" href="https://learnwithoutlimitscic.org" crossorigin>
 
   <!-- Main site CSS (shared) -->
   <link rel="preload" href="https://learnwithoutlimitscic.org/assets/css/styles.css" as="style">
@@ -13,10 +18,17 @@
 
   <link rel="icon" href="https://learnwithoutlimitscic.org/assets/img/favicon.ico">
 
-  <!-- Optional: canonical (helps avoid duplicate URL confusion) -->
+  <!-- Canonical: always set (prevents duplicate URL variants diluting SEO) -->
   {% if page.canonical %}
     <link rel="canonical" href="{{ page.canonical }}">
+  {% else %}
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% endif %}
+
+  <!-- RSS feed discovery (trust/authority + useful for professionals) -->
+  <link rel="alternate" type="application/rss+xml" title="Learn Without Limits CIC Blog" href="{{ "/feed.xml" | absolute_url }}">
+
+  {% seo %}
 </head>
 
 <body>
@@ -24,7 +36,9 @@
 
   <header class="site-header" role="banner">
     <div class="brand">
-      <img src="https://learnwithoutlimitscic.org/assets/img/Logo_FullColour.png" alt="Learn Without Limits CIC logo" onerror="this.style.display='none'">
+      <img src="https://learnwithoutlimitscic.org/assets/img/Logo_FullColour.png"
+           alt="Learn Without Limits CIC logo"
+           onerror="this.style.display='none'">
       <div class="brand-text">
         <span class="brand-title">Learn Without Limits CIC</span>
         <span class="brand-tag">Parent-led support for ALN families in Wales.</span>
@@ -42,14 +56,17 @@
         <li><a href="https://learnwithoutlimitscic.org/contact.en.html">Contact</a></li>
         <li><a href="https://learnwithoutlimitscic.org/support.en.html">Support</a></li>
 
-        <!-- Blog = current section -->
-        <li><a href="https://learnwithoutlimitscic.org/blog/" aria-current="page">Blog</a></li>
+        <!-- Blog (this site) -->
+        <li><a href="{{ "/" | absolute_url }}" aria-current="page">Blog</a></li>
       </ul>
     </nav>
 
     <nav class="lang-switch" aria-label="Language switch">
-      <!-- You can later wire this to a Welsh blog landing page if you create one -->
-      <a class="btn ghost" href="https://learnwithoutlimitscic.org/index.cy.html" lang="cy" hreflang="cy" aria-label="Switch language to Cymraeg">Cymraeg</a>
+      <!-- Later: wire to a Welsh blog landing page if/when created -->
+      <a class="btn ghost"
+         href="https://learnwithoutlimitscic.org/index.cy.html"
+         lang="cy" hreflang="cy"
+         aria-label="Switch language to Cymraeg">Cymraeg</a>
     </nav>
   </header>
 
@@ -72,7 +89,10 @@
         <h3>Contact</h3>
         <ul>
           <li><a href="mailto:support@learnwithoutlimitscic.org">support@learnwithoutlimitscic.org</a></li>
-          <li><a href="https://www.facebook.com/groups/learnwithoutlimitscic" rel="noopener" target="_blank">Facebook group</a></li>
+          <li>
+            <a href="https://www.facebook.com/groups/learnwithoutlimitscic"
+               target="_blank" rel="noopener noreferrer">Facebook group</a>
+          </li>
         </ul>
       </div>
       <div>
@@ -88,17 +108,15 @@
         <p>Support us: coming soon (October).</p>
       </div>
     </div>
+
     <div class="legal">
       <a href="https://learnwithoutlimitscic.org/privacy.en.html">Privacy &amp; Safeguarding</a>
       <span aria-hidden="true"> · </span>
-      <span>&copy; <span id="year"></span> Learn Without Limits CIC</span>
+      <span>&copy; {{ site.time | date: "%Y" }} Learn Without Limits CIC</span>
     </div>
   </footer>
 
   <!-- Main site JS (shared) -->
   <script src="https://learnwithoutlimitscic.org/assets/js/site.js" defer></script>
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
 </body>
 </html>
