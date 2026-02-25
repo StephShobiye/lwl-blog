@@ -73,6 +73,35 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
 
 <hr>
 
+<section aria-labelledby="archive" class="archive">
+  <h2 id="archive">Blog archive</h2>
+  <p class="hint">
+    Search by keyword, then select an article. (Example searches: <em>IDP</em>, <em>EOTAS</em>, <em>attendance</em>, <em>EBSA</em>, <em>tribunal</em>.)
+  </p>
+
+  <label for="blogSearch" class="sr-only">Search blog archive</label>
+  <input id="blogSearch" class="archive-search" type="search" inputmode="search"
+         placeholder="Search the archive (e.g. IDP, EOTAS, EBSA, attendance)…"
+         autocomplete="off">
+
+  <p class="hint" id="archiveCount" aria-live="polite"></p>
+
+  <ul id="archiveList" class="archive-list">
+    {% for post in site.posts %}
+      <li class="archive-item" data-title="{{ post.title | escape }}">
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="archive-date">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time>
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <noscript>
+    <p class="hint">Tip: turn on JavaScript to use keyword search. The full archive list is still available above.</p>
+  </noscript>
+</section>
+
 <section aria-labelledby="about-this-blog">
   <h2 id="about-this-blog">What you’ll find here</h2>
   <ul>
@@ -87,6 +116,45 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
   </p>
 </section>
 
+<script>
+  (function () {
+    var input = document.getElementById("blogSearch");
+    var list = document.getElementById("archiveList");
+    var count = document.getElementById("archiveCount");
+    if (!input || !list) return;
+
+    var items = Array.prototype.slice.call(list.querySelectorAll(".archive-item"));
+
+    function updateCount(visible) {
+      if (!count) return;
+      count.textContent = visible + " article" + (visible === 1 ? "" : "s") + " shown";
+    }
+
+    function normalise(s) {
+      return (s || "").toLowerCase().trim();
+    }
+
+    function filter() {
+      var q = normalise(input.value);
+      var visible = 0;
+
+      items.forEach(function (li) {
+        var title = normalise(li.getAttribute("data-title"));
+        var match = !q || title.indexOf(q) !== -1;
+        li.style.display = match ? "" : "none";
+        if (match) visible++;
+      });
+
+      updateCount(visible);
+    }
+
+    updateCount(items.length);
+    input.addEventListener("input", filter);
+  })();
+</script>
+
 <p class="hint">
   Learn Without Limits CIC • <a href="https://learnwithoutlimitscic.org/">learnwithoutlimitscic.org</a>
 </p>
+
+
