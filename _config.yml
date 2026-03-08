@@ -1,12 +1,15 @@
 title: Learn Without Limits CIC Blog
 description: Blog articles from Learn Without Limits CIC on ALN, education, online safety and system reform.
-baseurl: ""
+
 url: "https://blog.learnwithoutlimitscic.org"
+baseurl: ""
+
+lang: en-GB
+timezone: Europe/London
+author: Learn Without Limits CIC
 
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
-
-timezone: Europe/London
 
 defaults:
   - scope:
@@ -19,6 +22,7 @@ defaults:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
 
 exclude:
   - README.md
