@@ -8,9 +8,13 @@ lang: en-GB
 timezone: Europe/London
 author: Learn Without Limits CIC
 
+# Markdown engine
 markdown: kramdown
+
+# URL structure
 permalink: /:year/:month/:day/:title/
 
+# Default front matter
 defaults:
   - scope:
       path: ""
@@ -18,11 +22,28 @@ defaults:
     values:
       layout: "post"
       lang: "en"
+      author: "Learn Without Limits CIC"
 
+# SEO + feeds + sitemap
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
 
+# RSS feed settings
+feed:
+  path: feed.xml
+
+# Social / organisation metadata for SEO
+social:
+  name: Learn Without Limits CIC
+  links:
+    - https://learnwithoutlimitscic.org
+    - https://www.facebook.com/groups/learnwithoutlimitscic
+
+# Files Jekyll should ignore
 exclude:
   - README.md
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
