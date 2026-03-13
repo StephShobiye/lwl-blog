@@ -208,8 +208,10 @@ Find out more about the event:
 
 ## Related reading in this series
 
-- [When Children Cannot Attend School in Wales](/2026/03/13/when-children-cannot-attend-school-wales.html)  
-- [Why Support for Children with ALN Often Arrives Only After Crisis](/2026/03/13/why-aln-support-arrives-after-crisis.html)  
-- [When Communities Build Their Own Infrastructure](/2026/03/13/when-communities-build-their-own-infrastructure.html)  
-- [From Facebook Community to Knowledge Infrastructure](/2026/03/13/from-facebook-community-to-knowledge-infrastructure.html)  
-- [When Communities Design the Solution](/2026/03/13/when-communities-design-the-solution.html)
+## Related reading in this series
+
+- [When Children Cannot Attend School in Wales]({% post_url 2026-03-13-when-children-cannot-attend-school-wales %})  
+- [Why Support for Children with ALN Often Arrives Only After Crisis]({% post_url 2026-03-13-why-aln-support-arrives-after-crisis %})  
+- [When Communities Build Their Own Infrastructure]({% post_url 2026-03-13-when-communities-build-their-own-infrastructure %})  
+- [From Facebook Community to Knowledge Infrastructure]({% post_url 2026-03-13-from-facebook-community-to-knowledge-infrastructure %})  
+- [When Communities Design the Solution]({% post_url 2026-03-13-when-communities-design-the-solution %})
