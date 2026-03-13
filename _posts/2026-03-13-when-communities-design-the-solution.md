@@ -8,6 +8,8 @@ tags: [ALN, parent carers, education access, Wales, community design]
 description: "How parent carers in Wales developed the Learn Without Limits programme to help families navigate Additional Learning Needs systems and access clearer guidance earlier."
 ---
 
+> This article is part of the Learn Without Limits series exploring practical ways to reduce stress for families navigating Additional Learning Needs in Wales.
+
 Across Wales, increasing numbers of families are navigating situations where children and young people with Additional Learning Needs are struggling to access education.
 
 As we launch the Learn Without Limits blog on its new platform, we wanted the first article published here to explain how the parent-led programme behind our work developed in response to those experiences.
@@ -193,12 +195,22 @@ These developments will form part of the progress update shared in our next quar
 
 ---
 
-## A system built from lived experience
+## Join the conversation
 
-The programme emerging through Learn Without Limits reflects many years of shared experience within a parent carer community.
+These ideas will also be explored at the upcoming Learn Without Limits briefing event.
 
-It exists because families navigating complex systems began comparing experiences, identifying patterns and asking what kind of support structure might make navigating these systems easier.
+The event will bring together parents, educators and community organisations to discuss practical ways to reduce stress for families navigating the Additional Learning Needs system.
 
-The result is an evolving ecosystem designed to help families access clearer guidance earlier, reduce crisis points where possible and create pathways forward when traditional routes break down.
+Find out more about the event:
 
-Over time, the ambition is for this navigation and guidance infrastructure to become accessible to families across Wales, helping more parents and young people understand their options and move forward with greater confidence.
+https://www.eventbrite.com/e/lwl-briefing-prevention-bridging-progression-in-the-aln-system-tickets-1985052696050
+
+---
+
+## Related reading in this series
+
+- [When Children Cannot Attend School in Wales](/2026/03/13/when-children-cannot-attend-school-wales.html)  
+- [Why Support for Children with ALN Often Arrives Only After Crisis](/2026/03/13/why-aln-support-arrives-after-crisis.html)  
+- [When Communities Build Their Own Infrastructure](/2026/03/13/when-communities-build-their-own-infrastructure.html)  
+- [From Facebook Community to Knowledge Infrastructure](/2026/03/13/from-facebook-community-to-knowledge-infrastructure.html)  
+- [When Communities Design the Solution](/2026/03/13/when-communities-design-the-solution.html)
