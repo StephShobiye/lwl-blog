@@ -8,6 +8,8 @@ tags: [ALN, parent community, civic technology, digital infrastructure]
 description: "Why the Learn Without Limits parent community is evolving from a Facebook group into secure knowledge infrastructure supporting families navigating the ALN system in Wales."
 ---
 
+> This article is part of the Learn Without Limits series exploring practical ways to reduce stress for families navigating Additional Learning Needs in Wales.
+
 For more than twelve years, families across Wales have been sharing experiences and practical advice about navigating the Additional Learning Needs system within our parent community.
 
 Those conversations have helped many families understand processes that can otherwise feel complex and overwhelming.
@@ -176,7 +178,16 @@ The model is still evolving, but the combination of long standing community insi
 
 ---
 
-## Related reading
+This evolving infrastructure forms part of the wider Learn Without Limits programme.
 
-- When Communities Design the Solution  
-- When Communities Build Their Own Infrastructure
+[When Communities Design the Solution](/2026/03/13/when-communities-design-the-solution.html)
+
+---
+
+## Related reading in this series
+
+- [When Children Cannot Attend School in Wales](/2026/03/13/when-children-cannot-attend-school-wales.html)  
+- [Why Support for Children with ALN Often Arrives Only After Crisis](/2026/03/13/why-aln-support-arrives-after-crisis.html)  
+- [When Communities Build Their Own Infrastructure](/2026/03/13/when-communities-build-their-own-infrastructure.html)  
+- [From Facebook Community to Knowledge Infrastructure](/2026/03/13/from-facebook-community-to-knowledge-infrastructure.html)  
+- [When Communities Design the Solution](/2026/03/13/when-communities-design-the-solution.html)
