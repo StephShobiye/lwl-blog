@@ -203,8 +203,7 @@ The event will bring together parents, educators and community organisations to 
 
 Find out more about the event:
 
-https://www.eventbrite.com/e/lwl-briefing-prevention-bridging-progression-in-the-aln-system-tickets-1985052696050
-
+[Register for the Learn Without Limits briefing](https://www.eventbrite.com/e/lwl-briefing-prevention-bridging-progression-in-the-aln-system-tickets-1985052696050)
 ---
 
 ## Related reading in this series
