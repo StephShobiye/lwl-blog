@@ -8,6 +8,8 @@ tags: [ALN, prevention, education support, Wales, IDP]
 description: "Why support for children with Additional Learning Needs in Wales often arrives only after a crisis, and why prevention and earlier navigation matter."
 ---
 
+> This article is part of the Learn Without Limits series exploring practical ways to reduce stress for families navigating Additional Learning Needs in Wales.
+
 Families raising children with Additional Learning Needs in Wales often say the same thing.
 
 They asked for help earlier, but nothing really changed until the situation became a crisis.
@@ -165,3 +167,19 @@ When families have clear information and practical guidance, they are better equ
 Prevention may not always be visible.
 
 But for many families it is the support that matters most.
+
+---
+
+These pressures help explain why many families begin building their own support networks and knowledge resources.
+
+[When Communities Build Their Own Infrastructure](/2026/03/13/when-communities-build-their-own-infrastructure.html)
+
+---
+
+## Related reading in this series
+
+- [When Children Cannot Attend School in Wales](/2026/03/13/when-children-cannot-attend-school-wales.html)  
+- [Why Support for Children with ALN Often Arrives Only After Crisis](/2026/03/13/why-aln-support-arrives-after-crisis.html)  
+- [When Communities Build Their Own Infrastructure](/2026/03/13/when-communities-build-their-own-infrastructure.html)  
+- [From Facebook Community to Knowledge Infrastructure](/2026/03/13/from-facebook-community-to-knowledge-infrastructure.html)  
+- [When Communities Design the Solution](/2026/03/13/when-communities-design-the-solution.html)
