@@ -8,6 +8,8 @@ tags: [ALN, school absence, chronic illness, Long Covid, Wales]
 description: "Why some families cannot attend support programmes and why accessible information and remote support matter for children with health conditions in Wales."
 ---
 
+> This article is part of the Learn Without Limits series exploring practical ways to reduce stress for families navigating Additional Learning Needs in Wales.
+
 Many support programmes for disabled children are built around activities.
 
 Workshops.  
@@ -109,11 +111,19 @@ Remote guidance and communities can complement existing services by reaching fam
 
 ---
 
-## Related guidance for families
+This challenge sits within a wider pattern affecting many families navigating Additional Learning Needs in Wales. We explore that wider pattern in the next article:
 
-- Supporting children with Long Covid in education  
-- When illness disrupts learning: supporting children with medical needs  
-- School attendance and health: understanding absence and support options  
+[Why Support for Children with ALN Often Arrives Only After Crisis](/2026/03/13/why-aln-support-arrives-after-crisis.html)
+
+---
+
+## Related reading in this series
+
+- [When Children Cannot Attend School in Wales](/2026/03/13/when-children-cannot-attend-school-wales.html)  
+- [Why Support for Children with ALN Often Arrives Only After Crisis](/2026/03/13/why-aln-support-arrives-after-crisis.html)  
+- [When Communities Build Their Own Infrastructure](/2026/03/13/when-communities-build-their-own-infrastructure.html)  
+- [From Facebook Community to Knowledge Infrastructure](/2026/03/13/from-facebook-community-to-knowledge-infrastructure.html)  
+- [When Communities Design the Solution](/2026/03/13/when-communities-design-the-solution.html)
 
 ---
 
