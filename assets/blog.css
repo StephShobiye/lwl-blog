@@ -34,6 +34,27 @@ iframe {
 }
 
 /* ------------------------------ */
+/* Skip link                      */
+/* ------------------------------ */
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 1000;
+  padding: 0.75rem 1rem;
+  background: #ffffff;
+  color: #000000;
+  border: 2px solid currentColor;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+/* ------------------------------ */
 /* Reading helpers                */
 /* ------------------------------ */
 
@@ -54,6 +75,8 @@ iframe {
 /* Long-form reading ergonomics   */
 /* ------------------------------ */
 
+/* Target the actual wrapper used by the layout */
+main .content.wide,
 article,
 .post-content,
 .post-body {
@@ -64,6 +87,10 @@ article,
   padding-right: 1.25rem;
 }
 
+/* Base reading size for real article content */
+main .content.wide,
+main .content.wide p,
+main .content.wide li,
 article,
 .post-content,
 .post-body,
@@ -72,6 +99,7 @@ article,
   line-height: 1.8;
 }
 
+main .content.wide p,
 article p,
 .post-content p,
 .post-body p {
@@ -79,6 +107,8 @@ article p,
   margin-bottom: 1.15rem;
 }
 
+main .content.wide ul,
+main .content.wide ol,
 article ul,
 article ol,
 .post-content ul,
@@ -90,12 +120,17 @@ article ol,
   padding-left: 1.4rem;
 }
 
+main .content.wide li,
 article li,
 .post-content li,
 .post-body li {
   margin-bottom: 0.45rem;
 }
 
+main .content.wide h1,
+main .content.wide h2,
+main .content.wide h3,
+main .content.wide h4,
 article h1,
 article h2,
 article h3,
@@ -114,24 +149,28 @@ article h4,
   scroll-margin-top: 1rem;
 }
 
+main .content.wide h1,
 article h1,
 .post-content h1,
 .post-body h1 {
   font-size: clamp(1.9rem, 4vw, 2.5rem);
 }
 
+main .content.wide h2,
 article h2,
 .post-content h2,
 .post-body h2 {
   font-size: clamp(1.45rem, 3vw, 1.9rem);
 }
 
+main .content.wide h3,
 article h3,
 .post-content h3,
 .post-body h3 {
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
 }
 
+main .content.wide blockquote,
 article blockquote,
 .post-content blockquote,
 .post-body blockquote {
@@ -141,6 +180,7 @@ article blockquote,
   background: rgba(0, 0, 0, 0.04);
 }
 
+main .content.wide hr,
 article hr,
 .post-content hr,
 .post-body hr {
@@ -148,6 +188,8 @@ article hr,
 }
 
 /* Better wrapping for long strings */
+main .content.wide,
+main .content.wide a,
 article,
 .post-content,
 .post-body,
@@ -163,6 +205,7 @@ article,
 /* Links and focus                */
 /* ------------------------------ */
 
+main .content.wide a,
 article a,
 .post-content a,
 .post-body a,
@@ -183,7 +226,8 @@ select:focus-visible,
 textarea:focus-visible,
 summary:focus-visible,
 .topic-btn:focus-visible,
-.archive-search:focus-visible {
+.archive-search:focus-visible,
+.skip-link:focus-visible {
   outline: 3px solid currentColor;
   outline-offset: 3px;
 }
@@ -390,6 +434,7 @@ pre {
 /* ------------------------------ */
 
 @media (max-width: 767px) {
+  main .content.wide,
   article,
   .post-content,
   .post-body {
@@ -397,6 +442,9 @@ pre {
     padding-right: 1rem;
   }
 
+  main .content.wide,
+  main .content.wide p,
+  main .content.wide li,
   article,
   .post-content,
   .post-body,
@@ -420,6 +468,7 @@ pre {
 /* ------------------------------ */
 
 @media (min-width: 1100px) {
+  main .content.wide,
   article,
   .post-content,
   .post-body {
