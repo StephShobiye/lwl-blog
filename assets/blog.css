@@ -576,3 +576,13 @@ pre {
     line-height: 1.8;
   }
 }
+
+/* Fix blog index card title wrapping */
+
+.post-card h2,
+.post-card h3,
+.post-title {
+  text-wrap: normal;
+  white-space: normal;
+  overflow: hidden;
+}
