@@ -463,15 +463,50 @@ pre {
   }
 }
 
+
 /* ------------------------------ */
-/* Large screen comfort           */
+/* Desktop reading rebalance      */
 /* ------------------------------ */
 
-@media (min-width: 1100px) {
+@media (min-width: 1000px) {
   main .content.wide,
   article,
   .post-content,
   .post-body {
-    max-width: 74ch;
+    max-width: 82ch;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  .post-header,
+  .post-content > h1,
+  .post-content > .post-meta {
+    max-width: 30ch;
+  }
+
+  .post-content h1,
+  article h1 {
+    font-size: clamp(2.4rem, 4vw, 3.4rem);
+    line-height: 1.18;
+    margin-bottom: 1rem;
+  }
+
+  .post-content,
+  .post-content p,
+  .post-content li,
+  article,
+  article p,
+  article li {
+    font-size: 1.125rem;
+    line-height: 1.85;
+  }
+
+  .post-meta {
+    margin-bottom: 1.5rem;
+  }
+
+  .post-content blockquote,
+  article blockquote {
+    max-width: 72ch;
   }
 }
