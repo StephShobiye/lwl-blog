@@ -1,93 +1,116 @@
 # Internal Engineering Note
-Project: Learn Without Limits CIC Blog  
-Site: https://blog.learnwithoutlimitscic.org  
-Stack: GitHub Pages + Jekyll  
 
-Purpose: Preserve the March 2026 internal-linking failure and fix so that
-future contributors always use Jekyll `post_url` for internal blog links.
+Project: Learn Without Limits CIC Blog
+Site: https://blog.learnwithoutlimitscic.org
+Stack: GitHub Pages + Jekyll
+
+Purpose: Preserve the March 2026 internal-linking failure and fix so that future contributors always use Jekyll `post_url` for internal blog links.
+
+---
+
 # LWL Blog Linking and Migration Safeguard Note
 
-Date: 13 March 2026
-Project: Learn Without Limits CIC blog (`blog.learnwithoutlimitscic.org`)
+**Date:** 13 March 2026
+**Project:** Learn Without Limits CIC blog (`blog.learnwithoutlimitscic.org`)
+
 Purpose: Preserve the key lessons from the March 2026 blog migration, article cluster launch, and internal-linking issue so future threads do not lose context.
 
-## What happened
+---
 
-During the March 2026 pre-briefing article sprint, five linked articles were published on the new GitHub Pages / Jekyll blog. The Eventbrite link worked, but the internal article-to-article links initially returned 404 errors.
+# What happened
 
-## Root cause
+During the March 2026 pre-briefing article sprint, five linked articles were published on the new GitHub Pages / Jekyll blog. The Eventbrite link worked, but the internal article-to-article links initially returned **404 errors**.
+
+---
+
+# Root cause
 
 The internal links were written manually in `.html` format, for example:
 
-```markdown
+```
 [Example article](/2026/03/13/example-article.html)
 ```
 
 However, the live site publishes posts using **directory-style permalinks with trailing slashes**, for example:
 
-```text
+```
 https://blog.learnwithoutlimitscic.org/2026/03/13/example-article/
 ```
 
 Because of that mismatch, the internal article links broke while external links such as Eventbrite continued working.
 
-## Correct fix
+---
+
+# Correct fix
 
 All affected internal article links were replaced using **Jekyll `post_url` tags**.
 
 Correct pattern:
 
-```markdown
-[Example article]({% post_url 2026-03-13-example-article %})
+```
+{% raw %}[Example article]({% post_url 2026-03-13-example-article %}){% endraw %}
 ```
 
 This allows Jekyll to generate the correct live URL automatically, regardless of permalink format.
 
-## Permanent rule from now on
+---
 
-### For internal blog post links
+# Permanent rule from now on
+
+## For internal blog post links
+
 Always use:
 
-```markdown
-{% post_url YYYY-MM-DD-filename-without-md %}
+```
+{% raw %}{% post_url YYYY-MM-DD-filename-without-md %}{% endraw %}
 ```
 
 Example:
 
-```markdown
-[Why Support for Children with ALN Often Arrives Only After Crisis]({% post_url 2026-03-13-why-aln-support-arrives-after-crisis %})
+```
+{% raw %}[Why Support for Children with ALN Often Arrives Only After Crisis]({% post_url 2026-03-13-why-aln-support-arrives-after-crisis %}){% endraw %}
 ```
 
-### For external links
+---
+
+## For external links
+
 Use normal full URLs.
 
 Example:
 
-```markdown
+```
 [Register for the Learn Without Limits briefing](https://www.eventbrite.com/e/lwl-briefing-prevention-bridging-progression-in-the-aln-system-tickets-1985052696050)
 ```
 
-### Never do this again
+---
+
+# Never do this again
+
 Do **not** hand-type blog post links in `.html` format.
 
 Wrong pattern:
 
-```markdown
+```
 /article-name.html
 ```
 
-## The key trick that helps prevent this ever happening again
+---
 
-### Use Jekyll `post_url` tags for every internal article link
+# The key trick that prevents this ever happening again
+
+Use **Jekyll `post_url` tags for every internal article link**.
 
 This is the safest method because:
 
-- it follows the real permalink structure automatically
-- it survives future permalink changes better than manual URLs
-- it reduces human error when linking clusters together
-- it makes migrations and refactors safer
+* it follows the real permalink structure automatically
+* it survives future permalink changes better than manual URLs
+* it reduces human error when linking clusters together
+* it makes migrations and refactors safer
 
-## Secondary safeguard
+---
+
+# Secondary safeguard
 
 Before publishing or promoting a linked article cluster:
 
@@ -98,7 +121,9 @@ Before publishing or promoting a linked article cluster:
 
 This should become the **cluster QA rule**.
 
-## Pre-briefing cluster published on 13 March 2026
+---
+
+# Pre-briefing cluster published on 13 March 2026
 
 These five articles were linked as a deliberate series:
 
@@ -108,63 +133,30 @@ These five articles were linked as a deliberate series:
 4. `2026-03-13-from-facebook-community-to-knowledge-infrastructure.md`
 5. `2026-03-13-when-communities-design-the-solution.md`
 
-## Commit history pattern used to repair the issue
+---
+
+# Commit history pattern used to repair the issue
 
 The repair workflow was:
 
-- fix one file at a time
-- commit one article at a time
-- redeploy via GitHub Pages
-- hard refresh / incognito test after deployment
+* fix one file at a time
+* commit one article at a time
+* redeploy via GitHub Pages
+* hard refresh / incognito test after deployment
 
 Representative commit messages used:
 
-- `Fix internal Jekyll links in children cannot attend school article`
-- `Fix internal Jekyll links in ALN crisis article`
-- `Fix internal Jekyll links in communities article`
-- `Fix internal Jekyll links in Facebook to knowledge infrastructure article`
-- `Fix internal Jekyll links in flagship article`
+* `Fix internal Jekyll links in children cannot attend school article`
+* `Fix internal Jekyll links in ALN crisis article`
+* `Fix internal Jekyll links in communities article`
+* `Fix internal Jekyll links in Facebook to knowledge infrastructure article`
+* `Fix internal Jekyll links in flagship article`
 
-## Operational lesson
+---
+
+# Operational lesson
 
 The GitHub Pages / Jekyll stack is the correct long-term choice for the LWL blog because it provides:
 
-- stronger control over intellectual property
-- version history and timestamped publication proof
-- better long-term technical stability than Blogger
-- more reliable indexing potential than the previous Blogger setup
-- a safer foundation for building a knowledge base that can later support toolkits, the app, and community recruitment
-
-The trade-off is a slightly heavier admin load, which means **link QA and disciplined internal-linking rules are essential**.
-
-## Future practice rule
-
-When creating new clusters or updating old Blogger-imported content:
-
-- use `post_url` for all internal article links
-- use full URLs only for external destinations
-- test flagship article links live after deploy
-- treat internal-link QA as mandatory before promotion
-
-## Why this matters strategically
-
-The blog is a key acquisition channel for:
-
-- SEO discovery
-- future community recruitment after platform migration
-- evidence for funders through anonymous analytics
-- knowledge-base content feeding future app development
-- future monetisation through curated PDF toolkits and the annual handbook
-
-## Status snapshot recorded on 13 March 2026
-
-- Blog archive count live on site: **74 articles shown**
-- This means the site is already **74% of the way to the 100-article milestone**
-- Google Search Console had already begun indexing the site within roughly two weeks of migration
-
-## Short version for future threads
-
-**If internal blog links break, check whether someone hand-typed `.html` URLs.**
-
-**Correct fix:** replace them with Jekyll `{% post_url ... %}` tags.
-
+* stronger control over intellectual property
+* version history and timestamp
