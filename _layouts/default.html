@@ -37,7 +37,7 @@
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
 
-  <!-- Header aligned with main website (restore expected brand structure) -->
+  <!-- Header aligned with main website -->
   <header class="site-header" role="banner">
 
     <a class="brand"
@@ -96,10 +96,11 @@
     <button class="btn" data-action="pause-anim" type="button">Reduce motion</button>
   </div>
 
-  <main id="main" tabindex="-1">
-    <section class="content wide">
+  <!-- MAIN CONTENT -->
+  <main id="main" class="site-content" tabindex="-1">
+    <article class="post-content content wide">
       {{ content }}
-    </section>
+    </article>
   </main>
 
   <footer class="site-footer" role="contentinfo">
@@ -140,4 +141,3 @@
   <script src="https://learnwithoutlimitscic.org/assets/js/site.js" defer></script>
 </body>
 </html>
-
