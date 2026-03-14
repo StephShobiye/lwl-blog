@@ -48,8 +48,11 @@ iframe {
   font-weight: 600;
 }
 
-.skip-link:focus {
+.skip-link:focus,
+.skip-link:focus-visible {
   top: 1rem;
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
 }
 
 /* ------------------------------ */
@@ -70,13 +73,14 @@ iframe {
 }
 
 /* ------------------------------ */
-/* Long-form reading ergonomics   */
+/* Main reading container         */
 /* ------------------------------ */
 
 main .content.wide,
 article,
 .post-content,
 .post-body {
+  width: 100%;
   max-width: 74ch;
   margin-left: auto;
   margin-right: auto;
@@ -84,12 +88,22 @@ article,
   padding-right: 1.25rem;
 }
 
+/* ------------------------------ */
+/* Base article typography        */
+/* ------------------------------ */
+
 main .content.wide,
 main .content.wide p,
 main .content.wide li,
 article,
+article p,
+article li,
 .post-content,
+.post-content p,
+.post-content li,
 .post-body,
+.post-body p,
+.post-body li,
 .post-excerpt {
   font-size: 1.0625rem;
   line-height: 1.8;
@@ -123,6 +137,10 @@ article li,
   margin-bottom: 0.45rem;
 }
 
+/* ------------------------------ */
+/* Headings                       */
+/* ------------------------------ */
+
 main .content.wide h1,
 main .content.wide h2,
 main .content.wide h3,
@@ -139,7 +157,7 @@ article h4,
 .post-body h2,
 .post-body h3,
 .post-body h4 {
-  line-height: 1.25;
+  line-height: 1.2;
   margin-top: 2rem;
   margin-bottom: 0.85rem;
   scroll-margin-top: 1rem;
@@ -149,22 +167,54 @@ main .content.wide h1,
 article h1,
 .post-content h1,
 .post-body h1 {
-  font-size: clamp(2rem, 4vw, 2.8rem);
+  font-size: clamp(2rem, 6vw, 2.75rem);
+  letter-spacing: -0.02em;
+  text-wrap: pretty;
 }
 
 main .content.wide h2,
 article h2,
 .post-content h2,
 .post-body h2 {
-  font-size: clamp(1.45rem, 3vw, 1.9rem);
+  font-size: clamp(1.45rem, 4vw, 1.9rem);
 }
 
 main .content.wide h3,
 article h3,
 .post-content h3,
 .post-body h3 {
-  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+  font-size: clamp(1.2rem, 3vw, 1.5rem);
 }
+
+/* ------------------------------ */
+/* Post shell                     */
+/* ------------------------------ */
+
+.post-content {
+  padding-top: 1.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.post-header {
+  margin-bottom: 1.25rem;
+}
+
+.post-content > h1,
+article h1 {
+  max-width: none;
+  margin-bottom: 0.75rem;
+}
+
+.post-meta {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  opacity: 0.85;
+  margin-bottom: 1rem;
+}
+
+/* ------------------------------ */
+/* Callouts / quotes / rules      */
+/* ------------------------------ */
 
 main .content.wide blockquote,
 article blockquote,
@@ -183,6 +233,10 @@ article hr,
   margin: 2rem 0;
 }
 
+/* ------------------------------ */
+/* Wrapping and links             */
+/* ------------------------------ */
+
 main .content.wide,
 main .content.wide a,
 article,
@@ -195,37 +249,6 @@ article,
   overflow-wrap: anywhere;
   word-break: break-word;
 }
-
-/* ------------------------------ */
-/* Post shell                     */
-/* ------------------------------ */
-
-.post-content {
-  padding-top: 2rem;
-  padding-bottom: 3rem;
-}
-
-.post-header {
-  margin-bottom: 1.5rem;
-}
-
-.post-content > h1,
-article h1 {
-  max-width: 32ch;
-  letter-spacing: -0.02em;
-  text-wrap: balance;
-}
-
-.post-meta {
-  font-size: 0.95rem;
-  line-height: 1.6;
-  opacity: 0.85;
-  margin-bottom: 1rem;
-}
-
-/* ------------------------------ */
-/* Links and focus                */
-/* ------------------------------ */
 
 main .content.wide a,
 article a,
@@ -248,8 +271,7 @@ select:focus-visible,
 textarea:focus-visible,
 summary:focus-visible,
 .topic-btn:focus-visible,
-.archive-search:focus-visible,
-.skip-link:focus-visible {
+.archive-search:focus-visible {
   outline: 3px solid currentColor;
   outline-offset: 3px;
 }
@@ -386,7 +408,7 @@ summary:focus-visible,
 }
 
 /* ------------------------------ */
-/* Tables and embedded overflow   */
+/* Tables and code overflow       */
 /* ------------------------------ */
 
 table {
@@ -461,8 +483,14 @@ pre {
   main .content.wide p,
   main .content.wide li,
   article,
+  article p,
+  article li,
   .post-content,
+  .post-content p,
+  .post-content li,
   .post-body,
+  .post-body p,
+  .post-body li,
   .post-excerpt {
     font-size: 1rem;
     line-height: 1.8;
@@ -470,6 +498,7 @@ pre {
 
   .post-content > h1,
   article h1 {
+    font-size: clamp(1.9rem, 8vw, 2.4rem);
     max-width: none;
     text-wrap: pretty;
   }
@@ -489,6 +518,7 @@ pre {
 /* ------------------------------ */
 
 @media (min-width: 1000px) {
+  /* Outer shell for visual balance */
   main .content.wide,
   article,
   .post-content,
@@ -499,10 +529,11 @@ pre {
     padding-right: 2rem;
   }
 
+  /* Header width can be wider than body copy */
   .post-header {
     width: min(100%, 920px);
     max-width: 920px;
-    margin-bottom: 1.75rem;
+    margin-bottom: 1.5rem;
   }
 
   .post-content > h1,
@@ -518,9 +549,10 @@ pre {
   .post-content > .post-meta,
   .post-meta {
     max-width: 920px;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.25rem;
   }
 
+  /* Inner reading measure for paragraphs */
   .post-content p,
   article p,
   .post-content ul,
@@ -528,8 +560,10 @@ pre {
   article ul,
   article ol,
   .post-content blockquote,
-  article blockquote {
-    max-width: 780px;
+  article blockquote,
+  .post-content hr,
+  article hr {
+    max-width: 760px;
   }
 
   .post-content,
@@ -539,6 +573,6 @@ pre {
   article p,
   article li {
     font-size: 1.125rem;
-    line-height: 1.82;
+    line-height: 1.8;
   }
 }
