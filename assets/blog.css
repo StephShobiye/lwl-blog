@@ -209,9 +209,11 @@ article,
   margin-bottom: 1.5rem;
 }
 
+/* FIXED: heading width increased from 22ch to 32ch */
+
 .post-content > h1,
 article h1 {
-  max-width: 22ch;
+  max-width: 32ch;
   letter-spacing: -0.02em;
   text-wrap: balance;
 }
@@ -505,7 +507,7 @@ pre {
 
   .post-content > h1,
   article h1 {
-    max-width: 20ch;
+    max-width: 32ch;
     font-size: clamp(2.5rem, 3.8vw, 3.8rem);
     line-height: 1.1;
     letter-spacing: -0.025em;
