@@ -579,10 +579,28 @@ pre {
 
 /* Fix blog index card title wrapping */
 
+.post-card .post-title,
+.post-card .post-title a,
 .post-card h2,
+.post-card h2 a,
 .post-card h3,
-.post-title {
+.post-card h3 a {
   text-wrap: normal;
   white-space: normal;
-  overflow: hidden;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+/* Fix card grid width */
+
+.post-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 900px) {
+  .post-grid {
+    grid-template-columns: repeat(2, minmax(320px, 1fr)) !important;
+  }
 }
