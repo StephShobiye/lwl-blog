@@ -321,11 +321,19 @@ summary:focus-visible,
 }
 
 .post-card {
+  display: block;
   min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
   padding: 1rem;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 0.75rem;
   background: rgba(0, 0, 0, 0.015);
+}
+
+.post-card > * {
+  min-width: 0;
+  max-width: 100%;
 }
 
 .post-card .post-title,
@@ -336,6 +344,7 @@ summary:focus-visible,
   max-width: 100%;
   min-width: 0;
   margin-top: 0;
+  margin-bottom: 0.75rem;
   line-height: 1.35;
   white-space: normal;
   overflow-wrap: anywhere;
@@ -351,6 +360,23 @@ summary:focus-visible,
   overflow-wrap: anywhere;
   word-break: break-word;
   text-wrap: pretty;
+}
+
+.post-card .post-meta,
+.post-card .post-excerpt,
+.post-card p,
+.post-card li {
+  max-width: 100%;
+  min-width: 0;
+}
+
+.post-card .post-meta {
+  margin-bottom: 0.75rem;
+}
+
+.post-card .post-excerpt,
+.post-card p {
+  margin-bottom: 1rem;
 }
 
 /* ------------------------------ */
