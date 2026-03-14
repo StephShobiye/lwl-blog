@@ -1,34 +1,215 @@
-/* Blog-specific minimal styling */
-/* Designed to layer on top of main site CSS safely */
+/* Blog-specific accessibility and reading layer */
+/* Designed to sit safely on top of main site CSS */
 
-.lede {
-  font-size: 1.1rem;
-  max-width: 60ch;
+/* ------------------------------ */
+/* Base safety                    */
+/* ------------------------------ */
+
+html {
+  box-sizing: border-box;
+  -webkit-text-size-adjust: 100%;
 }
 
-.hint {
-  font-size: 0.95rem;
-  opacity: 0.8;
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
 }
 
-/* Prevent any accidental horizontal scroll */
-html, body {
+/* Prevent accidental horizontal scroll */
+html,
+body {
   max-width: 100%;
   overflow-x: hidden;
 }
 
-/* Featured post */
+/* Make media behave sensibly */
+img,
+svg,
+video,
+canvas,
+iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ------------------------------ */
+/* Reading helpers                */
+/* ------------------------------ */
+
+.lede {
+  font-size: 1.15rem;
+  line-height: 1.75;
+  max-width: 60ch;
+  margin-bottom: 1.25rem;
+}
+
+.hint {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  opacity: 0.85;
+}
+
+/* ------------------------------ */
+/* Long-form reading ergonomics   */
+/* ------------------------------ */
+
+article,
+.post-content,
+.post-body {
+  max-width: 72ch;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+article,
+.post-content,
+.post-body,
+.post-excerpt {
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}
+
+article p,
+.post-content p,
+.post-body p {
+  margin-top: 0;
+  margin-bottom: 1.15rem;
+}
+
+article ul,
+article ol,
+.post-content ul,
+.post-content ol,
+.post-body ul,
+.post-body ol {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+  padding-left: 1.4rem;
+}
+
+article li,
+.post-content li,
+.post-body li {
+  margin-bottom: 0.45rem;
+}
+
+article h1,
+article h2,
+article h3,
+article h4,
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-body h1,
+.post-body h2,
+.post-body h3,
+.post-body h4 {
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 0.85rem;
+  scroll-margin-top: 1rem;
+}
+
+article h1,
+.post-content h1,
+.post-body h1 {
+  font-size: clamp(1.9rem, 4vw, 2.5rem);
+}
+
+article h2,
+.post-content h2,
+.post-body h2 {
+  font-size: clamp(1.45rem, 3vw, 1.9rem);
+}
+
+article h3,
+.post-content h3,
+.post-body h3 {
+  font-size: clamp(1.2rem, 2.5vw, 1.5rem);
+}
+
+article blockquote,
+.post-content blockquote,
+.post-body blockquote {
+  margin: 1.5rem 0;
+  padding: 0.9rem 1rem;
+  border-left: 4px solid currentColor;
+  background: rgba(0, 0, 0, 0.04);
+}
+
+article hr,
+.post-content hr,
+.post-body hr {
+  margin: 2rem 0;
+}
+
+/* Better wrapping for long strings */
+article,
+.post-content,
+.post-body,
+.post-title a,
+.archive-item a,
+.post-excerpt,
+.post-meta {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+/* ------------------------------ */
+/* Links and focus                */
+/* ------------------------------ */
+
+article a,
+.post-content a,
+.post-body a,
+.post-excerpt a {
+  text-decoration: underline;
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 0.08em;
+}
+
+a:hover {
+  text-decoration-thickness: 0.12em;
+}
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible,
+.topic-btn:focus-visible,
+.archive-search:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 3px;
+}
+
+/* ------------------------------ */
+/* Featured post                  */
+/* ------------------------------ */
+
 .post-featured {
   padding: 1.5rem;
-  border: 1px solid rgba(0,0,0,0.1);
-  border-radius: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 0.75rem;
   margin-bottom: 2rem;
-  background: rgba(0,0,0,0.02);
+  background: rgba(0, 0, 0, 0.03);
+}
+
+.post-featured .post-title,
+.post-featured h2,
+.post-featured h3 {
+  margin-top: 0;
 }
 
 .post-meta {
-  font-size: 0.9rem;
-  opacity: 0.75;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  opacity: 0.85;
   margin-bottom: 0.75rem;
 }
 
@@ -37,44 +218,58 @@ html, body {
   max-width: 65ch;
 }
 
-/* Card grid */
+/* ------------------------------ */
+/* Card grid                      */
+/* ------------------------------ */
+
 .post-grid {
   display: grid;
-  gap: 1.5rem;
+  grid-template-columns: 1fr;
+  gap: 1rem;
   margin-bottom: 2rem;
 }
 
-/* 1 column on mobile, 2 on tablet+ */
 @media (min-width: 768px) {
   .post-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
   }
 }
 
 .post-card {
   padding: 1rem;
-  border: 1px solid rgba(0,0,0,0.08);
-  border-radius: 0.5rem;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 0.75rem;
+  background: rgba(0, 0, 0, 0.015);
 }
 
-/* Long titles: wrap safely */
-.post-title a,
-.archive-item a {
-  word-break: break-word;
-  overflow-wrap: anywhere;
+.post-card .post-title,
+.post-card h2,
+.post-card h3 {
+  margin-top: 0;
+  line-height: 1.35;
 }
 
-/* Archive search */
+/* ------------------------------ */
+/* Archive search                 */
+/* ------------------------------ */
+
 .archive-search {
   width: 100%;
   max-width: 32rem;
-  padding: 0.6rem;
-  margin: 1rem 0;
-  border: 1px solid rgba(0,0,0,0.2);
-  border-radius: 0.4rem;
+  min-height: 44px;
+  padding: 0.7rem 0.85rem;
+  margin: 1rem 0 1.25rem;
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  border-radius: 0.5rem;
+  font: inherit;
+  line-height: 1.4;
 }
 
-/* Archive list */
+/* ------------------------------ */
+/* Archive list                   */
+/* ------------------------------ */
+
 .archive-list {
   list-style: none;
   padding: 0;
@@ -82,15 +277,21 @@ html, body {
 }
 
 .archive-item {
-  padding: 0.6rem 0;
-  border-bottom: 1px solid rgba(0,0,0,0.05);
+  padding: 0.8rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
 }
 
-/* Date wraps nicely on mobile */
+.archive-item a {
+  display: inline-block;
+  line-height: 1.5;
+}
+
 .archive-date {
-  font-size: 0.85rem;
-  opacity: 0.7;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  opacity: 0.8;
   margin-left: 0.5rem;
+  white-space: nowrap;
 }
 
 @media (max-width: 480px) {
@@ -98,10 +299,14 @@ html, body {
     display: block;
     margin-left: 0;
     margin-top: 0.25rem;
+    white-space: normal;
   }
 }
 
-/* Topics */
+/* ------------------------------ */
+/* Topic buttons                  */
+/* ------------------------------ */
+
 .topic-grid {
   display: flex;
   flex-wrap: wrap;
@@ -114,11 +319,41 @@ html, body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 44px; /* mobile tap target */
-  padding: 0.35rem 0.75rem;
+  min-height: 44px;
+  padding: 0.5rem 0.85rem;
+  border-radius: 999px;
+  line-height: 1.3;
+  text-align: center;
 }
 
-/* Screen reader utility */
+/* ------------------------------ */
+/* Tables and embedded overflow   */
+/* ------------------------------ */
+
+table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+}
+
+pre,
+code {
+  overflow-wrap: normal;
+  word-break: normal;
+}
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+  padding: 0.9rem 1rem;
+}
+
+/* ------------------------------ */
+/* Screen reader utility          */
+/* ------------------------------ */
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -126,39 +361,68 @@ html, body {
   padding: 0;
   margin: -1px;
   overflow: hidden;
-  clip: rect(0,0,0,0);
+  clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
 }
 
-/* existing CSS you already have */
-.lede { ... }
-.hint { ... }
+/* ------------------------------ */
+/* Motion preferences             */
+/* ------------------------------ */
 
-.post-featured { ... }
+@media (prefers-reduced-motion: reduce) {
+  html:focus-within {
+    scroll-behavior: auto;
+  }
 
-.post-grid { ... }
-
-/* etc */
-
-/* Screen reader utility */
-.sr-only { ... }
-
-/* ---------------------------------- */
-/* ADD NEW ACCESSIBILITY LAYER BELOW  */
-/* ---------------------------------- */
-
-/* Long-form reading ergonomics */
-article,
-.post-content,
-.post-body {
-  max-width: 72ch;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
 
-article {
-  font-size: 1.125rem;
-  line-height: 1.7
+/* ------------------------------ */
+/* Mobile refinements             */
+/* ------------------------------ */
+
+@media (max-width: 767px) {
+  article,
+  .post-content,
+  .post-body {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  article,
+  .post-content,
+  .post-body,
+  .post-excerpt {
+    font-size: 1rem;
+    line-height: 1.8;
+  }
+
+  .post-featured,
+  .post-card {
+    padding: 1rem;
+  }
+
+  .post-meta {
+    font-size: 0.92rem;
+  }
+}
+
+/* ------------------------------ */
+/* Large screen comfort           */
+/* ------------------------------ */
+
+@media (min-width: 1100px) {
+  article,
+  .post-content,
+  .post-body {
+    max-width: 74ch;
+  }
+}
