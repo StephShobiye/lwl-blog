@@ -7,7 +7,7 @@ tags: [ALN, Wales, SEND, EOTAS, Early Intervention, Parent Carers]
 description: "What happened at our first cross-sector community briefing and why early navigation matters for families navigating the ALN system."
 ---
 
-# Prevention, Bridging and Progression in the ALN System
+
 ## What happened at our first cross-sector community briefing
 
 Learn Without Limits CIC hosted its first cross-sector community briefing, bringing together voices across education, health, community support and lived experience.
