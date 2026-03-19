@@ -7,14 +7,13 @@ tags: [ALN, Wales, SEND, EOTAS, Early Intervention, Parent Carers]
 description: "What happened at our first cross-sector community briefing and why early navigation matters for families navigating the ALN system."
 ---
 
-
 ## What happened at our first cross-sector community briefing
 
 Learn Without Limits CIC hosted its first cross-sector community briefing, bringing together voices across education, health, community support and lived experience.
 
 What was planned as a short 40-minute session became something more significant:
 
-The start of a shared conversation about where the ALN system is breaking down and how earlier support can change outcomes for families.
+the start of a shared conversation about where the ALN system is breaking down and how earlier support can change outcomes for families.
 
 ---
 
@@ -48,7 +47,7 @@ When you are supporting a child with additional needs, that delay matters.
 It is often the difference between:
 
 - early resolution
-- and full escalation into dispute or crisis
+- full escalation into dispute or crisis
 
 ---
 
@@ -84,15 +83,15 @@ The session introduced the Learn Without Limits approach, focused on key navigat
 
 ### 🟢 Prevent
 
-Supporting families to understand and navigate the system earlier, before issues escalate
+Supporting families to understand and navigate the system earlier, before issues escalate.
 
 ### 🟡 Bridge
 
-Providing short-term support and shared learning where education has begun to break down
+Providing short-term support and shared learning where education has begun to break down.
 
 ### 🔵 Progress
 
-Enabling pathways back into education, training and longer-term outcomes
+Enabling pathways back into education, training and longer-term outcomes.
 
 This typically involves return to statutory education or further education provision, which sits outside the direct delivery of Learn Without Limits.
 
@@ -123,7 +122,7 @@ It is a stabilising phase that helps prevent long-term disengagement.
 
 ---
 
-## 🧠 More than a project — this is infrastructure
+## 🧠 More than a project: this is infrastructure
 
 ![Diagram showing how community insight feeds into tools, digital infrastructure and system-level learning](/assets/images/community-insight-infrastructure.jpg)
 
@@ -149,7 +148,7 @@ This creates a continuous loop:
 
 One of the most significant aspects of the session was the mix of perspectives in the room.
 
-Parent carers, practitioners and professionals engaged in a shared conversation around the same system challenges — something that does not often happen in practice.
+Parent carers, practitioners and professionals engaged in a shared conversation around the same system challenges, something that does not often happen in practice.
 
 The discussion included input from:
 
@@ -221,7 +220,7 @@ We are actively looking to collaborate with:
 - technical collaborators
 - funders and sponsors aligned with early intervention
 
-There is a clear appetite for doing things differently — and earlier.
+There is a clear appetite for doing things differently, and earlier.
 
 ---
 
