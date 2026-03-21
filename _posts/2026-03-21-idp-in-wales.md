@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "IDP in Wales Explained: A Complete Parent Guide to Individual Development Plans"
-date: 2026-03-22
-categories: [ALN, IDP, Wales]
+date: 2026-03-21 16:00:00 +0000
 permalink: /idp-in-wales-explained/
-description: "A complete parent-friendly guide to Individual Development Plans (IDPs) in Wales. Learn what an IDP is, how to request one, what must be included, and what to do if things go wrong."
 ---
 
 # IDP in Wales Explained  
