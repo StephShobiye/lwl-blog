@@ -40,6 +40,20 @@ permalink: /2025/11/idp-series-what-must-be-included-in-idp.html
 </ul>
 <p data-end="1452" data-start="1317">This article is <strong data-end="1369" data-start="1333">not about blaming schools or LAs</strong>.<br data-end="1373" data-start="1370" />
 It is about clarity, partnership, and giving every child the plan they deserve.</p>
+
+<p>This article is part of our complete guide to Individual Development Plans (IDPs) in Wales.</p>
+<p>➡️ Start here: IDP in Wales explained<br />
+<a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/</a></p>
+<p>Related articles:</p>
+<ul>
+<li>How to request an IDP<br />
+<a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/</a></li>
+<li>Health and social care in IDPs<br />
+<a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/</a></li>
+<li>Private diagnoses and IDPs<br />
+<a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/</a></li>
+</ul>
+
 <hr data-end="1457" data-start="1454" />
 <h1 data-end="1519" data-start="1459"><strong data-end="1519" data-start="1461">1. The Legal Position: An IDP Must Follow the ALN Code</strong></h1>
 <p data-end="1541" data-start="1521">The ALN Code states:</p>
@@ -937,3 +951,18 @@ a’r ffordd orau i’w cefnogi.”<br data-end="1996" data-start="1993" />
 
 </p><p data-end="8687" data-start="8616">Os na ellir diwygio lefel ysgol, gall rhiant ofyn i’r ALl gynnal y CTP.<br /><br /><br />=====================================================================<br /><br /><br /></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKouog6ika3frk9QEuczsnq51buQgACrLVwlzfAgYQtepMDGrfv5ZHtYhEolg-jXqbqsm47m-k0BQb0einlCIZG3inB6jYDf2gHV83BDtizn7TmQy2loeSfxXTkAvO5exgiaJY8r8hQQrIoaWqAX019bfM6eSfyL-Y3ngcxNLJpTPFUNAjG3otXXfsouzs/s1024/LearnWithoutLimits_Badge.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="1024" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKouog6ika3frk9QEuczsnq51buQgACrLVwlzfAgYQtepMDGrfv5ZHtYhEolg-jXqbqsm47m-k0BQb0einlCIZG3inB6jYDf2gHV83BDtizn7TmQy2loeSfxXTkAvO5exgiaJY8r8hQQrIoaWqAX019bfM6eSfyL-Y3ngcxNLJpTPFUNAjG3otXXfsouzs/s320/LearnWithoutLimits_Badge.png" width="320" /></a><br /><br />This article provides general information about the ALN Act and ALN Code in Wales.<br data-end="1939" data-start="1936" />
 It is not legal advice. For individual cases, families may wish to seek independent specialist advice if needed.</div><br />
+
+<hr />
+
+<h2>Continue reading</h2>
+<ul>
+<li><a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">IDP in Wales explained</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/">School vs Local Authority IDPs</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and the IDP process</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP in Wales</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">A parent’s guide to requesting an IDP</a></li>
+</ul>
