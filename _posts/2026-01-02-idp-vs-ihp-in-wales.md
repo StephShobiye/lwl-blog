@@ -8,6 +8,7 @@ permalink: /2026/01/idp-vs-ihp-in-wales.html
 
 <p>&nbsp;</p><h1 data-end="285" data-start="258"><strong data-end="283" data-start="260">IDP vs IHP in Wales<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEgqiAaMbR8MM9jWSQl1aeCa31p4Y5hciLhXagFiL3TqfYt1EdQOKlv-L0c7yfhyYTlWthnCsWEzgCw2Caw4XmC-eCTcSKQpS7W637YCsFEktziITJC9vShapYzXJW0Pq__LCRQ8M_I5VwyGLnivEAim03-JcC-EZo1ylN0npzUU2sVOVHR7l3lWiswVTpeH" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="1536" data-original-width="1024" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEgqiAaMbR8MM9jWSQl1aeCa31p4Y5hciLhXagFiL3TqfYt1EdQOKlv-L0c7yfhyYTlWthnCsWEzgCw2Caw4XmC-eCTcSKQpS7W637YCsFEktziITJC9vShapYzXJW0Pq__LCRQ8M_I5VwyGLnivEAim03-JcC-EZo1ylN0npzUU2sVOVHR7l3lWiswVTpeH" width="160" /></a></div><br /></strong></h1>
 <h3 data-end="376" data-start="286"><em data-end="376" data-start="290">A Clear Guide for Parents on the Difference Between Education Plans and Health Plans</em></h3>
+<p><strong>Also read:</strong> <a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">IDP in Wales Explained</a></p>
 <p data-end="597" data-start="378">Many parents in <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Wales&amp;bbid=6470633950786405900&amp;bpid=286811146964177772" target="_blank">Wales</a> read advice online that is written for families in <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=England&amp;bbid=6470633950786405900&amp;bpid=286811146964177772" target="_blank">England</a>. This causes understandable confusion because the <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=English+EHCP+system&amp;bbid=6470633950786405900&amp;bpid=286811146964177772" target="_blank">English EHCP system</a> is very different from the <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Welsh+Additional+Learning+Needs+system&amp;bbid=6470633950786405900&amp;bpid=286811146964177772" target="_blank">Welsh Additional Learning Needs system</a>.</p>
 <p data-end="751" data-start="599">One of the most common misunderstandings is the difference between an <strong data-end="706" data-start="669">Individual Development Plan (IDP)</strong> and an <strong data-end="750" data-start="714">Individual Healthcare Plan (IHP)</strong>.</p>
 <p data-end="961" data-start="753">These two documents serve very different purposes, follow different laws and offer different protections. Here is a simple clear guide explaining what each one does and when your child might need one or both.</p>
@@ -45,7 +46,7 @@ permalink: /2026/01/idp-vs-ihp-in-wales.html
 </li>
 </ul>
 <p data-end="1825" data-start="1762">The IDP is about <strong data-end="1824" data-start="1779">learning, access and educational progress</strong>.</p>
-<p data-end="1966" data-start="1827">It is similar to an <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=EHCP+in+England&amp;bbid=6470633950786405900&amp;bpid=286811146964177772" target="_blank">EHCP in England</a>, but it is not the same and parents should NEVER rely on English EHCP guidance when understanding IDPs.<br /><br />For more information about what should be included in an IDP, please see our previous article here&nbsp;<a href="https://learnwithoutlimitscic.blogspot.com/2025/11/idp-series-what-must-be-included-in-idp.html">https://learnwithoutlimitscic.blogspot.com/2025/11/idp-series-what-must-be-included-in-idp.html</a></p>
+<p data-end="1966" data-start="1827">It is similar to an <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=EHCP+in+England&amp;bbid=6470633950786405900&amp;bpid=286811146964177772" target="_blank">EHCP in England</a>, but it is not the same and parents should NEVER rely on English EHCP guidance when understanding IDPs.<br /><br />For more information about what should be included in an IDP, please see our previous article here&nbsp;<a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></p>
 <hr data-end="1971" data-start="1968" />
 <h1 data-end="2005" data-start="1973"><strong data-end="2005" data-start="1975">2. What is an IHP in Wales</strong></h1>
 <p data-end="2202" data-start="2007">The <strong data-end="2047" data-start="2011">Individual Healthcare Plan (IHP)</strong> is the document used to support a child’s medical needs in school.<br data-end="2117" data-start="2114" />
@@ -249,7 +250,7 @@ The IHP is the plan that ensures a child can <em data-end="3436" data-start="342
 <p data-end="5597" data-start="5551">They are separate but must inform one another.</p>
 <p data-end="5808" data-start="5599">If a child has a medical condition, the IHP explains what the condition is and what support is needed.<br data-end="5704" data-start="5701" />
 If that condition impacts learning or attendance, the IDP explains what educational support is required.</p>
-<p data-end="5888" data-start="5810">Most children with both ALN and medical needs require <strong data-end="5887" data-start="5864">both plans together</strong>.<br /><br />For more information about how exactly health information feeds into the IDP please read our previous article here&nbsp;<a href="https://learnwithoutlimitscic.blogspot.com/2025/11/idp-series-health-social-care.html">https://learnwithoutlimitscic.blogspot.com/2025/11/idp-series-health-social-care.html</a><br /><br />If your child has a private diagnosis, we've explained how that feeds into the IDP process,&nbsp;<a href="https://learnwithoutlimitscic.blogspot.com/2025/11/idp-series-private-diagnoses-and-idp.html" target="_blank">Private Diagnoses and IDP</a></p>
+<p data-end="5888" data-start="5810">Most children with both ALN and medical needs require <strong data-end="5887" data-start="5864">both plans together</strong>.<br /><br />For more information about how exactly health information feeds into the IDP please read our previous article here&nbsp;<a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a><br /><br />If your child has a private diagnosis, we've explained how that feeds into the IDP process,&nbsp;<a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp.html" target="_blank">Private Diagnoses and IDP</a></p>
 <hr data-end="5893" data-start="5890" />
 <h1 data-end="5950" data-start="5895"><strong data-end="5950" data-start="5897">8. For Families Who Have Read English EHCP Advice</strong></h1>
 <p data-end="5974" data-start="5952">English EHCPs combine:</p>
@@ -324,3 +325,14 @@ We do not provide clinical medical or legal advice.</p>
 </li>
 </ul>
 <p data-end="7506" data-start="7428">Parents should always use common sense when deciding which service to contact.</p>
+
+<hr />
+<h2>IDP in Wales – Full Guide Series</h2>
+<p><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></p>
+<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></p>
+<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/">School vs Local Authority IDPs</a></p>
+<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></p>
+<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></p>
+<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and IDPs</a></p>
+<p><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP</a></p>
+<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">Parent's Guide to requesting an IDP</a></p>
