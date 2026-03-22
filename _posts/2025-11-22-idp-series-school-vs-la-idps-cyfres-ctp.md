@@ -7,11 +7,25 @@ permalink: /2025/11/idp-series-school-vs-la-idps-cyfres-ctp.html
 ---
 
 <h1 style="text-align: left;">&nbsp;<br /><strong data-end="309" data-start="227"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjTz6qa5xg0QCqsKIEDo0rhy_WQyA3niIG-_AY44aq-JQQHoQHFWUO7yZxZiQ17uQihEgT3blluCnxGmQvAK-87g1Aw5eFPTujtbTzZxsGkwlGqvpukzZ-US9JsgXmzPmhhWl1SpM8n_X2zE8-SIcmVZUrhu3AAHZRF2OPWupZIb5Lo6H9PK7X1SpiKwvqf" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="1536" data-original-width="1024" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEjTz6qa5xg0QCqsKIEDo0rhy_WQyA3niIG-_AY44aq-JQQHoQHFWUO7yZxZiQ17uQihEgT3blluCnxGmQvAK-87g1Aw5eFPTujtbTzZxsGkwlGqvpukzZ-US9JsgXmzPmhhWl1SpM8n_X2zE8-SIcmVZUrhu3AAHZRF2OPWupZIb5Lo6H9PK7X1SpiKwvqf" width="160" /></a></div><br /><br />School IDPs, LA IDPs, EHE and EOTAS — What Every Parent in Wales Needs to Know<br /></strong></h1>
+
+<p>This article is part of our complete guide to Individual Development Plans (IDPs) in Wales.</p>
+<p>➡️ Start here: IDP in Wales explained<br />
+<a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/</a></p>
+<p>You may also want to read:</p>
+<ul>
+<li>What must be included in an IDP<br />
+<a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/</a></li>
+<li>What makes a good IDP review<br />
+<a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/</a></li>
+<li>How to request an IDP<br />
+<a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/</a></li>
+</ul>
+
 <hr data-end="314" data-start="311" />
 <h2 data-end="398" data-start="316">1. What Is the Difference Between a School-Maintained and an LA-Maintained IDP?</h2>
 <p data-end="580" data-start="400">Under the <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Additional+Learning+Needs+and+Education+Tribunal+%28Wales%29+Act+2018&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">Additional Learning Needs and Education Tribunal (Wales) Act 2018</a> (“<a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=ALNET+Act+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">ALNET Act</a>”), only one body at a time can legally maintain a child’s <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Individual+Development+Plan+Wales+education&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">Individual Development Plan</a> (<a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Individual+Development+Plan+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">IDP</a>):</p>
 <p data-end="748" data-start="582">• School – when needs can reasonably be met within school resources<br data-end="652" data-start="649" />
-• <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Local+Authority+education+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">Local Authority</a> (<a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Local+Authority+education+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">LA</a>) – when needs go beyond school capacity, or when <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=EOTAS+Wales+education&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">EOTAS</a> is being considered</p>
+• <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Local+Authority+education+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">Local Authority</a> (<a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=Local+Authority+education+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">LA</a>) – when needs go beyond school capacity, or when <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> is being considered</p>
 <p data-end="827" data-start="750">Legal basis:<br data-end="765" data-start="762" />
 <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=ALNET+Act+2018+sections+10-14&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">ALNET Act 2018, sections 10–14</a><br data-end="798" data-start="795" />
 <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=ALN+Code+2021+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">ALN Code 2021</a>, Chapters 11–13</p>
@@ -41,12 +55,12 @@ permalink: /2025/11/idp-series-school-vs-la-idps-cyfres-ctp.html
 <hr data-end="2307" data-start="2304" />
 <h2 data-end="2374" data-start="2309">3. EOTAS and the School Roll: Why the LA Must Maintain the IDP</h2>
 <p data-end="2393" data-start="2376">Many parents ask:</p>
-<p data-end="2483" data-start="2395">“My child is EOTAS but still on the school roll. Why can’t the school maintain the IDP?”</p>
+<p data-end="2483" data-start="2395">“My child is <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> but still on the school roll. Why can’t the school maintain the IDP?”</p>
 <p data-end="2493" data-start="2485">Because:</p>
-<p data-end="2540" data-start="2495">A school has no legal power to arrange EOTAS.</p>
+<p data-end="2540" data-start="2495">A school has no legal power to arrange <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a>.</p>
 <p data-end="2707" data-start="2542">Legal basis:<br data-end="2557" data-start="2554" />
 ALNET Act 2018, s.14(6) – only the LA can determine education “otherwise than at school”<br data-end="2648" data-start="2645" />
-ALN Code 13.14 – EOTAS always requires an LA-maintained IDP</p>
+ALN Code 13.14 – <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> always requires an LA-maintained IDP</p>
 <p data-end="2725" data-start="2709">Even if a child:</p>
 <p data-end="2841" data-start="2727">• stays on roll<br data-end="2745" data-start="2742" />
 • attends part-time<br data-end="2767" data-start="2764" />
@@ -54,7 +68,7 @@ ALN Code 13.14 – EOTAS always requires an LA-maintained IDP</p>
 • receives peripatetic teaching</p>
 <p data-end="2873" data-start="2843">…the LA must maintain the IDP.</p>
 <p data-end="2893" data-start="2875">Practical reasons:</p>
-<p data-end="3053" data-start="2895">EOTAS requires commissioning of tutors, transport, risk assessments, therapeutic support, and specialist placements – all of which fall outside school powers.</p>
+<p data-end="3053" data-start="2895"><a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> requires commissioning of tutors, transport, risk assessments, therapeutic support, and specialist placements – all of which fall outside school powers.</p>
 <hr data-end="3058" data-start="3055" />
 <h2 data-end="3129" data-start="3060">4. What if a Child Has Always Been Electively Home Educated (EHE)?</h2>
 <p data-end="3188" data-start="3131">A child who has always been <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=EHE+education+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">EHE</a> can still receive an IDP.</p>
@@ -67,7 +81,7 @@ ALN Code 13.21 – LAs maintain IDPs for EHE children with ALN</p>
 <p data-end="3765" data-start="3507">• EHE does not remove a child’s rights under the ALN system<br data-end="3569" data-start="3566" />
 • The LA cannot refuse because the child is home educated<br data-end="3629" data-start="3626" />
 • The LA must consider whether home education can meet the child’s needs<br data-end="3704" data-start="3701" />
-• If not, the LA must consider whether EOTAS is appropriate</p>
+• If not, the LA must consider whether <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> is appropriate</p>
 <hr data-end="3770" data-start="3767" />
 <h2 data-end="3822" data-start="3772">5. Should Parents Ask for an LA-Maintained IDP?</h2>
 <p data-end="3834" data-start="3824">Often yes.</p>
@@ -78,7 +92,7 @@ ALN Code 13.21 – LAs maintain IDPs for EHE children with ALN</p>
 • reduced timetables or <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=EBSA+education+Wales&amp;bbid=6470633950786405900&amp;bpid=4331044644240426504" target="_blank">EBSA</a><br data-end="4055" data-start="4052" />
 • inability to attend school<br data-end="4086" data-start="4083" />
 • complex behavioural, sensory or trauma profiles<br data-end="4138" data-start="4135" />
-• EOTAS<br data-end="4148" data-start="4145" />
+• <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a><br data-end="4148" data-start="4145" />
 • hybrid or off-site provision<br data-end="4181" data-start="4178" />
 • significant health or social care involvement</p>
 <p data-end="4366" data-start="4230">ALN Code 12.9: schools must refer where needs exceed reasonable capacity.<br data-end="4306" data-start="4303" />
@@ -103,11 +117,11 @@ ALNET Act 2018, s.14(1)(b): parents may ask the LA directly.</p>
 <p data-end="5902" data-start="5474">Situation | Maintained by | Legal Basis<br data-end="5516" data-start="5513" />
 Needs met by school resources | School | ALN Code 11.4<br data-end="5573" data-start="5570" />
 Needs exceed school capacity | LA | ALN Code 12.9<br data-end="5625" data-start="5622" />
-Any EOTAS arrangement | LA | ALNET Act 14(6)<br data-end="5672" data-start="5669" />
-Child on roll but in EOTAS | LA | ALN Code 13.14<br data-end="5723" data-start="5720" />
+Any <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> arrangement | LA | ALNET Act 14(6)<br data-end="5672" data-start="5669" />
+Child on roll but in <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> | LA | ALN Code 13.14<br data-end="5723" data-start="5720" />
 Parent requests LA involvement | LA | ALNET Act 14(1)(b)<br data-end="5782" data-start="5779" />
 Child educated at home (EHE) | LA | ALN Code 12.59–12.69<br data-end="5841" data-start="5838" />
-Home cannot meet needs | LA (consider EOTAS) | ALN Code 13.21</p>
+Home cannot meet needs | LA (consider <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a>) | ALN Code 13.21</p>
 <h1 data-end="5958" data-start="5909">--------------------------------------------------------------</h1>
 <h1 style="text-align: left;"><strong data-end="6080" data-start="5960">CTPau Ysgol, CTPau ALl, Addysg Gartref ac Addysg y Tu Allan i’r Ysgol (EOTAS) — Beth Mae Rhieni Cymru Angen Ei Wybod</strong></h1>
 <hr data-end="6085" data-start="6082" />
@@ -142,19 +156,19 @@ Cod ADY 2021, Penodau 11–13</p>
 <hr data-end="7827" data-start="7824" />
 <h2 data-end="7898" data-start="7829">3. EOTAS a’r gofrestr ysgol: pam mae’n rhaid i’r ALl gynnal y CTP?</h2>
 <p data-end="7925" data-start="7900">Mae rhieni’n aml yn holi:</p>
-<p data-end="8007" data-start="7927">“Mae fy mhlentyn ar gofrestr ond yn EOTAS – pam nad yw’r ysgol yn cynnal y CTP?”</p>
+<p data-end="8007" data-start="7927">“Mae fy mhlentyn ar gofrestr ond yn <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> – pam nad yw’r ysgol yn cynnal y CTP?”</p>
 <p data-end="8017" data-start="8009">Yr ateb:</p>
-<p data-end="8079" data-start="8019">Nid oes gan ysgolion unrhyw bŵer cyfreithiol i drefnu EOTAS.</p>
+<p data-end="8079" data-start="8019">Nid oes gan ysgolion unrhyw bŵer cyfreithiol i drefnu <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a>.</p>
 <p data-end="8242" data-start="8081">Sail gyfreithiol:<br data-end="8101" data-start="8098" />
-Deddf ADY 2018, s.14(6) – dim ond yr ALl sy’n penderfynu ar EOTAS<br data-end="8169" data-start="8166" />
-Cod ADY 13.14 – rhaid i bob CTP sy’n enwi EOTAS gael ei gynnal gan yr ALl</p>
+Deddf ADY 2018, s.14(6) – dim ond yr ALl sy’n penderfynu ar <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a><br data-end="8169" data-start="8166" />
+Cod ADY 13.14 – rhaid i bob CTP sy’n enwi <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> gael ei gynnal gan yr ALl</p>
 <p data-end="8289" data-start="8244">Mae hyn yn wir hyd yn oed os yw’r plentyn yn:</p>
 <p data-end="8410" data-start="8291">• aros ar gofrestr<br data-end="8312" data-start="8309" />
 • mynychu’n rhan-amser<br data-end="8337" data-start="8334" />
 • cael darpariaeth gymysg<br data-end="8365" data-start="8362" />
 • derbyn tiwtora neu ddarpariaeth arbenigol</p>
 <p data-end="8444" data-start="8412">Mae’r ALl bob amser yn gyfrifol.</p>
-<p data-end="8598" data-start="8446">Rhesymau ymarferol: mae EOTAS yn gofyn am gomisiynu tiwtoriaid, cludiant, asesiadau risg, cefnogaeth therapiwtig ac ati, nad yw’n rhan o bwerau’r ysgol.</p>
+<p data-end="8598" data-start="8446">Rhesymau ymarferol: mae <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> yn gofyn am gomisiynu tiwtoriaid, cludiant, asesiadau risg, cefnogaeth therapiwtig ac ati, nad yw’n rhan o bwerau’r ysgol.</p>
 <hr data-end="8603" data-start="8600" />
 <h2 data-end="8664" data-start="8605">4. Beth os yw plentyn wedi derbyn Addysg Gartref erioed?</h2>
 <p data-end="8716" data-start="8666">Gall plentyn sydd wedi bod yn EHE erioed gael CTP.</p>
@@ -167,7 +181,7 @@ Cod ADY 13.21 – yr ALl sy’n cynnal CTP ar gyfer plant EHE ag ADY</p>
 <p data-end="9180" data-start="8994">• Nid yw EHE yn dileu hawliau<br data-end="9026" data-start="9023" />
 • Ni all yr ALl wrthod oherwydd addysg gartref<br data-end="9075" data-start="9072" />
 • Rhaid i’r ALl benderfynu a yw addysg gartref yn gallu diwallu anghenion<br data-end="9151" data-start="9148" />
-• Os na, rhaid ystyried EOTAS</p>
+• Os na, rhaid ystyried <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a></p>
 <hr data-end="9185" data-start="9182" />
 <h2 data-end="9243" data-start="9187">5. A ddylai rhieni ofyn am CTP a gynhelir gan yr ALl?</h2>
 <p data-end="9265" data-start="9245">Yn aml iawn, dylent.</p>
@@ -180,7 +194,7 @@ Cod ADY 13.21 – yr ALl sy’n cynnal CTP ar gyfer plant EHE ag ADY</p>
 • therapi<br data-end="9504" data-start="9501" />
 • cymorth amlasiantaeth<br data-end="9530" data-start="9527" />
 • EBSA neu anallu i fynychu<br data-end="9560" data-start="9557" />
-• EOTAS<br data-end="9570" data-start="9567" />
+• <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a><br data-end="9570" data-start="9567" />
 • cymhlethdodau synhwyraidd / ymddygiadol<br data-end="9614" data-start="9611" />
 • iechyd neu ofal cymdeithasol</p>
 <p data-end="9787" data-start="9646">Cod ADY 12.9: rhaid cyfeirio pan fo anghenion y tu hwnt i gapasiti’r ysgol.<br data-end="9724" data-start="9721" />
@@ -204,8 +218,23 @@ Deddf ADY s.14(1)(b): gall rhieni ofyn i’r ALl yn uniongyrchol.</p>
 <p data-end="10950" data-start="10514">Sefyllfa | Pwy sy’n Cynnal | Sail Gyfreithiol<br data-end="10562" data-start="10559" />
 Anghenion o fewn capasiti’r ysgol | Ysgol | Cod ADY 11.4<br data-end="10621" data-start="10618" />
 Anghenion y tu hwnt i gapasiti’r ysgol | ALl | Cod ADY 12.9<br data-end="10683" data-start="10680" />
-Unrhyw EOTAS | ALl | Deddf ADY 14(6)<br data-end="10722" data-start="10719" />
-Ar gofrestr ond yn EOTAS | ALl | Cod ADY 13.14<br data-end="10771" data-start="10768" />
+Unrhyw <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> | ALl | Deddf ADY 14(6)<br data-end="10722" data-start="10719" />
+Ar gofrestr ond yn <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a> | ALl | Cod ADY 13.14<br data-end="10771" data-start="10768" />
 Rhiant yn gwneud cais | ALl | Deddf ADY 14(1)(b)<br data-end="10822" data-start="10819" />
 Plentyn EHE ag ADY | ALl | Cod ADY 12.59–12.69<br data-end="10871" data-start="10868" />
-Addysg gartref ddim yn diwallu anghenion | ALl (ystyried EOTAS) | Cod ADY 13.21</p>
+Addysg gartref ddim yn diwallu anghenion | ALl (ystyried <a href="https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/">EOTAS</a>) | Cod ADY 13.21</p>
+
+<hr />
+
+<h2>Continue reading</h2>
+<ul>
+<li><a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">IDP in Wales explained</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyfres-ctp/">School vs Local Authority IDPs</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and the IDP process</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP in Wales</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">A parent’s guide to requesting an IDP</a></li>
+</ul>
