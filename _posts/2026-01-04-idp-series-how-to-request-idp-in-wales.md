@@ -11,6 +11,20 @@ permalink: /2026/01/idp-series-how-to-request-idp-in-wales.html
 <p data-end="755" data-start="551">Under the <strong data-end="630" data-start="561">Additional Learning Needs and Education Tribunal (Wales) Act 2018</strong>, every child or young person with Additional Learning Needs (ALN) is entitled to an <strong data-end="752" data-start="715">Individual Development Plan (IDP)</strong>.</p>
 <p data-end="1035" data-start="757">But parents often tell us they feel confused about <em data-end="814" data-start="808">when</em> to request an IDP, <em data-end="839" data-start="834">how</em> to do it, and <em data-end="875" data-start="854">which support level</em> they should be asking for. Schools sometimes talk about “universal provision”, “IEPs” or “IHPs”, and it isn’t always obvious how these fit into the ALN system.</p>
 <p data-end="1277" data-start="1037">This guide sets out the legal position clearly — including the critical point that <strong data-end="1181" data-start="1120">support must be based on educational needs, NOT diagnosis</strong> — and includes a legally correct <strong data-end="1237" data-start="1215">IDP request letter</strong> for both schools and local authorities.</p>
+
+<p>This article is part of our complete guide to Individual Development Plans (IDPs) in Wales.</p>
+<p>➡️ Start here: IDP in Wales explained<br />
+<a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/</a></p>
+<p>You may also find helpful:</p>
+<ul>
+<li>What must be included in an IDP<br />
+<a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/</a></li>
+<li>A parent’s guide to requesting an IDP<br />
+<a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/</a></li>
+<li>What makes a good IDP review<br />
+<a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/</a></li>
+</ul>
+
 <hr data-end="1282" data-start="1279" />
 <h1 data-end="1358" data-start="1284"><strong data-end="1358" data-start="1286">1. Support Is Based on Needs, Not Diagnosis (The Law Is Unambiguous)</strong></h1>
 <p data-end="1391" data-start="1360">Schools sometimes tell parents:</p>
@@ -127,7 +141,7 @@ An IHP <strong data-end="3160" data-start="3150">cannot</strong> substitute for 
 </ul>
 <p data-end="4254" data-start="4056">Schools must consider <strong data-end="4085" data-start="4078">all</strong> evidence, including that provided by parents. The ALN Code explicitly states that a child's needs must be understood <strong data-end="4226" data-start="4203">across environments</strong>, not just in the classroom.</p>
 <h3 data-end="4263" data-start="4256">⬇ <span style="font-weight: normal;">Below is the link to our article on masking.&nbsp;</span></h3>
-<p data-end="4315" data-start="4264"><b><a href="https://learnwithoutlimitscic.blogspot.com/2025/11/why-so-many-disabled-children-mask-at.html">https://learnwithoutlimitscic.blogspot.com/2025/11/why-so-many-disabled-children-mask-at.html</a></b></p>
+<p data-end="4315" data-start="4264"><b><a href="https://blog.learnwithoutlimitscic.org/2025/11/why-so-many-disabled-children-mask-at.html">https://blog.learnwithoutlimitscic.org/2025/11/why-so-many-disabled-children-mask-at.html</a></b></p>
 <hr data-end="4386" data-start="4383" />
 <h1 data-end="4420" data-start="4388"><strong data-end="4420" data-start="4390">4. Who Can Request an IDP?</strong></h1>
 <p data-end="4489" data-start="4422">Under <strong data-end="4457" data-start="4428">Section 21 of the ALN Act</strong>, an IDP request can be made by:</p>
@@ -286,3 +300,18 @@ You do not need proof beyond doubt.</p>
 </li>
 <li data-end="1980" data-start="1898">
 <p data-end="1980" data-start="1900">The LA must act <strong data-end="1935" data-start="1916">“without delay”</strong> when taking over from a school (Code 12.25).</p></li></ul>
+
+<hr />
+
+<h2>Continue reading</h2>
+<ul>
+<li><a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">IDP in Wales explained</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/">School vs Local Authority IDPs</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and the IDP process</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP in Wales</a></li>
+<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">A parent’s guide to requesting an IDP</a></li>
+</ul>
