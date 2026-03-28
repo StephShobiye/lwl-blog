@@ -191,7 +191,7 @@ Ask:
 - Is this a reconsideration?  
 - What stage are we at?  
 
-👉 https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html  
+👉 [What Schools Must Do When They Suspect ALN in Wales](https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html)
 
 ---
 
@@ -208,7 +208,7 @@ If needed:
 - request reconsideration  
 - expected timeframe: promptly and usually within 7 weeks  
 
-👉 https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html  
+👉 [ALN Decision-Making Timescales in Wales](https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html)
 
 ---
 
@@ -276,9 +276,9 @@ This might include:
 
 ## Why this matters (post-16)
 
-👉 https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html  
+👉 [EOTAS vs Home Education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html)  
 
-👉 https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html  
+👉 [ALN Decision-Making Timescales in Wales](https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html)  
 
 > **It is often significantly easier to secure post-16 support where an IDP is already in place before the end of Year 11.**
 
@@ -304,19 +304,19 @@ This might include:
 
 ## You do not have to navigate this alone
 
-👉 https://www.facebook.com/groups/learnwithoutlimitscic  
+👉 [Join our parent community](https://www.facebook.com/groups/learnwithoutlimitscic)  
 
 We also offer:
 
 - Monthly online peer support sessions  
 - Parent brunch sessions in Swansea  
 
-👉 https://learnwithoutlimitscic.org/events.en.html  
+👉 [View upcoming events](https://learnwithoutlimitscic.org/events.en.html)  
 
 ---
 
 ## Suggested further reading
 
-- https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html  
-- https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html  
-- https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html  
+- [ALN Decision-Making Timescales in Wales](https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html)  
+- [What Schools Must Do When They Suspect ALN in Wales](https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html)  
+- [EOTAS vs Home Education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html)  
