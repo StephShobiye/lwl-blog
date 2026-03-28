@@ -179,7 +179,7 @@ If ALN is identified:
 - an Individual Development Plan (IDP) should be prepared  
 
 👉 See:  
-[What Exactly Should Be Included in an IDP?](https://blog.learnwithoutlimitscic.org/) *(existing article — IDP cluster)*  
+[What Exactly Should Be Included in an IDP?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-must-be-included-in-idp.html)
 
 If ALN is not identified:
 
@@ -333,9 +333,9 @@ You do not have to work through this process on your own.
 ## Suggested further reading
 
 - [ALN Decision-Making Timescales in Wales (2026 Update)](/2026/03/aln-decision-making-timescales-wales.html)  
-- *(This article is part of our ALN guidance update series and will be published shortly: Can an IDP Be Removed If You Home Educate?)*  
-- *(This article is part of our ALN guidance update series and will be published shortly: EOTAS vs Home Education – What’s the Difference in Law?)*  
-
+- [Can an IDP Be Removed If You Home Educate in Wales?](/2026/03/idp-home-education-wales.html)  
+- [EOTAS vs Home Education in Wales (2026 Update)](/2026/03/eotas-vs-home-education-wales.html)  
+- [How to Challenge an ALN Decision in Wales (2026 Update)](/2026/03/challenge-aln-decision-wales.html)  
 ---
 
 ## References
