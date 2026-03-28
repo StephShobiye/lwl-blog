@@ -6,7 +6,6 @@ last_modified_at: 2026-03-28 10:00:00 +0000
 permalink: /2026/03/aln-decision-making-timescales-wales.html
 ---
 
-# ALN Decision-Making Timescales in Wales  
 ## What changed in March 2026, what the law already said, and what parents can do now
 
 *Last updated: 28 March 2026 following Welsh Government guidance update*
