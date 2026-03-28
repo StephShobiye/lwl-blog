@@ -6,9 +6,6 @@ last_modified_at: 2026-03-28 13:00:00 +0000
 permalink: /2026/03/eotas-vs-home-education-wales.html
 ---
 
-# EOTAS vs Home Education in Wales  
-## What’s the difference in law, and what the 2026 guidance makes clearer
-
 *Last updated: 28 March 2026 following Welsh Government guidance update*
 
 This article explains the current position in Wales only. The SEND system in England operates under a different legal framework.
@@ -104,8 +101,6 @@ The guidance reinforces that:
 
 ## What about IDPs?
 
----
-
 ### Under EOTAS
 
 Where a child has ALN:
@@ -113,16 +108,12 @@ Where a child has ALN:
 - an Individual Development Plan (IDP) should normally be in place  
 - the local authority remains responsible for securing the provision set out in the IDP  
 
----
-
 ### Under Home Education
 
 Where a child has ALN:
 
 - the local authority still has duties to decide whether ALN is present and whether an IDP is required  
 - however, the parent remains responsible for providing education  
-
----
 
 ### What this means in practice
 
@@ -135,8 +126,6 @@ Where a child has ALN:
 
 This is an area where many families experience difficulty in practice.
 
----
-
 ### What the law says (Wales)
 
 In Wales:
@@ -145,8 +134,6 @@ In Wales:
 - After this, learners move into post-16 education (sixth form, FE college, or training)  
 
 This differs from England, which can lead to confusion when parents rely on UK-wide advice.
-
----
 
 ### What we see in practice
 
@@ -159,8 +146,6 @@ Where no IDP is in place:
 - assessments may need to begin at a later stage  
 - support may not be in place at the start of college  
 - transition planning can be more difficult  
-
----
 
 ### Our recommendation
 
@@ -180,8 +165,6 @@ This supports:
 
 Engaging early with Careers Wales can be an important part of planning for post-16 education.
 
----
-
 ### Why this can help
 
 Careers Wales advisers:
@@ -192,8 +175,6 @@ Careers Wales advisers:
 
 Many parents in our community have found this support helpful.
 
----
-
 ### When to start
 
 It is advisable to begin engagement around:
@@ -201,8 +182,6 @@ It is advisable to begin engagement around:
 > **age 14 (Year 10)**
 
 This allows time to explore options and plan appropriately.
-
----
 
 ### Important note for EHE families
 
@@ -212,37 +191,27 @@ Due to service structure and data protection requirements:
 
 This means the parent will normally need to make the first contact.
 
----
-
 ### How to contact Careers Wales
 
 You can find your local Careers Wales contact here:
 
-👉 https://careerswales.gov.wales/contact-us  
+👉 [Contact Careers Wales](https://careerswales.gov.wales/contact-us)
 
 ---
 
 ## Common misunderstandings
 
----
-
 ### “EOTAS and home education are basically the same”
 
 ❌ Not correct  
-
----
 
 ### “If I home educate, the local authority must provide support”
 
 ❌ Not necessarily  
 
----
-
 ### “If my child cannot attend school, I must home educate”
 
 ❌ Not necessarily  
-
----
 
 ### “If I home educate, my child loses their IDP”
 
@@ -273,14 +242,14 @@ You can find your local Careers Wales contact here:
 Understanding these decisions can feel overwhelming, especially if they are being made under pressure.
 
 You are welcome to join our parent community here:  
-👉 https://www.facebook.com/groups/learnwithoutlimitscic  
+👉 [Join our parent community](https://www.facebook.com/groups/learnwithoutlimitscic)
 
 We also offer:
 
 - Monthly online peer support sessions for parents across Wales  
 - Relaxed, face-to-face parent brunch sessions in Swansea  
 
-👉 https://learnwithoutlimitscic.org/events.en.html  
+👉 [View upcoming events](https://learnwithoutlimitscic.org/events.en.html)
 
 You do not have to work through this process on your own.
 
@@ -293,7 +262,8 @@ You do not have to work through this process on your own.
 - [Specialist interventions under EOTAS in Wales](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)  
 - [Can an IDP Be Removed If You Home Educate in Wales?](/2026/03/idp-home-education-wales.html)  
 - [How to Challenge an ALN Decision in Wales (2026 Update)](/2026/03/challenge-aln-decision-wales.html)  
-- [What Schools Must Do When They Suspect ALN in Wales (2026 Update)](/2026/03/what-schools-must-do-aln-wales.html)   
+- [What Schools Must Do When They Suspect ALN in Wales (2026 Update)](/2026/03/what-schools-must-do-aln-wales.html)  
+
 ---
 
 ## References
