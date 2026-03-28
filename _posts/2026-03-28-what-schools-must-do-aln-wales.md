@@ -6,9 +6,6 @@ last_modified_at: 2026-03-28 12:00:00 +0000
 permalink: /2026/03/what-schools-must-do-aln-wales.html
 ---
 
-# What Schools Must Do When They Suspect ALN in Wales  
-## A step-by-step guide based on the 2026 guidance update
-
 *Last updated: 28 March 2026 following Welsh Government guidance update*
 
 This article explains the current position in Wales only. The SEND system in England operates under a different legal framework.
@@ -135,8 +132,7 @@ The school should:
 
 - provide an indicative timescale  
 
-👉 See:  
-[ALN Decision-Making Timescales in Wales (2026 Update)](/2026/03/aln-decision-making-timescales-wales.html)
+👉 [ALN Decision-Making Timescales in Wales (2026 Update)](/2026/03/aln-decision-making-timescales-wales.html)
 
 ---
 
@@ -178,8 +174,7 @@ If ALN is identified:
 
 - an Individual Development Plan (IDP) should be prepared  
 
-👉 See:  
-[What Exactly Should Be Included in an IDP?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-must-be-included-in-idp.html)
+👉 [What exactly should be included in an IDP (with real examples)?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-must-be-included-in-idp.html)
 
 If ALN is not identified:
 
@@ -316,7 +311,7 @@ Understanding the ALN process can feel overwhelming, especially if things are un
 Many parents find it helpful to connect with others who are going through similar experiences.
 
 You are welcome to join our parent community here:  
-👉 https://www.facebook.com/groups/learnwithoutlimitscic  
+👉 [Join our parent community](https://www.facebook.com/groups/learnwithoutlimitscic)
 
 We also offer:
 
@@ -324,7 +319,7 @@ We also offer:
 - Relaxed, face-to-face parent brunch sessions in Swansea  
 
 You can find upcoming sessions here:  
-👉 https://learnwithoutlimitscic.org/events.en.html  
+👉 [View upcoming events](https://learnwithoutlimitscic.org/events.en.html)
 
 You do not have to work through this process on your own.
 
@@ -336,6 +331,7 @@ You do not have to work through this process on your own.
 - [Can an IDP Be Removed If You Home Educate in Wales?](/2026/03/idp-home-education-wales.html)  
 - [EOTAS vs Home Education in Wales (2026 Update)](/2026/03/eotas-vs-home-education-wales.html)  
 - [How to Challenge an ALN Decision in Wales (2026 Update)](/2026/03/challenge-aln-decision-wales.html)  
+
 ---
 
 ## References
