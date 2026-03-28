@@ -19,17 +19,17 @@ That uncertainty is one of the reasons the Welsh Government has now published ne
 
 The underlying legal framework remains the same, based on the Additional Learning Needs and Education Tribunal (Wales) Act 2018 and the Additional Learning Needs Code for Wales 2021.
 
-The Code is still shown as last updated on 26 March 2021. What changed on 27 March 2026 is that Welsh Government added new operational guidance to help schools and local authorities apply that law more consistently in practice.
+The Code is still shown as last updated on 26 March 2021. What changed on 27 March 2026 is that the Welsh Government added new operational guidance to help schools and local authorities apply that law more consistently in practice.
 
-This matters because, until now, many parents have had to piece together what should be happening from multiple sources. The 2026 guidance does not change who qualifies for ALN or who is entitled to an IDP. What it does do is make expectations around timescales, process and communication much clearer.
+This matters because, until now, many parents have had to piece together what should be happening from multiple sources. The 2026 guidance does not change who qualifies for ALN or who is entitled to an IDP. What it does do is make expectations around timescales, process, and communication much clearer.
 
 ---
 
 ## What has actually changed in March 2026
 
-On 27 March 2026, Welsh Government updated its guidance collection and introduced a new document:
+On 27 March 2026, the Welsh Government updated its guidance collection and introduced a new document:
 
-- “Additional learning needs (ALN): decision-making and communication”
+- “Additional learning needs (ALN): decision-making and communication.”
 
 This document:
 
@@ -38,7 +38,7 @@ This document:
 - supplements the ALN Code rather than replacing it  
 - was developed to improve clarity, consistency and understanding  
 
-Alongside it, Welsh Government also published:
+Alongside it, the Welsh Government also published:
 
 - “ALN decision-making timescales” (summary document)
 
@@ -218,12 +218,11 @@ What it is saying is that Welsh Government has now made the process clearer. Tha
 
 ## Suggested further reading
 
-- [What Exactly Should Be Included in an IDP?](https://blog.learnwithoutlimitscic.org/) *(existing article — IDP cluster)*  
-- *(This article is part of our ALN guidance update series and will be published shortly: What Schools Must Do When They Suspect ALN)*  
-- *(This article is part of our ALN guidance update series and will be published shortly: Can an IDP Be Removed If You Home Educate?)*  
-- *(This article is part of our ALN guidance update series and will be published shortly: EOTAS vs Home Education – What’s the Difference in Law?)*  
-- *(This article is part of our ALN guidance update series and will be published shortly: How to Challenge an ALN Decision in Wales)*  
-
+- [What Schools Must Do When They Suspect ALN in Wales (2026 Update)](/2026/03/what-schools-must-do-aln-wales.html)  
+- [What exactly should be included in an IDP (with real examples)?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-must-be-included-in-idp.html)  
+- [Can an IDP Be Removed If You Home Educate in Wales?](/2026/03/idp-home-education-wales.html)  
+- [EOTAS vs Home Education in Wales (2026 Update)](/2026/03/eotas-vs-home-education-wales.html)  
+- [How to Challenge an ALN Decision in Wales (2026 Update)](/2026/03/challenge-aln-decision-wales.html)  
 ---
 
 ## References
