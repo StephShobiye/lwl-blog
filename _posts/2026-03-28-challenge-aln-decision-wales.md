@@ -78,7 +78,7 @@ Under the Additional Learning Needs and Education Tribunal (Wales) Act 2018:
 - What evidence was used?  
 - What legal test was applied?  
 
-👉 https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html  
+👉 [What Schools Must Do When They Suspect ALN in Wales](https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html)
 
 ---
 
@@ -86,7 +86,7 @@ Under the Additional Learning Needs and Education Tribunal (Wales) Act 2018:
 
 > Promptly, usually within 7 weeks  
 
-👉 https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html  
+👉 [ALN Decision-Making Timescales in Wales](https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html)
 
 ---
 
@@ -133,8 +133,8 @@ Eligibility depends on:
 - financial eligibility  
 - firm capacity  
 
-👉 https://www.gov.uk/check-legal-aid  
-👉 https://www.gov.uk/find-legal-advice  
+👉 [Check legal aid eligibility](https://www.gov.uk/check-legal-aid)  
+👉 [Find a legal aid solicitor](https://www.gov.uk/find-legal-advice)
 
 ---
 
@@ -149,7 +149,7 @@ Eligibility depends on:
 
 ## Support
 
-👉 https://snapcymru.org/  
+👉 [SNAP Cymru](https://snapcymru.org/)
 
 SNAP Cymru provides:
 
@@ -170,17 +170,17 @@ SNAP Cymru provides:
 
 ## You do not have to navigate this alone
 
-👉 https://www.facebook.com/groups/learnwithoutlimitscic  
+👉 [Join our parent community](https://www.facebook.com/groups/learnwithoutlimitscic)
 
 Our community can also help signpost to independent services other parents have found helpful.
 
-👉 https://learnwithoutlimitscic.org/events.en.html  
+👉 [View upcoming events](https://learnwithoutlimitscic.org/events.en.html)
 
 ---
 
 ## Suggested further reading
 
-- https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html  
-- https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html  
-- https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html  
-- https://blog.learnwithoutlimitscic.org/2026/03/idp-home-education-wales.html  
+- [ALN Decision-Making Timescales in Wales](https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html)  
+- [What Schools Must Do When They Suspect ALN in Wales](https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html)  
+- [EOTAS vs Home Education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html)  
+- [Can an IDP Be Removed If You Home Educate in Wales?](https://blog.learnwithoutlimitscic.org/2026/03/idp-home-education-wales.html)  
