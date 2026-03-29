@@ -5,8 +5,6 @@ date: 2025-12-10
 permalink: /2025/12/eotas-in-wales-part-3/
 ---
 
-# How to Request EOTAS in Wales (Step-by-Step) + What to Do If Refused
-
 ⭐ *EOTAS in Wales – Part 3*  
 Published 10 December 2025
 
