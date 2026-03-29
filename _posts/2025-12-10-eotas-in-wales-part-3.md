@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "EOTAS in Wales – Part 3"
+title: "How to Request EOTAS in Wales (Step-by-Step) + What to Do If Refused"
 date: 2025-12-10
 permalink: /2025/12/eotas-in-wales-part-3/
 ---
 
-⭐ EOTAS in Wales – Part 3  
+# How to Request EOTAS in Wales (Step-by-Step) + What to Do If Refused
+
+⭐ *EOTAS in Wales – Part 3*  
 Published 10 December 2025
 
 ➡️ New to EOTAS? Start here:  
@@ -13,18 +15,18 @@ Published 10 December 2025
 
 📘 This is Part 3 of a 5-part series on EOTAS in Wales.
 
-⬅️ Previous: [Part 2 – How EOTAS Decisions Are Made](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2.html)  
+⬅️ Previous: [Part 2 – How EOTAS Decisions Are Made](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/)  
 ➡️ Next: [Part 4 – Specialist Interventions Under EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)
 
 ## How to Request EOTAS, What Happens If the Local Authority Refuses, and What You Can Do Next
 
-When a child can no longer access education safely or meaningfully in school, families may reach a point where Education Other Than At School (EOTAS) becomes the only realistic pathway.
+When a child can no longer access education safely or meaningfully in school, families may reach a point where Education Otherwise Than At School (EOTAS) becomes the only realistic pathway.
 
 But knowing how to request EOTAS, what evidence you need, and what to do when the Local Authority refuses is not straightforward. Most parents begin this process exhausted, confused, and with very little guidance.
 
 This article walks you step by step through the process in Wales, using clear language, real experience from families, and the legal duties that Local Authorities must follow.
 
-For the earlier parts of this series, go back to [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html) and [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2.html).
+For the earlier parts of this series, go back to [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/) and [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/).
 
 For a broader overview, see [EOTAS explained in Wales](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/).
 
@@ -95,8 +97,8 @@ It absolutely does.
 
 Reading Part 1 and Part 2 first helps parents avoid disappointment, friction with the LA, and unrealistic expectations.
 
-- [Part 1 – Introduction to EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html)
-- [Part 2 – How EOTAS Decisions Are Made](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2.html)
+- [Part 1 – Introduction to EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)
+- [Part 2 – How EOTAS Decisions Are Made](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/)
 
 ## ⭐ How to Request EOTAS (Step by Step)
 
@@ -263,8 +265,7 @@ It is important to know:
 ❌ Schools must not suggest deregistration as a shortcut  
 ✔ The LA must consider EOTAS before deregistration is ever raised  
 
-👉 How to Deregister from a Welsh School: A Step by Step Guide for ALN Families  
-https://learnwithoutlimitscic.org/2025/11/how-to-deregister-from-welsh-school.html
+👉 [How to Deregister from a Welsh School: A Step by Step Guide for ALN Families](https://learnwithoutlimitscic.org/2025/11/how-to-deregister-from-welsh-school.html)
 
 ## ⭐ Template Letter: Request for EOTAS Consideration
 
@@ -298,8 +299,8 @@ Kind regards,
 ## Continue reading
 
 - [EOTAS explained in Wales: what it is, what it isn’t, and what to ask for](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/)
-- [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html)
-- [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2.html)
-- [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3.html)
+- [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)
+- [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/)
+- [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3/)
 - [Specialist Interventions Under EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)
 - [Specialist Interventions Under EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in_01577358569.html)
