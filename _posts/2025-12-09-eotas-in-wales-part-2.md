@@ -5,9 +5,6 @@ date: 2025-12-09
 permalink: /2025/12/eotas-in-wales-part-2/
 ---
 
-EOTAS in Wales – Part 2  
-Published 9 December 2025  
-
 ## What Support Can Families Expect — and What Are the Limits?
 
 Once a Local Authority agrees that a child cannot receive suitable education in a school setting, they become responsible for arranging Education Other Than At School (EOTAS).
@@ -23,15 +20,15 @@ This guide explains the realistic range of EOTAS provision, what your child shou
 
 📘 This is Part 2 of a 5-part series on EOTAS in Wales.
 
-⬅️ Previous: [Part 1 – Introduction to EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html)  
+⬅️ Previous: [Part 1 – Introduction to EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)  
 
-➡️ Next: [Part 3 – What EOTAS Provision Looks Like](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3.html)
+➡️ Next: [Part 3 – What EOTAS Provision Looks Like](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3/)
 
 ---
 
-If you need the basics first, read [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html).
+If you need the basics first, read [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/).
 
-You can then continue to [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3.html).
+You can then continue to [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3/).
 
 ---
 
@@ -305,9 +302,9 @@ Kind regards,
 ## Continue reading
 
 - [EOTAS explained in Wales: what it is, what it isn’t, and what to ask for](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/)
-- [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html)
-- [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2.html)
-- [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3.html)
+- [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)
+- [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/)
+- [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3/)
 - [Specialist Interventions Under EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)
 - [Specialist Interventions Under EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in_01577358569.html)
 
