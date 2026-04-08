@@ -9,8 +9,6 @@ tags: [ALN, Additional Learning Needs, Wales, Audit Wales, IDP, Tribunal, EHE, S
 permalink: /2026/04/08/audit-wales-aln-system-under-strain/
 ---
 
-# Audit Wales says the ALN system is under strain. Families in Wales will not be surprised.
-
 A new **Audit Wales** report, [*Additional Learning Needs: Do public bodies know if the system is working?*](https://www.audit.wales/publication/additional-learning-needs-do-public-bodies-know-if-system-working), asks whether public bodies in Wales actually know if the Additional Learning Needs system is working.
 
 Its answer is troubling.
@@ -23,9 +21,9 @@ What matters now is not simply that the report has been published. It is what th
 
 ## What Audit Wales has found
 
-The report describes a system with serious visibility, consistency, and coordination problems.
+The report describes a system with serious visibility, consistency and co-ordination problems.
 
-Audit Wales says there is no complete national picture of ALN demand, with important gaps including children below compulsory school age, electively home-educated learners, and some post-16 groups. [2] It also says councils interpret ALN differently, apply different thresholds, and do not have a universal understanding of what counts as provision that is “generally available”. [3]
+Audit Wales says there is no complete national picture of ALN demand, with important gaps including children below compulsory school age, electively home educated learners, and some post-16 groups. [2] It also says councils interpret ALN differently, apply different thresholds, and do not have a universal understanding of what counts as provision that is “generally available”. [3]
 
 That matters because when definitions vary, support varies too.
 
@@ -215,7 +213,7 @@ That is where we believe the strongest opportunity now lies.
 
 ## References
 
-[1] Audit Wales, *Additional Learning Needs: Do public bodies know if the system is working?*, April 2026. Key findings that the system is under strain; public bodies do not have a complete picture of demand, costs and outcomes; patchy workforce data limits understanding; and the system remains adversarial despite some improvement.
+[1] Audit Wales, *Additional Learning Needs: Do public bodies know if the system is working?*, April 2026.
 
 [2] Audit Wales, *Additional Learning Needs: Do public bodies know if the system is working?*, April 2026. Findings on incomplete national demand data, including gaps relating to children below compulsory school age, electively home educated learners, and learners above compulsory school age.
 
