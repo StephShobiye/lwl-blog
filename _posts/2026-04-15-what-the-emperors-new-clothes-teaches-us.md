@@ -3,7 +3,6 @@ layout: post
 title: "What The Emperor’s New Clothes Teaches Us About Peer Pressure, Silence and Trusting Your Instincts"
 date: 2026-04-15 12:00:00 +0100
 last_modified_at: 2026-04-15 12:00:00 +0100
-permalink: /2026/04/what-the-emperors-new-clothes-teaches-us.html
 description: "A parent-focused look at how The Emperor’s New Clothes helps children understand peer pressure, group silence and why it can feel difficult to speak up."
 tags:
   - safeguarding
