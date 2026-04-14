@@ -3,7 +3,6 @@ layout: post
 title: "What The Fox and the Crow Teaches Us About Praise, Manipulation and Hidden Intent"
 date: 2026-04-15 09:00:00 +0100
 last_modified_at: 2026-04-15 09:00:00 +0100
-permalink: /2026/04/what-the-fox-and-the-crow-teaches-us.html
 description: "A parent-focused look at how The Fox and the Crow helps children understand manipulation, flattery, hidden intent and why not all praise is safe."
 tags:
   - safeguarding
