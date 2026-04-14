@@ -390,9 +390,9 @@ If you are not sure where to start, you can also reach out in our community.
 ## If you want to revisit the story together
 
 If you would like to explore the story with your child, a familiar Ladybird edition is available here:  
-https://www.amazon.co.uk/Little-Red-Riding-Hood-Favourite/dp/1409306313/
+[Little Red Riding Hood (Ladybird edition) on Amazon](https://www.amazon.co.uk/Little-Red-Riding-Hood-Favourite/dp/1409306313/)
 
 For families who cannot easily get to a library, a free version is available via Project Gutenberg:  
-https://www.gutenberg.org/ebooks/31868
+[Free Little Red Riding Hood via Project Gutenberg](https://www.gutenberg.org/ebooks/31868)
 
-We will also be asking Swansea Libraries to stock all the books in this series so families can access them more easily.
+We will also be asking Swansea Libraries to stock all the books in this series so families can access them more easily. For Parents outside the Swansea Council area you can ask your own Council-run library service to do the same :) 
