@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Using Stories to Teach Emotional Safety, Boundaries and Trust: A Practical Series for Parents"
-date: 2026-04-18 09:00:00 +0000
-last_modified_at: 2026-04-18 09:00:00 +0000
+date: 2026-04-15 09:00:00 +0000
+last_modified_at: 2026-04-15 09:00:00 +0000
 permalink: /2026/04/stories-emotional-regulation-series/
 ---
 
