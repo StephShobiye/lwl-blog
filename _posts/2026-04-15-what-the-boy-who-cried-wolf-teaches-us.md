@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "What The Boy Who Cried Wolf Teaches Us About Trust, Being Believed and Why It Matters"
-date: 2026-04-15 15:00:00 +0100
-last_modified_at: 2026-04-15 15:00:00 +0100
+date: 2026-04-14 15:00:00 +0100
+last_modified_at: 2026-04-14 15:00:00 +0100
 description: "A parent-focused look at how The Boy Who Cried Wolf helps children understand trust, credibility and why being believed matters."
 tags:
   - safeguarding
