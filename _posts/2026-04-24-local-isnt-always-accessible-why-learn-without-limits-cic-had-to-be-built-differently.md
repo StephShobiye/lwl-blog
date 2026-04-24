@@ -6,7 +6,7 @@ permalink: /2026/04/local-isnt-always-accessible/
 description: "Why Learn Without Limits CIC exists as a Wales-wide digital navigation layer that complements local services, helps families navigate fragmented systems, and responds to accessibility gaps that place-based provision alone cannot solve."
 ---
 
-![Illustration of a person standing in a maze beside a digital map interface, representing navigation through complex systems](navigation.jpeg)
+![Illustration of a person standing in a maze beside a digital map interface, representing navigation through complex systems]({{ '/assets/images/navigation.jpeg' | relative_url }})
 
 There is a common assumption in a lot of third sector thinking that “local” automatically means “accessible”.
 
