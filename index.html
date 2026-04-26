@@ -12,7 +12,7 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
 </p>
 
 <p>
-  This blog forms part of the wider Learn Without Limits CIC knowledge base, bringing together practical articles on Additional Learning Needs, EOTAS, attendance, post-16 transitions, and related pathways affecting families across Wales.
+  This blog forms part of the wider Learn Without Limits CIC knowledge base, bringing together practical articles on Additional Learning Needs, EOTAS, attendance, post-16 transitions, and related pathways affecting families across Wales. If you are new here, you can also <a href="https://www.facebook.com/groups/learnwithoutlimitscic">join our parent/carer community</a> for peer support, updates and shared learning.
 </p>
 
 <nav aria-label="Blog quick links">
@@ -59,7 +59,7 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
   <h2 id="recent">Recent articles</h2>
 
   <div class="post-grid">
-    {% for post in site.posts offset:1 limit:18 %}
+    {% for post in site.posts offset:1 limit:8 %}
       <article class="post-card">
         <h3 class="post-title">
           <a href="{{ post.url }}">{{ post.title }}</a>
@@ -79,6 +79,10 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
       </article>
     {% endfor %}
   </div>
+
+  <p class="hint">
+    Looking for an older article? Use the topic buttons or archive search below.
+  </p>
 </section>
 
 <hr>
@@ -102,6 +106,9 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
 <section aria-labelledby="archive" class="archive">
   <h2 id="archive">Blog archive</h2>
   <p class="hint">
+    This archive shows the scale of our free public information layer and is updated as new guidance, lived experience and policy changes emerge.
+  </p>
+  <p class="hint">
     Search by keyword, then select an article. Example searches: <em>IDP</em>, <em>EOTAS</em>, <em>attendance</em>, <em>EBSA</em>, <em>tribunal</em>.
   </p>
 
@@ -110,7 +117,7 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
          placeholder="Search the archive (e.g. IDP, EOTAS, EBSA, attendance)…"
          autocomplete="off">
 
-  <p class="hint" id="archiveCount" aria-live="polite"></p>
+  <p class="hint archive-count" id="archiveCount" aria-live="polite"></p>
 
   <ul id="archiveList" class="archive-list">
     {% for post in site.posts %}
@@ -220,6 +227,16 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
 </section>
 <!-- NOTICE END -->
 
+<style>
+  .archive-count {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #8b1e3f;
+    margin-top: 0.75rem;
+    margin-bottom: 1rem;
+  }
+</style>
+
 <script>
 (function () {
   var input = document.getElementById("blogSearch");
@@ -238,7 +255,7 @@ description: Practical, parent-led guidance for ALN families in Wales. Clear ste
 
   function updateCount(visible) {
     if (!count) return;
-    count.textContent = visible + " article" + (visible === 1 ? "" : "s") + " shown";
+    count.textContent = visible + " article" + (visible === 1 ? "" : "s") + " available";
   }
 
   function filter() {
