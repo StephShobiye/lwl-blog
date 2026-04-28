@@ -7,7 +7,6 @@ categories: [ALN, Wales, EOTAS, Education, Policy]
 excerpt: "Welsh Government data shows rising numbers of children educated outside school, with ALN/SEN learners heavily over-represented. If person-centred reform is working, children and young people should be better able to access education in practice, not only in policy language."
 ---
 
-# Is a system person-centred if children cannot access education?
 
 The Additional Learning Needs reforms in Wales were intended to create a more unified, person-centred system.
 
