@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Privacy, the Children Not in School Register, and Domestic-Abuse Safety in Wales"
-date: 2026-05-18 08:00:00 +0000
-last_modified_at: 2026-05-18 08:00:00 +0000
+date: 2026-05-17 08:00:00 +0000
+last_modified_at: 2026-05-17 08:00:00 +0000
 permalink: /2026/05/privacy-children-not-in-school-register-wales.html
 categories:
   - ALN
