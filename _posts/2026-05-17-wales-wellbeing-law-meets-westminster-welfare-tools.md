@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Wales’ Well-being Law Meets Westminster Welfare Tools"
-date: 2026-05-17 19:17:00 +0000
-last_modified_at: 2026-05-17 19:17:00 +0000
+date: 2026-05-17 18:17:00 +0000
+last_modified_at: 2026-05-17 18:17:00 +0000
 permalink: /2026/05/wales-wellbeing-law-meets-westminster-welfare-tools.html
 categories:
   - ALN
