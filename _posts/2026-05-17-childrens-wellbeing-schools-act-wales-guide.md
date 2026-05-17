@@ -13,7 +13,6 @@ categories:
 excerpt: "A Wales-focused guide linking Learn Without Limits CIC’s full Children’s Wellbeing and Schools Act series covering ALN, safeguarding, EHE, privacy, prevention and implementation in Wales."
 ---
 
-# The Children’s Wellbeing and Schools Act in Wales: A Parent and Professional Guide
 
 *Start here for Learn Without Limits CIC’s Wales-focused series on the Children’s Wellbeing and Schools Act 2026, Additional Learning Needs (ALN), home education, safeguarding, privacy and implementation in Wales.*
 
