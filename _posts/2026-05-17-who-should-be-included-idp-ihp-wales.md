@@ -13,7 +13,6 @@ categories:
 excerpt: "A practical Wales-focused guide explaining who may need to be involved in an IDP or healthcare plan, including fathers, kinship carers, grandparents and special guardians, and what families can do if someone important is being excluded."
 ---
 
-# Who Should Be Included in an IDP or Healthcare Plan in Wales?
 
 ## Fathers, Kinship Carers, Grandparents, Special Guardians and the Reality of Family Life
 
