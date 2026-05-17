@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "The Children’s Wellbeing and Schools Act in Wales: A Parent and Professional Guide"
-date: 2026-05-17 19:35:00 +0000
-last_modified_at: 2026-05-17 19:35:00 +0000
+date: 2026-05-17 14:35:00 +0000
+last_modified_at: 2026-05-17 14:35:00 +0000
 permalink: /2026/05/childrens-wellbeing-schools-act-wales-guide.html
 categories:
   - ALN
