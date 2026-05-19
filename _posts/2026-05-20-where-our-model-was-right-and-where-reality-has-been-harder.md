@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Where Our Model Was Right, and Where Reality Has Been Harder"
-date: 2026-05-20 08:00:00 +0000
-last_modified_at: 2026-05-20 08:00:00 +0000
+date: 2026-05-19 08:00:00 +0000
+last_modified_at: 2026-05-19 08:00:00 +0000
 permalink: /2026/05/where-our-model-was-right-and-where-reality-has-been-harder.html
 categories:
   - ALN
