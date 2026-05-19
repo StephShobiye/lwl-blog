@@ -535,34 +535,34 @@ The question now is not whether preventative infrastructure is needed. The evide
 
 [1] T. Seelig, *inGenius: A Crash Course on Creativity*. New York, NY, USA: HarperCollins, 2012.
 
-[2] T. Seelig, “The Innovation Engine,” Stanford eCorner. Available: https://ecorner.stanford.edu/videos/the-innovation-engine/
+[2] T. Seelig, "[The Innovation Engine](https://ecorner.stanford.edu/videos/the-innovation-engine/)," Stanford eCorner.
 
-[3] AXELOS, *PRINCE2 Agile® Guidance*. AXELOS Ltd. Available: https://www.axelos.com/certifications/prince2/prince2-agile
+[3] AXELOS, "[PRINCE2 Agile® Guidance](https://www.axelos.com/certifications/prince2/prince2-agile)," AXELOS Ltd.
 
-[4] Learn Without Limits CIC, “Prevention, Bridging and Progression in the ALN System,” Mar. 18, 2026. Available: https://blog.learnwithoutlimitscic.org/2026/03/18/prevention-bridging-progression-aln/
+[4] Learn Without Limits CIC, "[Prevention, Bridging and Progression in the ALN System](https://blog.learnwithoutlimitscic.org/2026/03/18/prevention-bridging-progression-aln/)," Mar. 18, 2026.
 
-[5] Learn Without Limits CIC, “From Facebook Community to Knowledge Infrastructure,” Mar. 13, 2026. Available: https://blog.learnwithoutlimitscic.org/2026/03/13/from-facebook-community-to-knowledge-infrastructure/
+[5] Learn Without Limits CIC, "[From Facebook Community to Knowledge Infrastructure](https://blog.learnwithoutlimitscic.org/2026/03/13/from-facebook-community-to-knowledge-infrastructure/)," Mar. 13, 2026.
 
-[6] Learn Without Limits CIC, “When Communities Design the Solution,” Mar. 13, 2026. Available: https://blog.learnwithoutlimitscic.org/2026/03/13/when-communities-design-the-solution/
+[6] Learn Without Limits CIC, "[When Communities Design the Solution](https://blog.learnwithoutlimitscic.org/2026/03/13/when-communities-design-the-solution/)," Mar. 13, 2026.
 
-[7] Learn Without Limits CIC, “The Changing Landscape of Volunteering,” Jan. 14, 2026. Available: https://blog.learnwithoutlimitscic.org/2026/01/the-changing-landscape-of-volunteering.html
+[7] Learn Without Limits CIC, "[The Changing Landscape of Volunteering](https://blog.learnwithoutlimitscic.org/2026/01/the-changing-landscape-of-volunteering.html)," Jan. 14, 2026.
 
-[8] Learn Without Limits CIC, “Audit Wales says the ALN system is under strain. Families in Wales will not be surprised,” Apr. 8, 2026. Available: https://blog.learnwithoutlimitscic.org/2026/04/08/audit-wales-aln-system-under-strain/
+[8] Learn Without Limits CIC, "[Audit Wales says the ALN system is under strain. Families in Wales will not be surprised](https://blog.learnwithoutlimitscic.org/2026/04/08/audit-wales-aln-system-under-strain/)," Apr. 8, 2026.
 
-[9] Learn Without Limits CIC, “Wales needs a digital-first navigation layer.” Available: https://blog.learnwithoutlimitscic.org/2026/04/wales-digital-first-navigation-layer/
+[9] Learn Without Limits CIC, "[Wales needs a digital-first navigation layer](https://blog.learnwithoutlimitscic.org/2026/04/wales-digital-first-navigation-layer/)."
 
-[10] Welsh Government, “Young people not in education, employment or training (NEET): October 2024 to September 2025,” Jan. 29, 2026. Available: https://www.gov.wales/young-people-not-education-employment-or-training-neet-october-2024-september-2025-html
+[10] Welsh Government, "[Young people not in education, employment or training (NEET): October 2024 to September 2025](https://www.gov.wales/young-people-not-education-employment-or-training-neet-october-2024-september-2025-html)," Jan. 29, 2026.
 
-[11] Senedd Research, “Not in school: pupil absence,” Nov. 1, 2024. Available: https://research.senedd.wales/research-articles/not-in-school-pupil-absence/
+[11] Senedd Research, "[Not in school: pupil absence](https://research.senedd.wales/research-articles/not-in-school-pupil-absence/)," Nov. 1, 2024.
 
-[12] Ofcom, “Evaluating recommender systems in relation to the dissemination of illegal and harmful content in the UK,” Jul. 6, 2023. Available: https://www.ofcom.org.uk/online-safety/safety-technology/evaluating-recommender-systems-in-relation-to-the-dissemination-of-illegal-and-harmful-content-in-the-uk
+[12] Ofcom, "[Evaluating recommender systems in relation to the dissemination of illegal and harmful content in the UK](https://www.ofcom.org.uk/online-safety/safety-technology/evaluating-recommender-systems-in-relation-to-the-dissemination-of-illegal-and-harmful-content-in-the-uk)," Jul. 6, 2023.
 
-[13] UK Parliament, “Social media, misinformation and harmful algorithms,” Oct. 17, 2025. Available: https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html
+[13] UK Parliament, "[Social media, misinformation and harmful algorithms](https://publications.parliament.uk/pa/cm5901/cmselect/cmsctech/1397/report.html)," Oct. 17, 2025.
 
-[14] Meta, “Appeal Facebook’s decision to disable your group or remove content.” Available: https://www.facebook.com/help/584914935354562
+[14] Meta, "[Appeal Facebook’s decision to disable your group or remove content](https://www.facebook.com/help/584914935354562)."
 
-[15] Learn Without Limits CIC, “Bridge.” Available: https://learnwithoutlimitscic.org/bridge.en.html
+[15] Learn Without Limits CIC, "[Bridge](https://learnwithoutlimitscic.org/bridge.en.html)."
 
-[16] Learn Without Limits CIC, “About.” Available: https://learnwithoutlimitscic.org/about.en.html
+[16] Learn Without Limits CIC, "[About](https://learnwithoutlimitscic.org/about.en.html)."
 
-[17] Learn Without Limits CIC, “Governance.” Available: https://learnwithoutlimitscic.org/governance.en.html
+[17] Learn Without Limits CIC, "[Governance](https://learnwithoutlimitscic.org/governance.en.html)."
