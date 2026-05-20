@@ -208,7 +208,7 @@ Third-party platforms enabled early community growth, but they also introduced s
 - inconsistent reach
 - engagement volatility
 - safeguarding limitations
-- difficulty maintaining calm reflective discussion spaces
+- difficulty maintaining calm, reflective discussion spaces
 
 Large social media platforms are increasingly shaped by engagement-driven systems that can reward emotionally charged, polarising content over calm, reflective, safeguarding-aware navigation support.
 
@@ -345,40 +345,37 @@ It is:
 
 This creates a persistent tension between what appears strategically necessary and what existing systems are currently designed to fund.
 
-## 2. Bridging pathways are much harder to build than to describe
+## 2. The Missing Middle: When Prevention Is Recognised but Not Yet Structurally Funded
 
-The Bridge layer of the model remains one of the most operationally complex areas.
+There is a systemic funding architecture issue around preventative navigation infrastructure.
 
-The pathway concepts themselves remain compelling:
+Across Wales, there is growing acknowledgement that families are struggling to navigate fragmented systems, repeated transitions, and increasingly complex support pathways. However, funding structures still tend to favour either short-term reactive delivery or established organisational continuity over the slower work of building connective infrastructure between systems.
 
-- shared learning
-- maintaining engagement
-- reducing isolation
-- supporting wellbeing
-- accredited volunteering
-- AQA Units
-- Arts Award
-- flexible re-engagement
-- alternative learning routes
-- parent carer confidence rebuilding
-- temporary continuity while longer-term systems are engaged
+In practice, this can leave emerging preventative models in an awkward position: visibly useful to families, increasingly relevant to professionals, but difficult to fit neatly into traditional funding categories because the value lies not in one isolated intervention, but in improving how multiple parts of the system connect, communicate, and respond over time.
 
-However, operational delivery requires far more infrastructure than many people initially realise.
+This is particularly important in areas such as ALN, safeguarding, attendance, mental health, home education, and transition support, where families often move repeatedly between services that may each hold only part of the wider picture.
+
+Prevention infrastructure is still infrastructure.
 
 It requires:
+- governance;
+- coordination;
+- trusted information pathways;
+- digital systems;
+- safeguarding awareness;
+- partnership-building;
+- and long-term continuity.
 
-- safeguarding systems
-- qualified oversight
-- clear boundaries
-- assessment capability where accreditation is involved
-- partnership management
-- continuity of supervision
-- careful handover planning
-- protection against role drift
+Yet these connective layers can be harder to fund than visible frontline interventions, even where the absence of good navigation infrastructure may contribute to escalation, duplication, conflict, or avoidable crisis further downstream.
 
-This is why the programme has deliberately avoided launching unsupported or informal provision prematurely.
+For Learn Without Limits CIC, this is particularly important because the technical governance layer cannot safely be built through piecemeal, very short-term or constantly changing labour.
 
-While this slower staged approach has reduced safeguarding and governance risk, it has also reinforced how operationally complex sustainable bridging infrastructure actually is.
+Some parts of a programme can be developed gradually through volunteer input, small grants, phased activity or carefully stacked capacity. Technical governance is different. Once a platform begins handling structured navigation pathways, safeguarding-sensitive insight, user journeys, referral routes, permissions, analytics, or any form of data governance, the risks become much higher.
+
+Trying to build that layer through fragmented short-term support can increase overall costs rather than reduce them. It can also create technical debt, inconsistent decision-making, weak documentation, unclear accountability, and avoidable data-governance gaps.
+
+For a prevention model to operate safely at scale, this layer needs sustained paid technical leadership, not a series of disconnected fixes.
+
 
 ## 3. Data fragmentation makes the cost-benefit case harder than expected
 
@@ -392,11 +389,11 @@ When a young person is out of school, moving between education statuses, home ed
 
 Second, weak data makes the cost-benefit case harder to build.
 
-At programme design stage, we had assumed that it would be relatively straightforward to compare the cost of preventative infrastructure with downstream costs linked to exclusion, tribunal escalation, prolonged disengagement, NEET outcomes and family economic disruption.
+At programme design stage, we had assumed that it would be relatively straightforward to compare the cost of preventative infrastructure with downstream costs linked to exclusion, tribunal escalation, prolonged disengagement, NEET outcomes, and family economic disruption.
 
 In practice, the available data is more fragmented than expected.
 
-This makes it harder to evidence the cumulative cost of late intervention, even where families’ lived experience strongly suggests that the costs are being carried somewhere: by schools, local authorities, health systems, tribunals, parent carers, employers and young people themselves.
+This makes it harder to evidence the cumulative cost of late intervention, even where families’ lived experience strongly suggests that the costs are being carried somewhere: by schools, local authorities, health systems, tribunals, parent carers, employers, and young people themselves.
 
 This is now one of the areas where the model has become more strategically important, but also harder to evidence than we had hoped.
 
