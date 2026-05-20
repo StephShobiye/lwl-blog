@@ -565,4 +565,4 @@ The question now is not whether preventative infrastructure is needed. The evide
 
 [16] Learn Without Limits CIC, "[About](https://learnwithoutlimitscic.org/about.en.html)."
 
-[17] Learn Without Limits CIC, "[Governance](https://learnwithoutlimitscic.org/governance.en.html)."
+[17] Learn Without Limits CIC, "[About](https://learnwithoutlimitscic.org/about.en.html)."
