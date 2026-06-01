@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Toileting, Continence and Intimate Care in Wales: A Practical Guide for Families from Nursery to University"
-date: 2026-06-01 11:04:00 +0000
-last_modified_at: 2026-06-01 11:04:00 +0000
+date: 2026-06-01 08:04:00 +0000
+last_modified_at: 2026-06-01 08:04:00 +0000
 permalink: /2026/06/toileting-continence-intimate-care-wales.html
 categories: [ALN, Health, Safeguarding, Toileting, Continence, Intimate Care, Wales]
 excerpt: "A Wales-focused parent guide to toileting, continence and intimate care support from nursery to university, including IDPs, IHPs, school nursing, safeguarding, Health Board routes and peer support."
