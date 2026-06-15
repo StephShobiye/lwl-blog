@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "UK Under-16 Social Media Ban: What It Could Mean for Home-Educating Families and Children with ALN in Wales"
-date: 2026-06-15 17:21:00 +0000
-last_modified_at: 2026-06-15 17:21:00 +0000
+date: 2026-06-15 10:21:00 +0000
+last_modified_at: 2026-06-15 10:21:00 +0000
 permalink: /2026/06/social-media-ban-aln-home-education-wales.html
 categories:
   - ALN
