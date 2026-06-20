@@ -262,7 +262,7 @@ The work will continue with those willing to help build it safely.
 
 
 
-## Post-Event Information Update
+## Post-Event Information Update (20th June 2026) 
 
 Following the briefing, Learn Without Limits CIC received a response to a Freedom of Information request relating to recorded costs associated with ALN consultation, engagement, research and evaluation activity.
 
