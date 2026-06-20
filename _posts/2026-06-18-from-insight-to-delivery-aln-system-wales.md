@@ -259,3 +259,19 @@ PowerPoint slides used in the briefing are available on request.
 The door remains open.
 
 The work will continue with those willing to help build it safely.
+
+
+
+## Post-Event Information Update
+
+Following the briefing, Learn Without Limits CIC received a response to a Freedom of Information request relating to recorded costs associated with ALN consultation, engagement, research and evaluation activity.
+
+Although the request did not yield the cost figures originally sought, the response highlighted the complexity of reconstructing a comprehensive picture of these costs. Welsh Government advised that even a significantly narrowed request would exceed the statutory cost limits and require substantial manual work across historic records, tenders and contracts.
+
+For Learn Without Limits CIC, this reinforces an important point.
+
+Prevention depends not only on good intentions and collaboration, but also on the ability to understand where resources are being invested and where pressures are emerging.
+
+The response suggests that the costs associated with ALN reform have not been tracked in a way that allows them to be easily understood, compared, or scrutinised across the system.
+
+As a prevention-led programme, we believe improving visibility of costs and outcomes is important for learning from reform and identifying where earlier intervention can reduce later pressures.
