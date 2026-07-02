@@ -436,7 +436,7 @@ They need supported transitions.
 
 They need flexible pathways.
 
-They need adults to stop acting shocked when young people disappear from systems that were never properly built around them in the first place.
+They need policymakers, politicians, and the general public to stop acting shocked when young people disappear from systems that were never properly built around them in the first place.
 
 ## References
 
