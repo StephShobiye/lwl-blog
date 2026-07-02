@@ -37,9 +37,9 @@ What is happening between school-age support, post-16 transition, further educat
 This article is written for families, professionals, policymakers and partners in Wales. It is not an attack on one service or one sector. It is a call to look honestly at the route young people are being asked to travel.
 
 <figure>
-  <img src="/assets/images/2026-07-02-where-learners-fall-out-system-lwl.jpg" alt="Learn Without Limits CIC model showing where learners fall out of the system, with risk of disengagement increasing from Year 7 to 9, Year 10 to 11 and age 16 to 18, and Learn Without Limits interventions across prevention, bridging and progression." loading="lazy">
+  <img src="/assets/images/aln-escalation-risk-model.jpg" alt="Learn Without Limits CIC model showing where learners fall out of the system, with risk of disengagement increasing from Year 7 to 9, Year 10 to 11 and age 16 to 18, and Learn Without Limits interventions across prevention, bridging and progression." loading="lazy">
   <figcaption>
-    Learn Without Limits CIC’s March briefing model showed where risk can build before post-16 transition. The newer Welsh Government data makes the post-19 risk even harder to ignore.
+    Learn Without Limits CIC’s earlier model showed where risk can build before post-16 transition. The newer Welsh Government data makes the post-19 risk even harder to ignore.
   </figcaption>
 </figure>
 
@@ -81,42 +81,12 @@ Wales can see the risk building before 16, see the elevated risk at 16 to 18, an
 
 If we can see the pattern, we should not wait for families to hit crisis before asking what support is missing.
 
-<div role="img" aria-label="Three indicators across the Welsh post-16 route. Age 15 not found in state education data is 8.1 percent. Disabled 16 to 18-year-olds NEET is 18.6 percent. Disabled 19 to 24-year-olds NEET is 40 percent." style="border: 1px solid #d0d7de; border-radius: 10px; padding: 1rem; margin: 1.5rem 0; background: #f8fafc;">
-  <p style="font-weight: 700; margin-top: 0; font-size: 1.1rem;">Warning indicators across the route</p>
-  <p style="font-size: 0.95rem; margin-bottom: 1rem;">These indicators are not the same measure or a single cohort. They show warning points across the route.</p>
-
-  <div style="margin-bottom: 0.85rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem; font-size: 0.95rem;">
-      <span>Age 15, not found in state education data</span>
-      <strong>8.1%</strong>
-    </div>
-    <div style="height: 18px; background: #e5e7eb; border-radius: 999px; overflow: hidden;">
-      <div style="width: 8.1%; height: 18px; background: #1f77b4;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 0.85rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem; font-size: 0.95rem;">
-      <span>Disabled 16 to 18-year-olds, NEET</span>
-      <strong>18.6%</strong>
-    </div>
-    <div style="height: 18px; background: #e5e7eb; border-radius: 999px; overflow: hidden;">
-      <div style="width: 18.6%; height: 18px; background: #2ca02c;"></div>
-    </div>
-  </div>
-
-  <div style="margin-bottom: 0.85rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem; font-size: 0.95rem;">
-      <span>Disabled 19 to 24-year-olds, NEET</span>
-      <strong>40.0%</strong>
-    </div>
-    <div style="height: 18px; background: #e5e7eb; border-radius: 999px; overflow: hidden;">
-      <div style="width: 40%; height: 18px; background: #d62728;"></div>
-    </div>
-  </div>
-
-  <p style="font-size: 0.85rem; margin-bottom: 0; color: #4b5563;">Sources: Welsh Government linked administrative data report, revised 2024; Welsh Government APS NEET release, 2026 [1], [2].</p>
-</div>
+<figure>
+  <img src="/assets/images/Where%20Wales%20starts%20losing%20young%20people%20from%20the%20route.png" alt="Chart showing three warning indicators across the Welsh post-16 route: 8.1% at age 15 not found in state education data, 18.6% of disabled 16 to 18-year-olds NEET, and 40.0% of disabled 19 to 24-year-olds NEET." loading="lazy">
+  <figcaption>
+    These indicators are not the same measure or a single cohort. They show warning points across the route: age-15 visibility in state education data, disabled 16 to 18 NEET risk, and disabled 19 to 24 NEET risk. Sources: Welsh Government linked administrative data report, revised 2024; Welsh Government APS NEET release, 2026 [1], [2].
+  </figcaption>
+</figure>
 
 | Stage in the route | Indicator |
 |---|---:|
@@ -491,3 +461,12 @@ They need adults to stop acting shocked when young people disappear from systems
 [10] Medr, “[Strategic Plan 2025 to 2030](https://www.medr.cymru/en/about-medr/strategic-plan/),” accessed Jul. 2026.
 
 [11] Office for National Statistics, “[Labour Force Survey quality and methodology information](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveylfsqmi),” accessed Jul. 2026.
+
+## Related Learn Without Limits CIC articles and links
+
+- [June 2026 Open Call Stakeholder Briefing: From Insight to Delivery in the ALN System Wales](https://blog.learnwithoutlimitscic.org/2026/06/from-insight-to-delivery-aln-system-wales.html)
+- [Learn Without Limits CIC Bridge](https://learnwithoutlimitscic.org/bridge.en.html)
+- [Audit Wales says the ALN system is under strain. What does that mean for families?](https://blog.learnwithoutlimitscic.org/2026/04/08/audit-wales-aln-system-under-strain/)
+- [The changing landscape of volunteering](https://blog.learnwithoutlimitscic.org/2026/01/the-changing-landscape-of-volunteering.html)
+- [From forever volunteer to paid work](https://blog.learnwithoutlimitscic.org/2025/12/from-forever-volunteer-to-paid-work.html)
+- [Breaking the cycle: disabled young people and welfare-to-work schemes in Wales](https://blog.learnwithoutlimitscic.org/2025/12/breaking-cycle-disabled-young-people.html)
