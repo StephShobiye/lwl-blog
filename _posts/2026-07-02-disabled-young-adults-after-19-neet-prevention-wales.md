@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Disabled Young Adults After 19: Wales Needs to Treat NEET Risk as a Prevention Crisis"
-date: 2026-07-02 14:30:00 +0000
-last_modified_at: 2026-07-02 14:30:00 +0000
+date: 2026-07-02 09:30:00 +0000
+last_modified_at: 2026-07-02 09:30:00 +0000
 permalink: /2026/07/disabled-young-adults-after-19-neet-prevention-wales.html
 categories: [ALN, Wales, Post-16, Disability, NEET, Further Education, Bridge]
 excerpt: "Welsh Government data shows that four in ten disabled 19 to 24-year-olds in Wales were not in education, employment or training. Learn Without Limits CIC asks what this means for post-16 transition, FE capacity, ALN and prevention."
