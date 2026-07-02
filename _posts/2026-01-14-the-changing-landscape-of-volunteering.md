@@ -103,7 +103,7 @@ It is about asking less, more clearly, and valuing it properly.</p>
     </a>
   </li>
   <li>
-    <a href="https://blog.learnwithoutlimitscic.org/2025/05/prevention-bridging-and-progression.html">
+    <a href="https://blog.learnwithoutlimitscic.org/2026/03/18/prevention-bridging-progression-aln/">
       Prevention, Bridging, and Progression in the ALN System
     </a>
   </li>
