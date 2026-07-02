@@ -64,5 +64,47 @@ It is realism.</p>
 It is about asking less, more clearly, and valuing it properly.</p>
 <p data-end="4726" data-start="4656">Only then can volunteering remain meaningful, ethical, and sustainable.</p>
 <hr data-end="4731" data-start="4728" />
-<h3 data-end="4749" data-start="4733">Closing line</h3>
-<p data-end="4873" data-start="4751">At Learn Without Limits CIC, we are designing our work around the world as it is now, not the world we wish still existed.<br /><br /></p><div style="text-align: center;">-----------------------------------------</div>Note:-&nbsp;<br />We wrote an article about volunteering and the experiences of our disabled youth, highlighting how they are tired of being expected to be satisfied with volunteering as a substitute for paid work. You may be interested to find it here&nbsp;<a href="https://learnwithoutlimitscic.blogspot.com/2025/12/from-forever-volunteer-to-paid-work.html">https://learnwithoutlimitscic.blogspot.com/2025/12/from-forever-volunteer-to-paid-work.html<br /></a><br /><br /><br /><br /><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAezZUa-BnHB1L0f3yv6yVuNpg0VHYt505yFmL3eGr-_WT5fS6NgReGCRl6YmYb7A6tw5LIFLtC1X4z1790GMqKFJK0EHU7cW1Lz3swMGFU0oY-tn1bxicKZ9zpqL9y0k5STlBp6k5WvzgXSaQsSckuQswgLZf32ekimTKfGJgzUawztMAe97ca1eHqon0/s1024/LearnWithoutLimits_Badge.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1024" data-original-width="1024" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAezZUa-BnHB1L0f3yv6yVuNpg0VHYt505yFmL3eGr-_WT5fS6NgReGCRl6YmYb7A6tw5LIFLtC1X4z1790GMqKFJK0EHU7cW1Lz3swMGFU0oY-tn1bxicKZ9zpqL9y0k5STlBp6k5WvzgXSaQsSckuQswgLZf32ekimTKfGJgzUawztMAe97ca1eHqon0/s320/LearnWithoutLimits_Badge.png" width="320" /></a></div><div class="separator" style="clear: both; text-align: center;"><br style="text-align: left;" /><span style="text-align: left;">This Blog is a part of Learn without Limits CIC and you can find out more about our Governance on our main website here&nbsp;</span><a href="https://learnwithoutlimitscic.org/about.en.html" style="text-align: left;">https://learnwithoutlimitscic.org/about.en.html</a></div><br />
+<h3>Closing line</h3>
+
+<p>
+  At Learn Without Limits CIC, we are designing our work around the world as it is now,
+  not the world we wish still existed.
+</p>
+
+<hr />
+
+<h2>Related reading: Bridge, volunteering and progression</h2>
+
+<p>
+  These articles are part of our wider thinking about ethical volunteering,
+  confidence rebuilding, post-19 prevention and practical progression routes
+  for disabled and neurodivergent young people, parent carers and community contributors.
+</p>
+
+<ul>
+  <li>
+    <a href="https://learnwithoutlimitscic.org/bridge.en.html">
+      Bridge: re-engagement, confidence and progression after education disruption
+    </a>
+  </li>
+  <li>
+    <a href="https://blog.learnwithoutlimitscic.org/2025/12/from-forever-volunteer-to-paid-work.html">
+      From “Forever Volunteer” to Paid Work
+    </a>
+  </li>
+  <li>
+    <a href="https://blog.learnwithoutlimitscic.org/2025/12/breaking-cycle-disabled-young-people.html">
+      Breaking the Cycle: Disabled Young People, Welfare-to-Work Schemes, and the Way Forward in Wales
+    </a>
+  </li>
+  <li>
+    <a href="https://blog.learnwithoutlimitscic.org/2026/07/disabled-young-adults-after-19-neet-prevention-wales.html">
+      Disabled young adults after 19: why Wales needs to treat NEET risk as a prevention crisis
+    </a>
+  </li>
+  <li>
+    <a href="https://blog.learnwithoutlimitscic.org/2025/05/prevention-bridging-and-progression.html">
+      Prevention, Bridging, and Progression in the ALN System
+    </a>
+  </li>
+</ul>
