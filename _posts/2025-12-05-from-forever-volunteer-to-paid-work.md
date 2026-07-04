@@ -409,10 +409,13 @@ It should never become a dead end.
 
 <ul>
   <li><a href="https://learnwithoutlimitscic.org/bridge.en.html">Learn Without Limits CIC Bridge</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2026/06/from-insight-to-delivery-aln-system-wales.html">June 2026 Open Call Stakeholder Briefing: From Insight to Delivery in the ALN System Wales</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2026/04/local-isnt-always-accessible/">Local isn’t always accessible: why Learn Without Limits CIC had to be built differently</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2026/04/08/audit-wales-aln-system-under-strain/">Audit Wales says the ALN system is under strain. What does that mean for families?</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2025/11/navigating-post-16-pathway-in-wales.html">Navigating the Post-16 Pathway in Wales</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2026/07/disabled-young-adults-after-19-neet-prevention-wales.html">Disabled Young Adults After 19: Wales Needs to Treat NEET Risk as a Prevention Crisis</a></li>
   <li><a href="https://blog.learnwithoutlimitscic.org/2026/01/the-changing-landscape-of-volunteering.html">The Changing Landscape of Volunteering: Why the Old Model No Longer Works</a></li>
   <li><a href="https://blog.learnwithoutlimitscic.org/2025/12/breaking-cycle-disabled-young-people.html">Breaking the Cycle: Disabled Young People, Welfare-to-Work Schemes, and the Way Forward in Wales</a></li>
-  <li><a href="https://blog.learnwithoutlimitscic.org/2026/07/disabled-young-adults-after-19-neet-prevention-wales.html">Disabled Young Adults After 19: Wales Needs to Treat NEET Risk as a Prevention Crisis</a></li>
-  <li><a href="https://blog.learnwithoutlimitscic.org/2025/11/navigating-post-16-pathway-in-wales.html">Navigating the Post-16 Pathway in Wales</a></li>
 </ul>
 
 <h2>Sources and useful links</h2>
@@ -429,12 +432,4 @@ It should never become a dead end.
   <li><a href="https://www.rda.org.uk" rel="noopener noreferrer" target="_blank">Riding for the Disabled Association</a></li>
 </ul>
 
-<h2>Related Learn Without Limits CIC articles and links</h2>
 
-<ul>
-  <li><a href="https://blog.learnwithoutlimitscic.org/2026/06/from-insight-to-delivery-aln-system-wales.html">June 2026 Open Call Stakeholder Briefing: From Insight to Delivery in the ALN System Wales</a></li>
-  <li><a href="https://learnwithoutlimitscic.org/bridge.en.html">Learn Without Limits CIC Bridge</a></li>
-  <li><a href="https://blog.learnwithoutlimitscic.org/2026/04/08/audit-wales-aln-system-under-strain/">Audit Wales says the ALN system is under strain. What does that mean for families?</a></li>
-  <li><a href="https://blog.learnwithoutlimitscic.org/2026/01/the-changing-landscape-of-volunteering.html">The changing landscape of volunteering</a></li>
-  <li><a href="https://blog.learnwithoutlimitscic.org/2025/12/breaking-cycle-disabled-young-people.html">Breaking the cycle: disabled young people and welfare-to-work schemes in Wales</a></li>
-</ul>
