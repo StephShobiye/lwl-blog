@@ -428,3 +428,13 @@ It should never become a dead end.
   <li><a href="https://www.flvc.org.uk" rel="noopener noreferrer" target="_blank">Flintshire Local Voluntary Council</a></li>
   <li><a href="https://www.rda.org.uk" rel="noopener noreferrer" target="_blank">Riding for the Disabled Association</a></li>
 </ul>
+
+<h2>Related Learn Without Limits CIC articles and links</h2>
+
+<ul>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2026/06/from-insight-to-delivery-aln-system-wales.html">June 2026 Open Call Stakeholder Briefing: From Insight to Delivery in the ALN System Wales</a></li>
+  <li><a href="https://learnwithoutlimitscic.org/bridge.en.html">Learn Without Limits CIC Bridge</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2026/04/08/audit-wales-aln-system-under-strain/">Audit Wales says the ALN system is under strain. What does that mean for families?</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2026/01/the-changing-landscape-of-volunteering.html">The changing landscape of volunteering</a></li>
+  <li><a href="https://blog.learnwithoutlimitscic.org/2025/12/breaking-cycle-disabled-young-people.html">Breaking the cycle: disabled young people and welfare-to-work schemes in Wales</a></li>
+</ul>
