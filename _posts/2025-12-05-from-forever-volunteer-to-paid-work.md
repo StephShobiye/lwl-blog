@@ -14,10 +14,10 @@ tags:
   - Wales
 ---
 
-<h1>From “Forever Volunteer” to Paid Work: How Volunteering Should Be a Bridge, Not a Dead End</h1>
+
 
 <p class="lead">
-Volunteering should build confidence, evidence, skills, references and progression. It should not become a permanent unpaid holding pattern.
+Volunteering should build confidence, evidence, skills, references, and progression. It should not become a permanent unpaid holding pattern.
 </p>
 
 <p>
