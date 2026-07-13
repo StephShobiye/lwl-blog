@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Post-16 College Waiting Lists in Wales: Why Today’s Capacity Problem Could Become Tomorrow’s NEET Crisis"
-date: 2026-07-13 09:56:00 +0100
-last_modified_at: 2026-07-13 09:56:00 +0100
+date: 2026-07-13 17:14:00 +0100
+last_modified_at: 2026-07-13 17:14:00 +0100
 permalink: /2026/07/post-16-college-waiting-lists-wales-neet-risk.html
 categories:
   - ALN
@@ -14,10 +14,10 @@ categories:
   - EOTAS
   - Home Education
   - Bridge
-Excerpt: "BBC Wales is reporting that hundreds of teenagers are on college waiting lists for September. Learn Without Limits CIC asks what this means for disabled young people, ALN, EOTAS, home education and Wales’ already serious post-19 NEET risk."
+excerpt: "BBC Wales is reporting that hundreds of teenagers are on college waiting lists for September. Learn Without Limits CIC asks what this means for disabled young people, ALN, EOTAS, home education and Wales’ already serious post-19 NEET risk."
 ---
 
-[BBC Wales is reporting that hundreds of teenagers are on college waiting lists for September](https://www.bbc.co.uk/news/articles/c07yldvr8dko), because colleges do not have enough funding to meet record demand for places [1].
+[BBC Wales is reporting that hundreds of teenagers are on college waiting lists for September](https://www.bbc.co.uk/news/articles/c07yldvr8dko), because colleges do not have enough funding to meet record demand for places.
 
 That should concern anyone thinking seriously about Additional Learning Needs (ALN), school breakdown, EOTAS, elective home education, post-16 transition and NEET prevention in Wales.
 
@@ -49,7 +49,7 @@ So when entry-level and Level 1 courses are full, the pressure falls hardest on 
 
 BBC Wales reports that Coleg Cambria has waiting lists for 44 courses, with entry-level and Level 1 places almost all full [1].
 
-In South Wales, Coleg y Cymoedd is reported as having funding for 4,600 learners, but applications from 6,000. The college has made offers to 5,500 learners, leaving around 500 young people on a waiting list [1].
+In south Wales, Coleg y Cymoedd is reported as having funding for 4,600 learners but applications from 6,000. The college has made offers to 5,500 learners, leaving around 500 young people on a waiting list [1].
 
 That is a structural squeeze.
 
@@ -65,7 +65,7 @@ It is the first place where learning begins to feel possible again.
 
 When systems are stretched, they do not stretch evenly.
 
-Young people with straightforward applications, clear grades, easy travel, family support, and confidence navigating admissions are usually better placed to survive a tight system.
+Young people with straightforward applications, clear grades, easy travel, family support and confidence navigating admissions are usually better placed to survive a tight system.
 
 Young people with disrupted education are not.
 
@@ -94,7 +94,7 @@ Another important detail in the BBC article is that college leaders say learners
 
 That deserves attention.
 
-Some young people are home-educated by positive choice. Others arrive there after school anxiety, unmet ALN, placement breakdown, bullying, attendance pressure or a long period of trying to make unsuitable provision work.
+Some young people are home educated by positive choice. Others arrive there after school anxiety, unmet ALN, placement breakdown, bullying, attendance pressure or a long period of trying to make unsuitable provision work.
 
 Either way, a young person educated outside school may still need a real post-16 route.
 
@@ -134,7 +134,7 @@ It is prevention thinking.
 
 The point is not that every young person on a waiting list will become NEET.
 
-The point is that a system already producing a 40.0% NEET rate for disabled 19-to-24-year-olds cannot afford to make the post-16 route even harder to access.
+The point is that a system already producing a 40.0% NEET rate for disabled 19 to 24-year-olds cannot afford to make the post-16 route even harder to access.
 
 ## NEET risk is created before it is counted
 
@@ -146,13 +146,13 @@ Anxiety rises. Attendance drops. Support does not match need. Confidence collaps
 
 Then the young person waits, disengages, or gives up.
 
-By the time they appear as a NEET statistic, the prevention window has often already been missed.
+By the time they appear in a NEET statistic, the prevention window has often already been missed.
 
-That is why the 40.0% disabled 19-to-24 NEET figure matters.
+That is why the 40.0% disabled 19 to 24 NEET figure matters.
 
 It should not be treated as a separate adult-employment problem.
 
-It is connected to what happens at 14, 15, 16, 17, and 18.
+It is connected to what happens at 14, 15, 16, 17 and 18.
 
 ## Colleges cannot solve this alone
 
@@ -160,17 +160,17 @@ This article should not be read as criticism of colleges.
 
 Many further education staff are trying to support young people in very difficult conditions.
 
-The BBC report describes colleges converting classrooms, setting up temporary buildings, increasing staff numbers, and stretching capacity as far as they can [1].
+The BBC report describes colleges converting classrooms, setting up temporary buildings, increasing staff numbers and stretching capacity as far as they can [1].
 
-But goodwill alone does not create unlimited tutors, workshops, transport, support staff, specialist provision or entry-level places.
+But goodwill does not create unlimited tutors, workshops, transport, support staff, specialist provision or entry-level places.
 
 ColegauCymru has warned that colleges in Wales face a £30 million funding shortfall from September alongside record levels of applications [3].
 
-If the sector is facing a funding gap as applications rise, Wales needs to treat that as a prevention issue, not only a budget line.
+If the sector is facing a funding gap while applications rise, Wales needs to treat that as a prevention issue, not only a budget line.
 
 A college place can be the difference between a young person moving forward and a young person becoming stuck.
 
-## Stopping a gap from becoming an ending
+## Stopping a gap becoming an ending
 
 For families, the practical question is immediate.
 
@@ -182,7 +182,7 @@ But they can sometimes reduce the risk that a temporary gap becomes permanent.
 
 That is where [Bridge](https://learnwithoutlimitscic.org/bridge.en.html) matters.
 
-Bridge is not a replacement for college, training, or specialist provision. It is a practical route for keeping young people connected, contributing, and building evidence while the formal route is unclear [5].
+Bridge is not a replacement for college, training or specialist provision. It is a practical route for keeping young people connected, contributing and building evidence while the formal route is unclear [5].
 
 For a young person who has already experienced anxiety, school breakdown, unmet ALN, EOTAS confusion or a disrupted education journey, waiting is not neutral.
 
@@ -194,11 +194,13 @@ A gap can become an ending.
 
 [Bridge](https://learnwithoutlimitscic.org/bridge.en.html) cannot solve the college capacity problem.
 
-But it can help some young people stay connected, test interests, build evidence, contribute safely, and take the next step while the formal route is being resolved.
+But it can help some young people stay connected, test interests, build evidence, contribute safely and take a next step while the formal route is being resolved.
 
 That matters because the aim is not to replace further education.
 
 The aim is to stop disruption becoming permanent.
+
+That is the same prevention logic behind our wider [Prevention, Bridging and Progression in the ALN System](https://blog.learnwithoutlimitscic.org/2026/03/18/prevention-bridging-progression-aln/) model [6].
 
 ## The question Wales needs to ask
 
@@ -214,7 +216,7 @@ That includes disabled young people, autistic young people, young people with AL
 
 If Wales is serious about reducing NEET risk, post-16 capacity cannot be treated as a seasonal admissions problem.
 
-It is a prevention infrastructure requirement.
+It is prevention infrastructure.
 
 When the route after 16 narrows, the consequences do not end in September.
 
