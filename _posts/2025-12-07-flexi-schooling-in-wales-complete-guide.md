@@ -73,7 +73,7 @@ permalink: /2025/12/flexi-schooling-in-wales-complete-guide.html
 Parents are told flexi schooling is illegal. Schools confuse it with <a data-preview="" href="https://www.google.com/search?ved=1t:260882&amp;q=define+reduced+timetables+education&amp;bbid=6470633950786405900&amp;bpid=2278906810955066571" target="_blank">reduced timetables</a>.<br data-end="1295" data-start="1292" />
 Local authority officers sometimes misunderstand it completely.</p>
 <p data-end="1466" data-start="1360">Yet flexi schooling is <strong data-end="1392" data-start="1383">legal</strong>, <strong data-end="1414" data-start="1394">well established</strong>, and used by many families across Wales every year.</p>
-<p data-end="1676" data-start="1468">Learn Without Limits CIC has supported parents with flexi schooling for more than a decade.<br data-end="1562" data-start="1559" />
+<p data-end="1676" data-start="1468">Learn Without Limits CIC has supported parents with flexi schooling for more than a decade.<br data-end="1562" data-start="1559" /><p><strong>2026 update:</strong> We have now published a newer ALN-focused follow-up to this guide: <a href="https://blog.learnwithoutlimitscic.org/2026/07/flexi-schooling-wales-2026-update-aln-families.html">Flexi-Schooling in Wales: 2026 Update for ALN Families</a>.</p>
 This guide sets the record straight with clear explanations, Welsh legal references, scripts and letter templates.</p>
 <hr data-end="1681" data-start="1678" />
 <h1 data-end="1724" data-start="1683"><strong data-end="1724" data-start="1685">2. What flexi schooling actually is</strong></h1>
