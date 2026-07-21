@@ -12,6 +12,7 @@ permalink: /2025/12/flexi-schooling-in-wales-complete-guide.html
 <h1 data-end="444" data-start="430"><strong data-end="444" data-start="432">Contents</strong></h1>
 <ol data-end="1094" data-start="446">
 <li data-end="463" data-start="446">
+  <p><strong>2026 update:</strong> We have now published a newer ALN-focused follow-up to this guide: <a href="https://blog.learnwithoutlimitscic.org/2026/07/flexi-schooling-wales-2026-update-aln-families.html">Flexi-Schooling in Wales: 2026 Update for ALN Families</a>.</p>
 <p data-end="463" data-start="449">Introduction</p>
 </li>
 <li data-end="501" data-start="464">
