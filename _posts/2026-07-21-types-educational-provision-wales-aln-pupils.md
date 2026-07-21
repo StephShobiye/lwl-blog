@@ -14,7 +14,6 @@ categories:
 excerpt: "Parents are often told about mainstream, specialist facilities, special schools, PRUs, EOTAS, flexi-schooling and home education without anyone explaining how the routes differ. This Wales-focused guide maps the main types of educational provision for ALN pupils up to the end of compulsory school age."
 ---
 
-# Types of Educational Provision in Wales for ALN Pupils
 
 Parents are often told about different types of educational provision without anyone stopping to explain what the labels actually mean.
 
