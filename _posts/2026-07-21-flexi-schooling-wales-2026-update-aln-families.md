@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Flexi-Schooling in Wales: 2026 Update for ALN Families"
-date: 2026-07-21 18:30:00 +0100
-last_modified_at: 2026-07-21 18:30:00 +0100
+date: 2026-07-21 10:30:00 +0100
+last_modified_at: 2026-07-21 10:30:00 +0100
 permalink: /2026/07/flexi-schooling-wales-2026-update-aln-families.html
 categories:
   - ALN
