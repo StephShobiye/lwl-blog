@@ -14,7 +14,6 @@ categories:
 excerpt: "Flexi-schooling is one of the topics families search for most often in our Welsh ALN guidance library. This 2026 update explains how flexi-schooling fits with ALN, IDPs, ALP, EOTAS, reduced timetables, attendance and transition planning in Wales."
 ---
 
-# Flexi-Schooling in Wales: 2026 Update for ALN Families
 
 This article follows on from our earlier guide, [Flexi-Schooling in Wales: A Complete Guide for Parents](https://blog.learnwithoutlimitscic.org/2025/12/flexi-schooling-in-wales-complete-guide.html).
 
