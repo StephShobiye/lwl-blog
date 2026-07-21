@@ -4,12 +4,7 @@ title: "Flexi-Schooling in Wales: A Complete Guide for Parents"
 date: 2025-12-07 01:27:00 +0000
 last_modified_at: 2026-07-21 17:00:00 +0100
 permalink: /2025/12/flexi-schooling-in-wales-complete-guide.html
-categories:
-Wales
-ALN
-Flexi-Schooling
-Home Education
-Parent Guides
+categories: ["Wales", "ALN", "Flexi-Schooling", "Home Education", "Parent Guides"]
 excerpt: "Flexi-schooling is legal in Wales, but it is often misunderstood. This parent guide explains what flexi-schooling is, what it is not, how it links to ALN, EOTAS, home education and attendance coding, and how families can request it."
 ---
 Flexi-Schooling in Wales: A Complete Guide for Parents
