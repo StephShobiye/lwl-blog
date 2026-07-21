@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Autistic Young People, Fawning and Frenemies: When Being Nice Stops Being Safe"
-date: 2026-07-22 10:00:00 +0100
-last_modified_at: 2026-07-22 10:00:00 +0100
+title: "Autistic Young People, Masking and People-Pleasing: When Being Nice Stops Being Safe"
+date: 2026-07-21 19:00:00 +0100
+last_modified_at: 2026-07-21 19:00:00 +0100
 permalink: /2026/07/autistic-young-people-fawning-frenemies-masking.html
 categories:
   - ALN
