@@ -673,8 +673,7 @@ The children are not the end of the pathway.
 
 
 
-
-<div style="color:#0b1f4d;">
+<div style="color:#0b1f4d; border-left:4px solid #0b1f4d; padding:1rem 1.25rem; margin-top:2rem;" markdown="1">
 
 ## A research gap Wales should fill
 
