@@ -665,3 +665,29 @@ The children are not the end of the pathway.
 <a id="ref-25"></a>**[25]** Office for National Statistics, “[Housing affordability in England and Wales: 2025](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/latest),” 26 Mar. 2026. [Online]. Accessed: 5 Sept. 2026.
 
 <a id="ref-26"></a>**[26]** Department for Work and Pensions, “[Young people and work: interim report analytical annex](https://www.gov.uk/government/publications/young-people-and-work-interim-report/young-people-and-work-interim-report-analytical-annex),” independent report, updated 10 Aug. 2026. [Online]. Accessed: 5 Sept. 2026.
+
+
+
+
+
+
+
+
+
+<div style="color:#0b1f4d;">
+
+## A research gap Wales should fill
+
+There is an important evidence gap beneath this discussion. Wales does not currently have a published longitudinal dataset which allows researchers to follow young people's journeys across school attendance, ALN, EHE or EOTAS, post-16 progression, further education, health and service transitions, and later NEET outcomes through the early twenties.
+
+That limits our ability to distinguish correlation from genuine life-course pathways.
+
+**Learn Without Limits would welcome academic and public-sector research using appropriately safeguarded, de-identified linked data to examine these transitions longitudinally.**
+
+In particular, Wales needs to understand which experiences most strongly predict successful re-engagement, which transition points carry the greatest risk of long-term disconnection, and where timely navigation or intervention has the greatest preventative value.
+
+That would allow Wales to move from identifying warning signs at successive ages to understanding **which pathways young people actually travel, where they are most likely to fall out, and what helps them get back in**.
+
+This is not simply an academic question. Better longitudinal evidence could inform commissioning, FE capacity planning, EOTAS, ALN policy, mental-health provision, employability spending and prevention investment.
+
+</div>
