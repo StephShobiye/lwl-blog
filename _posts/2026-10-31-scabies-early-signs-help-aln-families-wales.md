@@ -3,7 +3,7 @@ layout: post
 title: "Scabies: Early Signs and Getting Help for ALN Families in Wales"
 description: "Recognise possible scabies symptoms, find free pharmacy help in Wales and plan treatment around eczema, sensory needs, infants and household contacts."
 date: 2026-10-31 22:10:00 +0000
-last_modified_at: 2026-10-31 22:10:00 +0000
+last_modified_at: 2026-11-01 13:08:25 +0000
 permalink: /2026/10/scabies-early-signs-help-aln-families-wales.html
 categories: [ALN, Wales, Health, Family Support, Sensory Needs]
 excerpt: "A calm guide to possible early scabies symptoms, different skin tones, the Welsh Common Ailments Service and practical support for families with eczema or sensory needs."
@@ -26,6 +26,8 @@ Recent Welsh health board notices have brought scabies to public attention [[1]]
 - **New, persistent itching or an unfamiliar rash:** contact a pharmacist or GP for assessment.
 - **Painful, hot or swollen skin, rapid worsening, fever or feeling unwell:** seek urgent GP advice or call **NHS 111 Wales** [[2]](#ref-2), [[3]](#ref-3).
 - **A close-contact notification:** follow its instructions, even if you have no symptoms.
+
+**Your local pharmacy is a straightforward place to start.** Ask about the [Welsh Common Ailments Service](#getting-help), which provides free NHS advice and appropriate treatment following assessment. You may be able to fit the consultation around an ordinary trip out, without arranging a GP appointment first. The pharmacist will assess the situation and explain whether anyone needs referral. You do not have to work that out yourself.
 
 **Find what you need:**
 
@@ -133,7 +135,9 @@ Scabies is included in the Welsh **Common Ailments Service**, sometimes called t
 
 Find local pharmacies through [NHS 111 Wales Services Near You](https://111.wales.nhs.uk/localservices/).
 
-Consider phoning first. Explain:
+You can ask at the pharmacy while you are already out. If you prefer, phone ahead to check when a pharmacist is available or discuss accessibility support. Phoning first is optional.
+
+During the consultation, explain:
 
 - Who has symptoms and their ages.
 - Any known close contact.
