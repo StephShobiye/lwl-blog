@@ -3,241 +3,78 @@ layout: post
 title: "IDP in Wales Explained: A Complete Parent Guide to Individual Development Plans"
 date: 2026-03-21 16:00:00 +0000
 permalink: /idp-in-wales-explained/
+last_modified_at: 2026-11-20 22:08:59 +0000
+description: "Understand IDPs in Wales, who secures additional learning provision, where information belongs and what to do when support needs attention."
 ---
 
-# IDP in Wales Explained  
-## A Complete Parent Guide to Individual Development Plans
+**Updated 20 November 2026.** Corrected who is responsible for securing provision, the IDP section references and the distinction between plan contents and delivery. Clarified that an IDP does not automatically establish EOTAS or transport entitlement. Added current sources and practical next steps.
 
-If you are navigating Additional Learning Needs (ALN) in Wales, you will hear one term again and again:
+An Individual Development Plan, or IDP, records a child or young person’s additional learning needs (ALN) and the additional learning provision (ALP) called for by those needs.
 
-**IDP — Individual Development Plan**
+The useful questions are straightforward: what does the learner need, what support will be provided, who is responsible and how will everyone know whether it is helping?
 
-But what an IDP *actually means in practice* is often unclear.
+## What an IDP does
 
-Parents are frequently told:
-- “Your child might need an IDP”
-- “We’ll review the IDP”
-- “The IDP is being drafted”
+The Welsh ALN framework uses statutory IDPs. Having a diagnosis does not automatically establish ALN: the statutory test considers the learning difficulty or disability and whether it calls for ALP. Provision is educational or training provision additional to, or different from, that generally made for others of the same age in the relevant settings. <span id="cite-1"></span>[[1, chs. 2 and 20]](#ref-1)
 
-Without ever being shown:
-👉 what a strong IDP looks like  
-👉 what your rights are  
-👉 what to do when things go wrong  
+If you think your child may have ALN, [our guide to requesting an IDP]({% post_url 2026-01-04-idp-series-how-to-request-idp-in-wales %}) explains how to raise the question. Read it alongside current Welsh Government guidance, which explains transparent decisions and communication. <span id="cite-2"></span>[[2]](#ref-2)
 
-This guide brings everything together in one place.
+## Who is responsible?
 
----
+Check section 1B.1 for the organisation maintaining the plan. It may be a maintained school, further education institution or local authority.
 
-## ⭐ What an IDP Actually Is
+Broadly, that body must secure the ALP described in the IDP. Relevant NHS treatment or services identified through the statutory arrangements have separate NHS securing duties. It is therefore incorrect to assume that the local authority is always responsible for every item in section 2. [[1, chs. 12, 16 and 21]](#ref-1)
 
-An **Individual Development Plan (IDP)** is a **legal document** under the ALN Act 2018.
+Ask who is arranging each part of the support and who should be contacted if it does not happen. Families should not have to coordinate services in place of the responsible bodies.
 
-It sets out:
-- your child’s needs  
-- the support required to meet those needs  
-- who is responsible for delivering that support  
+## Finding your way around the plan
 
-If something is written clearly in Section 2 of an IDP:
+| Section | What it covers |
+|---|---|
+| 1A–1C | Biographical and communication information, responsibility and review dates, and the learner’s profile |
+| 2A | Description of ALN |
+| 2B | ALP and its delivery, with intended outcomes |
+| 2C | ALP to be secured by an NHS body |
+| 2D | Particular placement or board-and-lodging provision where the legal conditions apply |
+| Part 3 | Relevant supporting information, including transition and travel arrangements |
 
-👉 the Local Authority **must** secure it  
+The standard form and its completion requirements are in chapter 23 and Annex A of the Code. A different form applies to looked-after children. See [what must be included in an IDP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}) for the section-by-section guide. [[1, chs. 23–24]](#ref-1)
 
-If it is vague or missing:
+## What makes the plan useful?
 
-👉 it is **very difficult to enforce**
+Look for a clear connection between needs, provision and intended outcomes. A reader should be able to understand what staff will do, how regularly support will be available and how progress will be checked.
 
----
+The Code says provision should be detailed, specific and quantifiable. Unclear wording is a reason to ask for clarification or review, not evidence that the plan has ceased to carry legal duties. [[1, para. 23.37]](#ref-1)
 
-## ⭐ The 4 Things Every Parent Needs to Understand
+## Health, home education and other arrangements
 
-### 1. An IDP is enforceable (but only if written properly)
-The difference between a weak and strong IDP is everything.
+Healthcare and education plans can work together. [Our IDP versus IHP guide]({% post_url 2026-01-02-idp-vs-ihp-in-wales %}) explains the distinction. Health or social care information does not automatically make every service ALP.
 
-👉 Read:  
-**What must be included in an IDP**  
-[IDP Series: What Must Be Included in an IDP | Cyfres CTP: Beth sy’n Rhaid yn y CTP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
+Home education does not itself remove a compulsory-school-age child’s ALN rights. Where the responsible authority identifies ALN, its IDP and ALP duties apply. Support supplementing home education does not automatically turn the whole arrangement into EOTAS. <span id="cite-3"></span>[[3]](#ref-3)
 
----
+Likewise, a breakdown in attendance does not by itself settle EOTAS eligibility or who must maintain a plan. Ask for the individual decision and reasons. Travel can be recorded in section 3D, but inclusion there does not itself establish transport entitlement. [[1, chs. 18 and 23]](#ref-1)
 
-### 2. You can request an IDP at any time
-You do not need to wait for school to suggest it.
+## When support is not working
 
-👉 Step-by-step guide:  
-**How to request an IDP in Wales**  
-https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/
+Raise the concern early with the teacher, tutor or ALNCo. Listen to the learner’s experience, agree an action and check-back date, and keep a brief note.
 
----
+Separate two questions: is appropriate provision missing in practice, or does the plan itself need changing? A delivery problem and a contents dispute can occur together.
 
-### 3. The responsibility can sit with school or the Local Authority
-This affects:
-- funding  
-- provision  
-- escalation routes  
+You can request a review before the annual review date. The body maintaining the IDP must review it unless it considers a review unnecessary. [Our review guide]({% post_url 2025-11-26-idp-series-what-makes-good-idp-review %}) explains preparation and follow-up. [[1, ch. 25]](#ref-1)
 
-👉 Understand the difference:  
-**School vs Local Authority IDPs**  
-[IDP Series: School vs LA IDPs | Cyfres CTP: CTP Ysgol vs ALl]({% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %})
+For continuing disagreement, see [how to challenge an ALN decision]({% post_url 2026-03-28-challenge-aln-decision-wales %}). Seek qualified advice promptly where education is seriously affected or a deadline may apply.
 
----
+The purpose of the plan is support that works in practice, with the child or young person involved in decisions about their learning.
 
-### 4. IDPs must be reviewed and updated
-An IDP is not a static document.
+### About this guidance
 
-If needs change:
-👉 the plan must change  
+Learn Without Limits CIC provides general information and guidance only. This article is not a substitute for advice about your individual circumstances. Where relevant, seek advice from a suitably qualified healthcare professional or legal adviser.
 
-👉 What a good review looks like:  
-https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/
+### References
 
----
+<span id="ref-1"></span>[1] Welsh Government, [“The Additional Learning Needs Code for Wales 2021”](https://www.gov.wales/additional-learning-needs-code), 2021. [Online]. Accessed: Nov. 20, 2026. [Return to first citation](#cite-1).
 
-## ⭐ What Should Be in a Strong IDP
+<span id="ref-2"></span>[2] Welsh Government, [“Additional learning needs (ALN): decision-making and communication”](https://www.gov.wales/additional-learning-needs-aln-decision-making-and-communication-html), updated Nov. 4, 2026. [Online]. Accessed: Nov. 20, 2026. [Return to first citation](#cite-2).
 
-A strong IDP includes:
+<span id="ref-3"></span>[3] Welsh Government, [“Additional learning needs (ALN) and elective home education”](https://www.gov.wales/additional-learning-needs-aln-and-elective-home-education-html), Mar. 27, 2026. [Online]. Accessed: Nov. 20, 2026. [Return to first citation](#cite-3).
 
-- clear description of needs (Section 1)  
-- **specific, quantified provision** (Section 2)  
-- named responsibility (who delivers what)  
-- frequency and duration of support  
-- measurable outcomes  
-
-Weak wording looks like:
-❌ “access to support”  
-❌ “opportunities to develop”  
-
-Strong wording looks like:
-✔ “1:1 support for 60 minutes, 3 times per week delivered by…”  
-
-👉 Full breakdown here:  
-[IDP Series: What Must Be Included in an IDP | Cyfres CTP: Beth sy’n Rhaid yn y CTP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
-
----
-
-## ⭐ Health and Social Care in IDPs
-
-IDPs are not just about education.
-
-They can include:
-- Speech and Language Therapy  
-- Occupational Therapy  
-- mental health support  
-- social care input  
-
-👉 Explained here:  
-[IDP Series, Health & Social Care]({% post_url 2025-11-25-idp-series-health-social-care %})
-
----
-
-## ⭐ Private Diagnoses and IDPs
-
-Parents often worry:
-
-“Will a private diagnosis be accepted?”
-
-The answer is:
-👉 sometimes yes, sometimes no  
-👉 but it can still be powerful evidence  
-
-👉 Full guide:  
-[IDP Series: Private Diagnoses and the IDP Process in Wales]({% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %})
-
----
-
-## ⭐ IDP vs IHP (Common Confusion)
-
-Many parents are given an **Individual Healthcare Plan (IHP)** instead of an IDP.
-
-These are not the same.
-
-👉 Key differences explained:  
-https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/
-
----
-
-## ⭐ If the IDP Process Breaks Down
-
-This is where many families struggle.
-
-Common issues:
-- delays in drafting  
-- vague provision  
-- refusal to escalate  
-- school retaining control when LA should take over  
-
-👉 Start here if you're stuck:  
-https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/
-
----
-
-## ⭐ How IDPs Link to EOTAS
-
-In some cases, an IDP leads to:
-
-👉 **Education Other Than At School (EOTAS)**
-
-This happens when:
-- school cannot meet need  
-- attendance becomes unsafe or impossible  
-- provision breaks down  
-
-👉 Read the full EOTAS series:  
-[EOTAS in Wales – Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
-
----
-
-## ⭐ The Reality Parents Are Not Told
-
-The system works best when:
-
-✔ needs are clearly evidenced  
-✔ provision is written precisely  
-✔ parents understand how to challenge decisions  
-
-It struggles when:
-
-❌ language is vague  
-❌ responsibility is unclear  
-❌ delays go unchallenged  
-
----
-
-## ⭐ Final Thought
-
-You do not need to become a legal expert.
-
-You just need to understand:
-
-👉 what your child needs  
-👉 how that must be written  
-👉 how to challenge when it is not  
-
-That is where things start to change.
-
----
-
-## 📚 IDP in Wales – Full Guide Series
-
-- How to request an IDP  
-https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/
-
-- What must be included in an IDP  
-[IDP Series: What Must Be Included in an IDP | Cyfres CTP: Beth sy’n Rhaid yn y CTP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
-
-- School vs Local Authority IDPs  
-[IDP Series: School vs LA IDPs | Cyfres CTP: CTP Ysgol vs ALl]({% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %})
-
-- What makes a good IDP review  
-https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/
-
-- Health and social care in IDPs  
-[IDP Series, Health & Social Care]({% post_url 2025-11-25-idp-series-health-social-care %})
-
-- Private diagnoses and IDPs  
-[IDP Series: Private Diagnoses and the IDP Process in Wales]({% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %})
-
-- IDP vs IHP  
-https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/
-
-- Parent guide to requesting an IDP  
-https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/
-
----
