@@ -54,7 +54,7 @@ The difference between a weak and strong IDP is everything.
 
 👉 Read:  
 **What must be included in an IDP**  
-{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}
+[IDP Series: What Must Be Included in an IDP | Cyfres CTP: Beth sy’n Rhaid yn y CTP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
 
 ---
 
@@ -75,7 +75,7 @@ This affects:
 
 👉 Understand the difference:  
 **School vs Local Authority IDPs**  
-{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}
+[IDP Series: School vs LA IDPs | Cyfres CTP: CTP Ysgol vs ALl]({% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %})
 
 ---
 
@@ -108,7 +108,7 @@ Strong wording looks like:
 ✔ “1:1 support for 60 minutes, 3 times per week delivered by…”  
 
 👉 Full breakdown here:  
-{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}
+[IDP Series: What Must Be Included in an IDP | Cyfres CTP: Beth sy’n Rhaid yn y CTP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
 
 ---
 
@@ -123,7 +123,7 @@ They can include:
 - social care input  
 
 👉 Explained here:  
-{% post_url 2025-11-25-idp-series-health-social-care %}
+[IDP Series, Health & Social Care]({% post_url 2025-11-25-idp-series-health-social-care %})
 
 ---
 
@@ -138,7 +138,7 @@ The answer is:
 👉 but it can still be powerful evidence  
 
 👉 Full guide:  
-{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}
+[IDP Series: Private Diagnoses and the IDP Process in Wales]({% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %})
 
 ---
 
@@ -180,7 +180,7 @@ This happens when:
 - provision breaks down  
 
 👉 Read the full EOTAS series:  
-{% post_url 2025-12-08-eotas-in-wales-part-1 %}
+[EOTAS in Wales – Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 
 ---
 
@@ -220,19 +220,19 @@ That is where things start to change.
 https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/
 
 - What must be included in an IDP  
-{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}
+[IDP Series: What Must Be Included in an IDP | Cyfres CTP: Beth sy’n Rhaid yn y CTP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
 
 - School vs Local Authority IDPs  
-{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}
+[IDP Series: School vs LA IDPs | Cyfres CTP: CTP Ysgol vs ALl]({% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %})
 
 - What makes a good IDP review  
 https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/
 
 - Health and social care in IDPs  
-{% post_url 2025-11-25-idp-series-health-social-care %}
+[IDP Series, Health & Social Care]({% post_url 2025-11-25-idp-series-health-social-care %})
 
 - Private diagnoses and IDPs  
-{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}
+[IDP Series: Private Diagnoses and the IDP Process in Wales]({% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %})
 
 - IDP vs IHP  
 https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/
