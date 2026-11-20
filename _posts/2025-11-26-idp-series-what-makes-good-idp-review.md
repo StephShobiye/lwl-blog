@@ -2,7 +2,7 @@
 layout: post
 title: 'IDP Series: What Makes a Good IDP Review?'
 date: 2025-11-26 08:30:00 +0000
-last_modified_at: 2026-11-20 22:08:59 +0000
+last_modified_at: 2026-11-20 22:25:46 +0000
 permalink: /2025/11/idp-series-what-makes-good-idp-review.html
 description: "Prepare for a constructive IDP review in Wales: learner participation, provision, NHS input, review requests, responsibilities and follow-up."
 ---
@@ -70,6 +70,8 @@ Ask for the outcome and any revised IDP, who will deliver each action and what w
 For disagreements, [our challenge guide]({% post_url 2026-03-28-challenge-aln-decision-wales %}) explains the distinction between reconsideration, complaints and appeal. Current Welsh Government guidance also explains communication and rights. <span id="cite-2"></span>[[2]](#ref-2)
 
 See [IDP in Wales explained]({% post_url 2026-03-21-idp-in-wales %}), [what belongs in the plan]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}) and [IDP versus IHP]({% post_url 2026-01-02-idp-vs-ihp-in-wales %}).
+
+Not every delivery problem needs a formal review. [Read our practical guide when IDP support is not happening]({% post_url 2026-11-20-idp-support-not-happening-wales %}) for early conversations, shared solutions and appropriate escalation.
 
 ### About this guidance
 

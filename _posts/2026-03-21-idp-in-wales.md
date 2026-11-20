@@ -3,7 +3,7 @@ layout: post
 title: "IDP in Wales Explained: A Complete Parent Guide to Individual Development Plans"
 date: 2026-03-21 16:00:00 +0000
 permalink: /idp-in-wales-explained/
-last_modified_at: 2026-11-20 22:08:59 +0000
+last_modified_at: 2026-11-20 22:25:46 +0000
 description: "Understand IDPs in Wales, who secures additional learning provision, where information belongs and what to do when support needs attention."
 ---
 
@@ -65,6 +65,8 @@ You can request a review before the annual review date. The body maintaining the
 For continuing disagreement, see [how to challenge an ALN decision]({% post_url 2026-03-28-challenge-aln-decision-wales %}). Seek qualified advice promptly where education is seriously affected or a deadline may apply.
 
 The purpose of the plan is support that works in practice, with the child or young person involved in decisions about their learning.
+
+If agreed support is not happening, [our practical guide to getting IDP support working]({% post_url 2026-11-20-idp-support-not-happening-wales %}) explains early conversations, records and next steps.
 
 ### About this guidance
 
