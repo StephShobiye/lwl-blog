@@ -674,7 +674,7 @@ If a child is burnt out, traumatised or exhausted, they may need rest and gentle
 ## Continue reading
 
 - [EOTAS explained in Wales: what it is, what it isn’t, and what to ask for](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/)
-- [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html)
+- [EOTAS in Wales – Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 - [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2.html)
 - [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3.html)
 - [Specialist Interventions Under EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)

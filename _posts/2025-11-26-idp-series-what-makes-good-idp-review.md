@@ -42,11 +42,11 @@ Done well, they help children progress, ensure needs are understood, and support
 <p>Related guidance:</p>
 <ul>
 <li>What must be included in an IDP<br />
-<a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/</a></li>
+<a href="{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}">{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}</a></li>
 <li>School vs Local Authority IDPs<br />
-<a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyfres-ctp/">https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyfres-ctp/</a></li>
+<a href="{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}">{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}</a></li>
 <li>Health and social care in IDPs<br />
-<a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/</a></li>
+<a href="{% post_url 2025-11-25-idp-series-health-social-care %}">{% post_url 2025-11-25-idp-series-health-social-care %}</a></li>
 </ul>
 
 <hr data-end="1139" data-start="1136" />
@@ -439,11 +439,11 @@ It is not legal advice. For individual cases, families may wish to seek independ
 <ul>
 <li><a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">IDP in Wales explained</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyfres-ctp/">School vs Local Authority IDPs</a></li>
+<li><a href="{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}">What must be included in an IDP</a></li>
+<li><a href="{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}">School vs Local Authority IDPs</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and the IDP process</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></li>
+<li><a href="{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}">Private diagnoses and the IDP process</a></li>
+<li><a href="{% post_url 2025-11-25-idp-series-health-social-care %}">Health and social care in IDPs</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP in Wales</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">A parent’s guide to requesting an IDP</a></li>
 </ul>

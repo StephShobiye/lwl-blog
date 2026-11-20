@@ -116,7 +116,7 @@ That includes helping families make sense of practical next steps such as [how t
 
 Navigation can also become especially difficult at transition points between stages: changing schools, moving into [post-16 education](https://blog.learnwithoutlimitscic.org/2025/11/navigating-post-16-pathway-in-wales.html), losing an existing placement, shifting between services, or trying to work out who is now responsible for what. Families are often expected to hold the whole map in their heads while the ground is moving under their feet.
 
-That matters, because the problem is not that nothing exists. The problem is that families are too often left trying to navigate fragmented systems without a clear route through them, especially where responsibilities across education, [health and social care](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-health-social-care.html) are already difficult to untangle.
+That matters, because the problem is not that nothing exists. The problem is that families are too often left trying to navigate fragmented systems without a clear route through them, especially where responsibilities across education, [health and social care]({% post_url 2025-11-25-idp-series-health-social-care %}) are already difficult to untangle.
 
 We are not trying to become every family’s caseworker. We are trying to make the route through support less confusing and less dependent on insider knowledge.
 

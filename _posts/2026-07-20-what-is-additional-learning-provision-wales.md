@@ -439,7 +439,7 @@ As the practical question at the centre of the plan:
 - [What Schools Must Do When They Suspect ALN in Wales](https://blog.learnwithoutlimitscic.org/2026/03/what-schools-must-do-aln-wales.html)
 - [ALN Decision-Making Timescales in Wales](https://blog.learnwithoutlimitscic.org/2026/03/aln-decision-making-timescales-wales.html)
 - [How to Challenge an ALN Decision in Wales](https://blog.learnwithoutlimitscic.org/2026/03/challenge-aln-decision-wales.html)
-- [IDP Series: What Must Be Included in an IDP](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-must-be-included-in-idp.html)
+- [IDP Series: What Must Be Included in an IDP]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
 - [IDP vs IHP in Wales](https://blog.learnwithoutlimitscic.org/2026/01/idp-vs-ihp-in-wales.html)
 
 ## References

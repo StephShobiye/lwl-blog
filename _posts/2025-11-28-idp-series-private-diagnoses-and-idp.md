@@ -4,6 +4,8 @@ title: 'IDP Series: Private Diagnoses and the IDP Process in Wales'
 date: 2025-11-28 10:44:32 +0000
 last_modified_at: 2025-11-28 10:44:32 +0000
 permalink: /2025/11/idp-series-private-diagnoses-and-idp.html
+redirect_from:
+  - /2025/11/28/idp-series-private-diagnoses-and-idp/
 ---
 
 <p>&nbsp;</p><h1 data-end="356" data-start="303">Private Diagnoses and the IDP Process in Wales:</h1>
@@ -341,11 +343,11 @@ Can you put your position in writing?”</strong></p>
 <hr />
 <h2>IDP in Wales – Full Guide Series</h2>
 <p><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/">School vs Local Authority IDPs</a></p>
+<p><a href="{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}">What must be included in an IDP</a></p>
+<p><a href="{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}">School vs Local Authority IDPs</a></p>
 <p><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and IDPs</a></p>
+<p><a href="{% post_url 2025-11-25-idp-series-health-social-care %}">Health and social care in IDPs</a></p>
+<p><a href="{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}">Private diagnoses and IDPs</a></p>
 <p><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP</a></p>
 <p><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">Parent's Guide to requesting an IDP</a></p>
 

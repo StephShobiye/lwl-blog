@@ -152,7 +152,7 @@ A child being at home does not automatically mean they are being electively home
 
 For example, a child who is at home because a school placement has broken down is not automatically in the same position as a child whose parent has freely chosen elective home education. One situation may raise questions about parent-led education. The other may raise questions about whether the local authority has arranged suitable education or secured ALP.
 
-Families trying to understand EOTAS may find our earlier guide, [EOTAS in Wales: Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1) helpful [13].
+Families trying to understand EOTAS may find our earlier guide, [EOTAS in Wales: Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %}) helpful [13].
 
 This distinction is likely to become even more important under the new children not in school framework. If the category is wrong, the response may be wrong too.
 
@@ -389,7 +389,7 @@ The practical operation of the children not in school measures in Wales will dep
 
 [12] Learn Without Limits CIC, [IDP Series: What Makes a Good IDP Review?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-makes-good-idp-review.html), 26 November 2025.
 
-[13] Learn Without Limits CIC, [EOTAS in Wales: Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1), 8 December 2025.
+[13] Learn Without Limits CIC, [EOTAS in Wales: Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %}), 8 December 2025.
 
 [14] Learn Without Limits CIC, [Attendance warnings, fines and prosecution in Wales: what parents need to know](https://blog.learnwithoutlimitscic.org/2026/01/attendance-warnings-fines-and.html), 16 January 2026.
 

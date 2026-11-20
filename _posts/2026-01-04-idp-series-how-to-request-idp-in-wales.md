@@ -18,7 +18,7 @@ permalink: /2026/01/idp-series-how-to-request-idp-in-wales.html
 <p>You may also find helpful:</p>
 <ul>
 <li>What must be included in an IDP<br />
-<a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/</a></li>
+<a href="{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}">{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}</a></li>
 <li>A parent’s guide to requesting an IDP<br />
 <a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/</a></li>
 <li>What makes a good IDP review<br />
@@ -307,11 +307,11 @@ You do not need proof beyond doubt.</p>
 <ul>
 <li><a href="https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/">IDP in Wales explained</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/">School vs Local Authority IDPs</a></li>
+<li><a href="{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}">What must be included in an IDP</a></li>
+<li><a href="{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}">School vs Local Authority IDPs</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and the IDP process</a></li>
-<li><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></li>
+<li><a href="{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}">Private diagnoses and the IDP process</a></li>
+<li><a href="{% post_url 2025-11-25-idp-series-health-social-care %}">Health and social care in IDPs</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP in Wales</a></li>
 <li><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">A parent’s guide to requesting an IDP</a></li>
 </ul>

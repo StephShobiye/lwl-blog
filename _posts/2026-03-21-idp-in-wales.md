@@ -54,7 +54,7 @@ The difference between a weak and strong IDP is everything.
 
 👉 Read:  
 **What must be included in an IDP**  
-https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/
+{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}
 
 ---
 
@@ -75,7 +75,7 @@ This affects:
 
 👉 Understand the difference:  
 **School vs Local Authority IDPs**  
-https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/
+{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}
 
 ---
 
@@ -108,7 +108,7 @@ Strong wording looks like:
 ✔ “1:1 support for 60 minutes, 3 times per week delivered by…”  
 
 👉 Full breakdown here:  
-https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/
+{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}
 
 ---
 
@@ -123,7 +123,7 @@ They can include:
 - social care input  
 
 👉 Explained here:  
-https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/
+{% post_url 2025-11-25-idp-series-health-social-care %}
 
 ---
 
@@ -138,7 +138,7 @@ The answer is:
 👉 but it can still be powerful evidence  
 
 👉 Full guide:  
-https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/
+{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}
 
 ---
 
@@ -180,7 +180,7 @@ This happens when:
 - provision breaks down  
 
 👉 Read the full EOTAS series:  
-https://blog.learnwithoutlimitscic.org/2025/12/08/eotas-in-wales-part-1/
+{% post_url 2025-12-08-eotas-in-wales-part-1 %}
 
 ---
 
@@ -220,19 +220,19 @@ That is where things start to change.
 https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/
 
 - What must be included in an IDP  
-https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/
+{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}
 
 - School vs Local Authority IDPs  
-https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/
+{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}
 
 - What makes a good IDP review  
 https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/
 
 - Health and social care in IDPs  
-https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/
+{% post_url 2025-11-25-idp-series-health-social-care %}
 
 - Private diagnoses and IDPs  
-https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/
+{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}
 
 - IDP vs IHP  
 https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/

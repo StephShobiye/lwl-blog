@@ -16,7 +16,7 @@ Published 12 December 2025
 
 ⬅️ Previous: [Part 4 – Specialist Interventions Under EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)
 
-🔄 Start again at [Part 1 – Introduction to EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html)
+🔄 Start again at [Part 1 – Introduction to EOTAS]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 
 If you have not read the first part yet, start with [Specialist Interventions Under EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html).
 
@@ -880,7 +880,7 @@ https://www.eventbrite.com/e/eotas-in-wales-online-parent-clinic-learn-without-l
 ## Continue reading
 
 - [EOTAS explained in Wales: what it is, what it isn’t, and what to ask for](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/)
-- [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1.html)
+- [EOTAS in Wales – Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 - [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2.html)
 - [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3.html)
 - [Specialist Interventions Under EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)

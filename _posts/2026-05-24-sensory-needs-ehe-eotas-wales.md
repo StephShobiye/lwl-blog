@@ -392,7 +392,7 @@ In practice, however, families often report significant confusion around:
 
 Related reading:
 
-- [EOTAS in Wales - Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)
+- [EOTAS in Wales - Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 - [How to Request EOTAS in Wales](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3/)
 - [EOTAS vs Home Education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html)
 

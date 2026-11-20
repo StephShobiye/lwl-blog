@@ -29,6 +29,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # RSS feed settings
 feed:

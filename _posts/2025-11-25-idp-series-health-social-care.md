@@ -4,6 +4,8 @@ title: IDP Series, Health & Social Care
 date: 2025-11-25 12:06:00 +0000
 last_modified_at: 2025-11-25 16:16:03 +0000
 permalink: /2025/11/idp-series-health-social-care.html
+redirect_from:
+  - /2025/11/25/idp-series-health-social-care/
 ---
 
 <p>&nbsp;</p><h1 data-end="559" data-start="428"><strong data-end="559" data-start="430">&nbsp;IDP Series,</strong><strong data-end="559" data-start="430">&nbsp;Health &amp; Social Care: What Must Be Included, What Local Health Boards Owe Your Child, and What to Do When They Refuse&nbsp;<br /><br /><br /></strong><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgWoCnTrG7KXdaQVnv8_vy7XKcbFFnJkicVdQJj9Yted9nb-aIad86j9__hRuq7nhy23iSVPPHl5BMv6DjieM0R0EuiZaM-7jsLwwBypeyaspzYnyMwWP8-N1Fl4oRw7Jv3TcA6fsVPoqhzhjqGQxAHwyaWWQnGxQetgXcTy6Jz4X-UUCGARt2E3XACqz0/s1536/ChatGPT%20Image%20Nov%2025,%202025,%2012_01_13%20PM.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1536" data-original-width="1024" height="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgWoCnTrG7KXdaQVnv8_vy7XKcbFFnJkicVdQJj9Yted9nb-aIad86j9__hRuq7nhy23iSVPPHl5BMv6DjieM0R0EuiZaM-7jsLwwBypeyaspzYnyMwWP8-N1Fl4oRw7Jv3TcA6fsVPoqhzhjqGQxAHwyaWWQnGxQetgXcTy6Jz4X-UUCGARt2E3XACqz0/w266-h400/ChatGPT%20Image%20Nov%2025,%202025,%2012_01_13%20PM.png" width="266" /></a></div><br /></h1>
@@ -170,11 +172,11 @@ Could you confirm in writing whether this advice will be provided?”</strong></
 <hr />
 <h2>IDP in Wales – Full Guide Series</h2>
 <p><a href="https://blog.learnwithoutlimitscic.org/2026/01/04/idp-series-how-to-request-idp-in-wales/">How to request an IDP</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/24/idp-series-what-must-be-included-in-idp/">What must be included in an IDP</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/22/idp-series-school-vs-la-idps-cyffes-ctp/">School vs Local Authority IDPs</a></p>
+<p><a href="{% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %}">What must be included in an IDP</a></p>
+<p><a href="{% post_url 2025-11-22-idp-series-school-vs-la-idps-cyfres-ctp %}">School vs Local Authority IDPs</a></p>
 <p><a href="https://blog.learnwithoutlimitscic.org/2025/11/26/idp-series-what-makes-good-idp-review/">What makes a good IDP review</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/25/idp-series-health-social-care/">Health and social care in IDPs</a></p>
-<p><a href="https://blog.learnwithoutlimitscic.org/2025/11/28/idp-series-private-diagnoses-and-idp/">Private diagnoses and IDPs</a></p>
+<p><a href="{% post_url 2025-11-25-idp-series-health-social-care %}">Health and social care in IDPs</a></p>
+<p><a href="{% post_url 2025-11-28-idp-series-private-diagnoses-and-idp %}">Private diagnoses and IDPs</a></p>
 <p><a href="https://blog.learnwithoutlimitscic.org/2026/01/02/idp-vs-ihp-in-wales/">IDP vs IHP</a></p>
 <p><a href="https://blog.learnwithoutlimitscic.org/2025/11/06/a-parents-guide-to-requesting-idp/">Parent's Guide to requesting an IDP</a></p>
 

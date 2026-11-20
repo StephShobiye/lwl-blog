@@ -24,7 +24,7 @@ But knowing how to request EOTAS, what evidence you need, and what to do when th
 
 This article walks you step by step through the process in Wales, using clear language, real experience from families, and the legal duties that Local Authorities must follow.
 
-For the earlier parts of this series, go back to [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/) and [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/).
+For the earlier parts of this series, go back to [EOTAS in Wales – Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %}) and [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/).
 
 For a broader overview, see [EOTAS explained in Wales](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/).
 
@@ -95,7 +95,7 @@ It absolutely does.
 
 Reading Part 1 and Part 2 first helps parents avoid disappointment, friction with the LA, and unrealistic expectations.
 
-- [Part 1 – Introduction to EOTAS](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)
+- [Part 1 – Introduction to EOTAS]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 - [Part 2 – How EOTAS Decisions Are Made](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/)
 
 ## ⭐ How to Request EOTAS (Step by Step)
@@ -297,7 +297,7 @@ Kind regards,
 ## Continue reading
 
 - [EOTAS explained in Wales: what it is, what it isn’t, and what to ask for](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/)
-- [EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)
+- [EOTAS in Wales – Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 - [EOTAS in Wales – Part 2](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-2/)
 - [EOTAS in Wales – Part 3](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-3/)
 - [Specialist Interventions Under EOTAS in Wales – Part 1](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)

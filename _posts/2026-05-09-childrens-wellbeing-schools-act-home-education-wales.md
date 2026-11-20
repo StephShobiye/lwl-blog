@@ -206,7 +206,7 @@ Before agreeing that a child is “home educated”, it may be worth asking:
 
 Those are different situations.
 
-We have previously written about the distinction between [EOTAS and home education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html), and families trying to understand EOTAS may also find our earlier guide, [EOTAS in Wales: Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1), helpful.
+We have previously written about the distinction between [EOTAS and home education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html), and families trying to understand EOTAS may also find our earlier guide, [EOTAS in Wales: Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %}), helpful.
 
 ## What information might local authorities ask for?
 
@@ -587,7 +587,7 @@ The practical operation of the children not in school measures in Wales will dep
 
 [8] Learn Without Limits CIC, [EOTAS vs Home Education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html), March 2026.
 
-[9] Learn Without Limits CIC, [EOTAS in Wales: Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1), December 2025.
+[9] Learn Without Limits CIC, [EOTAS in Wales: Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %}), December 2025.
 
 [10] Learn Without Limits CIC, [IDP Series: What Makes a Good IDP Review?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-makes-good-idp-review.html), 26 November 2025.
 

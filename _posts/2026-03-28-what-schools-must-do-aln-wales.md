@@ -174,7 +174,7 @@ If ALN is identified:
 
 - an Individual Development Plan (IDP) should be prepared  
 
-👉 [What exactly should be included in an IDP (with real examples)?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-must-be-included-in-idp.html)
+👉 [What exactly should be included in an IDP (with real examples)?]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})
 
 If ALN is not identified:
 

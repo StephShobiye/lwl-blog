@@ -218,7 +218,7 @@ What it is saying is that Welsh Government has now made the process clearer. Tha
 ## Suggested further reading
 
 - [What Schools Must Do When They Suspect ALN in Wales (2026 Update)](/2026/03/what-schools-must-do-aln-wales.html)  
-- [What exactly should be included in an IDP (with real examples)?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-must-be-included-in-idp.html)  
+- [What exactly should be included in an IDP (with real examples)?]({% post_url 2025-11-24-idp-series-what-must-be-included-in-idp %})<br>
 - [Can an IDP Be Removed If You Home Educate in Wales?](/2026/03/idp-home-education-wales.html)  
 - [EOTAS vs Home Education in Wales (2026 Update)](/2026/03/eotas-vs-home-education-wales.html)  
 - [How to Challenge an ALN Decision in Wales (2026 Update)](/2026/03/challenge-aln-decision-wales.html)  

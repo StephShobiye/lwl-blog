@@ -258,7 +258,7 @@ You do not have to work through this process on your own.
 ## Suggested further reading
 
 - [EOTAS explained in Wales – what it is, what it isn’t, and what to ask for](https://blog.learnwithoutlimitscic.org/2026/02/22/eotas-explained/)  
-- [EOTAS in Wales – What it is, what it isn’t, and what to ask for (Part 1)](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1/)  
+- [EOTAS in Wales – What it is, what it isn’t, and what to ask for (Part 1)]({% post_url 2025-12-08-eotas-in-wales-part-1 %})<br>
 - [Specialist interventions under EOTAS in Wales](https://blog.learnwithoutlimitscic.org/2025/12/specialist-interventions-under-eotas-in.html)  
 - [Can an IDP Be Removed If You Home Educate in Wales?](/2026/03/idp-home-education-wales.html)  
 - [How to Challenge an ALN Decision in Wales (2026 Update)](/2026/03/challenge-aln-decision-wales.html)  

@@ -264,7 +264,7 @@ It should also be:
 
 **What provision was supposed to be in place, and why has it not enabled this child to access education?**
 
-We have written more about the difference between [EOTAS and home education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html), and families trying to understand EOTAS may also find [EOTAS in Wales: Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1) useful.
+We have written more about the difference between [EOTAS and home education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html), and families trying to understand EOTAS may also find [EOTAS in Wales: Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %}) useful.
 
 ## Where the new Act may create pressure points
 
@@ -714,7 +714,7 @@ The practical operation of the children not in school measures in Wales will dep
 
 [15] Learn Without Limits CIC, [EOTAS vs Home Education in Wales](https://blog.learnwithoutlimitscic.org/2026/03/eotas-vs-home-education-wales.html), March 2026.
 
-[16] Learn Without Limits CIC, [EOTAS in Wales: Part 1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1), December 2025.
+[16] Learn Without Limits CIC, [EOTAS in Wales: Part 1]({% post_url 2025-12-08-eotas-in-wales-part-1 %}), December 2025.
 
 [17] Learn Without Limits CIC, [IDP Series: What Makes a Good IDP Review?](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-makes-good-idp-review.html), November 2025.
 

@@ -33,7 +33,7 @@ It follows on from:
 
 [Sensory Needs in Secondary School: Why Things Can Intensify in Years 7 to 11](https://blog.learnwithoutlimitscic.org/sensory-needs-secondary-school-wales/)
 
-This article also links with our wider guidance on [attendance warnings, fines and prosecution in Wales](https://blog.learnwithoutlimitscic.org/2026/01/attendance-warnings-fines-and.html), [what makes a good IDP review](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-makes-good-idp-review.html), [how to challenge an ALN decision in Wales](https://blog.learnwithoutlimitscic.org/2026/03/challenge-aln-decision-wales), and [EOTAS in Wales](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1).
+This article also links with our wider guidance on [attendance warnings, fines and prosecution in Wales](https://blog.learnwithoutlimitscic.org/2026/01/attendance-warnings-fines-and.html), [what makes a good IDP review](https://blog.learnwithoutlimitscic.org/2025/11/idp-series-what-makes-good-idp-review.html), [how to challenge an ALN decision in Wales](https://blog.learnwithoutlimitscic.org/2026/03/challenge-aln-decision-wales), and [EOTAS in Wales]({% post_url 2025-12-08-eotas-in-wales-part-1 %}).
 
 This article provides general information for families in Wales. It is not medical, legal, therapeutic or safeguarding advice. If a child or young person may be injured, unwell, unsafe, at risk, or in crisis, parents and carers should seek appropriate professional or emergency help.
 
@@ -753,7 +753,7 @@ Or is the child at home because suitable education or ALP has not been secured?
 
 Those are not the same situation.
 
-Our introductory guide to [EOTAS in Wales](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1) may help families understand some of the language.
+Our introductory guide to [EOTAS in Wales]({% post_url 2025-12-08-eotas-in-wales-part-1 %}) may help families understand some of the language.
 
 The key point for this article is simple:
 
@@ -875,7 +875,7 @@ The next article in this series will look in more detail at how sensory needs sh
 
 [12] Learn Without Limits CIC, "How to Challenge an ALN Decision in Wales." Accessed: May 2026. URL: [https://blog.learnwithoutlimitscic.org/2026/03/challenge-aln-decision-wales](https://blog.learnwithoutlimitscic.org/2026/03/challenge-aln-decision-wales)
 
-[13] Learn Without Limits CIC, "EOTAS in Wales: Part 1." Accessed: May 2026. URL: [https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1](https://blog.learnwithoutlimitscic.org/2025/12/eotas-in-wales-part-1)
+[13] Learn Without Limits CIC, "EOTAS in Wales: Part 1." Accessed: May 2026. URL: [{% post_url 2025-12-08-eotas-in-wales-part-1 %}]({% post_url 2025-12-08-eotas-in-wales-part-1 %})
 
 [14] Welsh Government, "School uniform and appearance: policy guidance for governing bodies." Accessed: May 2026. URL: [https://www.gov.wales/school-uniform-and-appearance-policy-guidance-governing-bodies-wg23-17-html](https://www.gov.wales/school-uniform-and-appearance-policy-guidance-governing-bodies-wg23-17-html)
 
