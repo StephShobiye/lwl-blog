@@ -1,11 +1,200 @@
 ---
 layout: post
 title: Attendance Guidance for Families in Wales
+description: "Welsh guidance for families when health affects school attendance: medical evidence, attendance codes, support plans, reduced timetables and enforcement."
 date: 2026-01-08 23:39:00 +0000
-last_modified_at: 2026-01-09 06:55:49 +0000
+last_modified_at: 2026-11-21 08:20:39 +0000
 permalink: /2026/01/attendance-guidance-for-families-in.html
+author: Learn Without Limits CIC
+lang: en
 ---
 
-<p>&nbsp;</p><h2 data-end="802" data-start="756"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEjLLR70wPLvTrkHdOvflODA4cxh3hIlSuFsbtNdHUD1wFysaR8CBwp-aehgui9qufsqy5tv9C0G2jbgqlwWHVWX34UOB3rHIdMUSBcbbDzsIfw1ZBp5ltrqBdYiq5B1E86OIYlwiqMv3-ti8Cg5tyZNAwtRvoU21SgxOsWFnf9ns7248Y2bGL0c8QkxtJnl" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="1024" data-original-width="1024" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEjLLR70wPLvTrkHdOvflODA4cxh3hIlSuFsbtNdHUD1wFysaR8CBwp-aehgui9qufsqy5tv9C0G2jbgqlwWHVWX34UOB3rHIdMUSBcbbDzsIfw1ZBp5ltrqBdYiq5B1E86OIYlwiqMv3-ti8Cg5tyZNAwtRvoU21SgxOsWFnf9ns7248Y2bGL0c8QkxtJnl" width="240" /></a></div><br /><br /></h2><h3 data-end="891" data-start="803">When your child is too unwell to attend school and what the system should do instead</h3><p data-end="1000" data-start="893">For many families, attendance stops being a routine school matter and becomes a source of constant anxiety.</p><p data-end="1162" data-start="1002">Parents are warned about attendance percentages, penalty notices, and court action. What is often missing from these conversations is a basic but crucial point:</p><p data-end="1218" data-start="1164"><strong data-end="1218" data-start="1164">Attendance law does not override a child’s health.</strong></p><p data-end="1397" data-start="1220"><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline">Welsh Government</span> guidance is clear that where health affects attendance, the response should be supportive, flexible and planned. It should not be punitive.</p><p data-end="1573" data-start="1399">This article explains what parents are expected to do, what they are not required to do, and how families can push back safely when pressure is being applied inappropriately.</p><hr data-end="1578" data-start="1575" /><h2 data-end="1646" data-start="1580">Do parents need a doctor’s note every time a child is off sick?</h2><p data-end="1655" data-start="1648"><strong data-end="1655" data-start="1648">No.</strong></p><p data-end="1767" data-start="1657">There is no requirement in Wales for parents to obtain a GP or medical note for every illness related absence.</p><p data-end="2076" data-start="1769">Welsh Government attendance definitions confirm that illness is an authorised absence where a satisfactory explanation has been provided by the parent. GP practices are not expected to provide letters for routine sickness, and parents are not required to seek medical appointments purely to justify absence.</p><p data-end="2164" data-start="2078">Medical evidence can take many forms and GP notes are <strong data-end="2139" data-start="2132">not</strong> the default expectation.</p><p data-end="2400" data-start="2166"><strong data-end="2180" data-start="2166">Key point:</strong> Schools should not require medical evidence as a condition of authorising absence where illness is genuine and explained. If a school intends to mark illness as unauthorised, it should tell parents this and explain why.</p><p data-end="2431" data-start="2402"><strong data-end="2431" data-start="2402">Suggested parent wording:</strong></p><blockquote data-end="2630" data-start="2433"><p data-end="2630" data-start="2435">“Please record today’s absence as illness. I am providing a satisfactory explanation. If you intend to mark this as unauthorised, please confirm in writing and explain what evidence you require.”</p></blockquote><hr data-end="2635" data-start="2632" /><h2 data-end="2698" data-start="2637">What about fluctuating conditions and sporadic attendance?</h2><p data-end="2798" data-start="2700">Many children live with health conditions that do not follow a predictable pattern. This includes:</p><ul data-end="2946" data-start="2800"><li data-end="2839" data-start="2800"><p data-end="2839" data-start="2802">chronic fatigue and pain conditions</p></li><li data-end="2870" data-start="2840"><p data-end="2870" data-start="2842">mental health difficulties</p></li><li data-end="2901" data-start="2871"><p data-end="2901" data-start="2873">neurodevelopmental burnout</p></li><li data-end="2946" data-start="2902"><p data-end="2946" data-start="2904">post-viral illness, including Long Covid</p></li></ul><p data-end="3224" data-start="2948">Welsh Government guidance on supporting learners with healthcare needs exists specifically because some learners cannot reliably access education in the usual way. It recognises that health conditions may fluctuate, worsen after activity, and affect attendance inconsistently.</p><p data-end="3237" data-start="3226">This means:</p><ul data-end="3395" data-start="3239"><li data-end="3299" data-start="3239"><p data-end="3299" data-start="3241">a child coping one week does not prove capacity the next</p></li><li data-end="3346" data-start="3300"><p data-end="3346" data-start="3302">uneven attendance does not equal avoidance</p></li><li data-end="3395" data-start="3347"><p data-end="3395" data-start="3349">pressure to push through can worsen outcomes</p></li></ul><p data-end="3512" data-start="3397">Attendance affected by healthcare needs should trigger planning and flexibility, not assumptions of non-compliance.</p><p data-end="3543" data-start="3514"><strong data-end="3543" data-start="3514">Suggested parent wording:</strong></p><blockquote data-end="3716" data-start="3545"><p data-end="3716" data-start="3547">“Our child has healthcare needs that affect capacity. We are asking for a planned approach to access and support, not assumptions based on short periods of improvement.”</p></blockquote><hr data-end="3721" data-start="3718" /><h2 data-end="3787" data-start="3723">Is there a percentage absence rate that triggers enforcement?</h2><p data-end="3884" data-start="3789">There is <strong data-end="3832" data-start="3798">no legal attendance percentage</strong> at which fines or court action automatically apply.</p><p data-end="4121" data-start="3886">In practice, attendance below 90 percent is often labelled persistent absence. This is a <strong data-end="3998" data-start="3975">monitoring category</strong>, not an enforcement threshold. It is used to identify learners who may need additional support, not to mandate punishment.</p><p data-end="4234" data-start="4123">Attendance figures must always be interpreted in context, particularly where illness or disability is involved.</p><hr data-end="4239" data-start="4236" /><h2 data-end="4308" data-start="4241">What is the role of the school nurse and why are they important?</h2><p data-end="4470" data-start="4310">School nurses in Wales are Specialist Community Public Health Nurses working under the Healthy Child Wales Programme. Their role is not limited to vaccinations.</p><p data-end="4637" data-start="4472">They support physical and emotional health, identify barriers to education, work with families and schools, and contribute to planning where health affects learning.</p><p data-end="4729" data-start="4639">They are one of the few professionals whose remit explicitly bridges health and education.</p><p data-end="4790" data-start="4731">School nurse involvement can be particularly valuable when:</p><ul data-end="4995" data-start="4792"><li data-end="4828" data-start="4792"><p data-end="4828" data-start="4794">attendance is affected by health</p></li><li data-end="4874" data-start="4829"><p data-end="4874" data-start="4831">conditions fluctuate or are misunderstood</p></li><li data-end="4921" data-start="4875"><p data-end="4921" data-start="4877">schools focus solely on attendance figures</p></li><li data-end="4995" data-start="4922"><p data-end="4995" data-start="4924">families are being pressured without health being properly considered</p></li></ul><p data-end="5075" data-start="4997">Parents do <strong data-end="5015" data-start="5008">not</strong> need school permission to request school nurse involvement.</p><p data-end="5106" data-start="5077"><strong data-end="5106" data-start="5077">Suggested parent wording:</strong></p><blockquote data-end="5300" data-start="5108"><p data-end="5300" data-start="5110">“I am requesting input from the school nursing service, as Welsh Government describes school nursing as assessing and monitoring health needs and working with families to promote wellbeing.”</p></blockquote><p data-end="672" data-start="358">The school nurse is also very useful where a child requires ongoing healthcare support. They can help draw up an <strong data-end="509" data-start="471">Individual Health Care Plan (IHCP/IHP)</strong> to support chronic healthcare needs while a child is attending school. This can include continence support, medication, or other day-to-day health requirements.</p><p>
-</p><p data-end="917" data-start="679">You can find out more about what an <b>Individual Health Care Plan </b>is, and how it differs from the much better known <span data-end="830" data-start="793">Individual Development Plan (IDP)</span>, here:<br data-end="840" data-start="837" />
-<a class="decorated-link" data-end="917" data-start="842" href="https://learnwithoutlimitscic.blogspot.com/2026/01/idp-vs-ihp-in-wales.html" rel="noopener" target="_new">https://learnwithoutlimitscic.blogspot.com/2026/01/idp-vs-ihp-in-wales.html</a></p><hr data-end="5305" data-start="5302" /><h2 data-end="5364" data-start="5307">What if an Education Welfare Officer becomes involved?</h2><p data-end="5439" data-start="5366">Education Welfare Officers are not intended to be enforcement-only roles.</p><p data-end="5621" data-start="5441">Where health is the reason for absence, it is reasonable to expect a support-first approach. Parents are entitled to request that healthcare needs are considered before escalation.</p><p data-end="5726" data-start="5623">Parents can also request communication in writing and ask for meetings to include health professionals.</p><p data-end="5757" data-start="5728"><strong data-end="5757" data-start="5728">Suggested parent wording:</strong></p><blockquote data-end="5950" data-start="5759"><p data-end="5950" data-start="5761">“Our child’s absences relate to healthcare needs. Before any enforcement action is considered, please confirm what support and planning steps have been taken to ensure access to education.”</p></blockquote><hr data-end="5955" data-start="5952" /><h2 data-end="6008" data-start="5957">Penalty notices and enforcement as a last resort</h2><p data-end="6234" data-start="6010">Penalty notices exist, but Welsh Government guidance frames them as <strong data-end="6120" data-start="6078">one option among several interventions</strong>. Decision-makers are expected to have regard to the guidance and follow it unless there is good reason to depart.</p><p data-end="6374" data-start="6236">This reinforces an important principle: enforcement should not be the first response, particularly where health needs are clearly in play.</p><hr data-end="6379" data-start="6376" /><h2 data-end="6436" data-start="6381">Being encouraged to deregister because of attendance</h2><p data-end="6572" data-start="6438">Some families report being advised that deregistration would “solve” attendance problems where a child is too unwell to attend school.</p><p data-end="6602" data-start="6574">It is important to be clear:</p><p data-end="6714" data-start="6604"><strong data-end="6644" data-start="6604">Deregistration is a parental choice.</strong><br data-end="6647" data-start="6644" />It should not be presented as a response to health related absence.</p><p data-end="6846" data-start="6716">Welsh Government guidance is built around access, planning and working together. Families are entitled to expect consideration of:</p><ul data-end="6999" data-start="6848"><li data-end="6870" data-start="6848"><p data-end="6870" data-start="6850">authorised absence</p></li><li data-end="6903" data-start="6871"><p data-end="6903" data-start="6873">healthcare informed planning</p></li><li data-end="6930" data-start="6904"><p data-end="6930" data-start="6906">reasonable adjustments</p></li><li data-end="6999" data-start="6931"><p data-end="6999" data-start="6933">alternative provision where attendance is not currently suitable</p></li></ul><p data-end="7030" data-start="7001"><strong data-end="7030" data-start="7001">Suggested parent wording:</strong></p><blockquote data-end="7204" data-start="7032"><p data-end="7204" data-start="7034">“We are not seeking deregistration. We are asking how education can be accessed appropriately while healthcare needs are managed, in line with Welsh Government guidance.”</p></blockquote><hr data-end="7209" data-start="7206" /><h2 data-end="7246" data-start="7211">When does EOTAS become relevant?</h2><p data-end="7316" data-start="7248">Education Otherwise Than At School (EOTAS) may be appropriate where:</p><ul data-end="7477" data-start="7318"><li data-end="7375" data-start="7318"><p data-end="7375" data-start="7320">a child cannot reasonably attend school due to health</p></li><li data-end="7423" data-start="7376"><p data-end="7423" data-start="7378">attendance pressure worsens their condition</p></li><li data-end="7477" data-start="7424"><p data-end="7477" data-start="7426">school-based adjustments have not resolved access</p></li></ul><p data-end="7539" data-start="7479">EOTAS is a lawful education route, not a failure by parents.</p><p data-end="7597" data-start="7541">If you need more information about EOTAS and whether it might be applicable to your situtation, then part 1 of our 5-part EOTAS series can be found here<i>:-&nbsp;<a href="https://learnwithoutlimitscic.blogspot.com/2025/12/eotas-in-wales-part-1.html">https://learnwithoutlimitscic.blogspot.com/2025/12/eotas-in-wales-part-1.html</a></i></p><hr data-end="7602" data-start="7599" /><h2 data-end="7659" data-start="7604">What Welsh Government guidance consistently supports</h2><p data-end="7770" data-start="7661">Across attendance guidance, healthcare needs frameworks and school nursing policy, the message is consistent:</p><ul data-end="7941" data-start="7772"><li data-end="7812" data-start="7772"><p data-end="7812" data-start="7774">illness can be an authorised absence</p></li><li data-end="7858" data-start="7813"><p data-end="7858" data-start="7815">attendance must be interpreted in context</p></li><li data-end="7897" data-start="7859"><p data-end="7897" data-start="7861">support should precede enforcement</p></li><li data-end="7941" data-start="7898"><p data-end="7941" data-start="7900">health and education must work together</p></li></ul><p data-end="8030" data-start="7943">Parents are <strong data-end="7962" data-start="7955">not</strong> expected to compromise a child’s health to meet attendance targets.</p><hr data-end="8035" data-start="8032" /><h2 data-end="8075" data-start="8037">If you are reading this as a parent</h2><p data-end="8157" data-start="8077">If you are exhausted, frightened or feeling pressured, please hear this clearly:</p><p data-end="8238" data-start="8159"><strong data-end="8238" data-start="8159">Protecting your child’s health is responsible parenting. It is not neglect.</strong></p><hr data-end="8243" data-start="8240" /><h2 data-end="8259" data-start="8245">Coming next</h2><p data-end="8394" data-start="8261">Later this month we will publish a two-part series on Long Covid and education in Wales, building directly on the issues raised here.</p><hr data-end="8399" data-start="8396" /><h2 data-end="8459" data-start="8401">Sources and references (Welsh Government unless stated)</h2><ul data-end="9782" data-start="8461"><li data-end="8700" data-start="8461"><p data-end="8700" data-start="8463">Supporting learners with healthcare needs<br data-end="8507" data-start="8504" /><a class="decorated-link" data-end="8569" data-start="8509" href="https://www.gov.wales/supporting-learners-healthcare-needs-0" rel="noopener" target="_new">https://www.gov.wales/supporting-learners-healthcare-needs-0<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg aria-hidden="true" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]" data-rtl-flip="" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><use fill="currentColor" href="/cdn/assets/sprites-core-5p0gevgh.svg#304883"></use></svg></span></a><br data-end="8572" data-start="8569" />Direct PDF:<br data-end="8588" data-start="8585" /><a class="decorated-link" data-end="8698" data-start="8590" href="https://www.gov.wales/sites/default/files/publications/2018-12/supporting-learners-with-healthcare-needs.pdf" rel="noopener" target="_new">https://www.gov.wales/sites/default/files/publications/2018-12/supporting-learners-with-healthcare-needs.pdf<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg aria-hidden="true" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]" data-rtl-flip="" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><use fill="currentColor" href="/cdn/assets/sprites-core-5p0gevgh.svg#304883"></use></svg></span></a></p></li><li data-end="8919" data-start="8702"><p data-end="8919" data-start="8704">Supporting learners with healthcare needs: a quick guide for parents (PDF)<br data-end="8781" data-start="8778" /><a class="decorated-link" data-end="8917" data-start="8783" href="https://www.gov.wales/sites/default/files/publications/2018-12/supporting-learners-with-healthcare-needs-a-quick-guide-for-parents.pdf" rel="noopener" target="_new">https://www.gov.wales/sites/default/files/publications/2018-12/supporting-learners-with-healthcare-needs-a-quick-guide-for-parents.pdf<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg aria-hidden="true" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]" data-rtl-flip="" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><use fill="currentColor" href="/cdn/assets/sprites-core-5p0gevgh.svg#304883"></use></svg></span></a></p></li><li data-end="9082" data-start="8921"><p data-end="9082" data-start="8923">School attendance and absence: definitions of authorised and unauthorised absence<br data-end="9007" data-start="9004" /><a class="decorated-link" data-end="9080" data-start="9009" href="https://www.gov.wales/school-attendance-and-absence-quality-report-html" rel="noopener" target="_new">https://www.gov.wales/school-attendance-and-absence-quality-report-html<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg aria-hidden="true" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]" data-rtl-flip="" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><use fill="currentColor" href="/cdn/assets/sprites-core-5p0gevgh.svg#304883"></use></svg></span></a></p></li><li data-end="9236" data-start="9084"><p data-end="9236" data-start="9086">Guidance on school attendance codes (PDF)<br data-end="9130" data-start="9127" /><a class="decorated-link" data-end="9234" data-start="9132" href="https://www.gov.wales/sites/default/files/publications/2018-03/guidance-on-school-attendance-codes.pdf" rel="noopener" target="_new">https://www.gov.wales/sites/default/files/publications/2018-03/guidance-on-school-attendance-codes.pdf<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg aria-hidden="true" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]" data-rtl-flip="" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><use fill="currentColor" href="/cdn/assets/sprites-core-5p0gevgh.svg#304883"></use></svg></span></a></p></li><li data-end="9448" data-start="9238"><p data-end="9448" data-start="9240">Guidance on penalty notices for regular non-attendance at school (PDF)<br data-end="9313" data-start="9310" /><a class="decorated-link" data-end="9446" data-start="9315" href="https://www.gov.wales/sites/default/files/publications/2018-03/guidance-on-penalty-notices-for-regular-non-attendance-at-school.pdf" rel="noopener" target="_new">https://www.gov.wales/sites/default/files/publications/2018-03/guidance-on-penalty-notices-for-regular-non-attendance-at-school.pdf<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg aria-hidden="true" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]" data-rtl-flip="" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><use fill="currentColor" href="/cdn/assets/sprites-core-5p0gevgh.svg#304883"></use></svg></span></a></p></li><li data-end="9603" data-start="9450"><p data-end="9603" data-start="9452">Healthy Child Wales Programme for school-aged children<br data-end="9509" data-start="9506" /><a class="decorated-link" data-end="9601" data-start="9511" href="https://www.gov.wales/healthy-child-wales-programme-school-aged-children-introduction-html" rel="noopener" target="_new">https://www.gov.wales/healthy-child-wales-programme-school-aged-children-introduction-html<span aria-hidden="true" class="ms-0.5 inline-block align-middle leading-none"><svg aria-hidden="true" class="block h-[0.75em] w-[0.75em] stroke-current stroke-[0.75]" data-rtl-flip="" height="20" width="20" xmlns="http://www.w3.org/2000/svg"><use fill="currentColor" href="/cdn/assets/sprites-core-5p0gevgh.svg#304883"></use></svg></span></a></p></li><li data-end="9782" data-start="9605"><p data-end="9782" data-start="9607">Improving learner engagement and attendance (PDF, October 2023)<br data-end="9673" data-start="9670" /><a class="decorated-link" data-end="9780" data-start="9675" href="https://www.gov.wales/sites/default/files/publications/2023-10/improving-school-attendance-guidance_0.pdf" rel="noopener" target="_new">https://www.gov.wales/sites/default/files/publications/2023-10/improving-school-attendance-guidance_0.pdf</a><br /><br />===================================================================<br /><br />Learn Without Limits CIC provides general information and guidance only. We do not provide legal or medical advice. Families should seek advice from appropriate qualified professionals where needed</p></li></ul>
+**Last reviewed: 21 November 2026.** Updated to reflect current Welsh attendance guidance, including the July 2026 attendance codes, medical-evidence requests and the distinction between support and enforcement.
+
+<div class="separator" style="text-align: center;">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEjLLR70wPLvTrkHdOvflODA4cxh3hIlSuFsbtNdHUD1wFysaR8CBwp-aehgui9qufsqy5tv9C0G2jbgqlwWHVWX34UOB3rHIdMUSBcbbDzsIfw1ZBp5ltrqBdYiq5B1E86OIYlwiqMv3-ti8Cg5tyZNAwtRvoU21SgxOsWFnf9ns7248Y2bGL0c8QkxtJnl" alt="" width="240" height="240" loading="lazy">
+</div>
+
+When your child is too unwell to attend school, report the absence, explain the difficulty and ask what support will help them access education. Keep a brief record of the explanation you give and the response.
+
+There are three separate questions to resolve: why your child is absent, how the absence is recorded, and what education and support they can access. An attendance percentage cannot answer all three.
+
+This guide concerns school attendance in Wales, particularly children of compulsory school age whose health affects attendance. It explains the relevant law and guidance, with practical questions families can use in discussions with school and the local authority.
+
+## Does illness mean an absence will be authorised?
+
+Parents explain the reason for absence. The school decides whether to authorise it. Welsh Government attendance guidance distinguishes an explanation being supplied from the school accepting it as satisfactory. [[1]](#ref-1)
+
+Ask how the reported absence has been recorded and seek an explanation if you disagree. Continue to keep school informed while a dispute is being addressed.
+
+Attendance law recognises sickness. For a non-boarding child, section 444(2A) of the Education Act 1996 provides that absence is not treated as a failure to attend regularly where the parent proves the child was prevented from attending by sickness or an unavoidable cause. That is a legal provision about attendance proceedings, not automatic authorisation whenever a parent reports a health condition. [[2]](#ref-2)
+
+If enforcement is proposed, seek advice about your circumstances and evidence rather than relying on a general reassurance about illness.
+
+## Do you need a GP note for every illness?
+
+No. Schools can request medical evidence, but Welsh guidance advises against unnecessary certificates, particularly retrospective ones. Prescriptions and appointment cards may be evidence. Where illness is doubted, or evidence is not supplied after a suitable period, the guidance permits code O, with parents informed of the intention to use it. [[3]](#ref-3)
+
+If evidence is requested, ask what question it needs to answer and what forms would be accepted. Explain any difficulty obtaining it. A useful message might be:
+
+> “I have reported the reason for absence. Please confirm how it will be recorded. If you need supporting evidence, please explain what would help and why, and tell me if you intend to record the absence as unauthorised.”
+
+Keep the discussion focused on understanding the barrier and arranging support, alongside resolving the attendance record.
+
+## Which attendance codes matter when health affects attendance?
+
+The July 2026 Welsh guidance includes these distinctions. [[3]](#ref-3)
+
+| Code | Meaning |
+| --- | --- |
+| I1 | Physical illness |
+| I2 | Non-physical illness |
+| M | Medical or dental appointment |
+| C4 | Absence under an agreed reduced or reintegration timetable |
+| B1 | Specified local-authority online learning arrangements |
+| B2 | School online learning agreed appropriate by a local-authority panel |
+
+The online codes have conditions. An uploaded worksheet alone does not establish that they apply. Ask school to explain the code and its basis. [[3]](#ref-3)
+
+Registration also differs from time spent learning: a pupil present at registration who later goes home ill can still count as present for that session. Keep a separate record of missed teaching and early collections. [[3]](#ref-3)
+
+## What if your child’s needs change from day to day?
+
+Explain what your child can manage, what is difficult and how this varies. Describe examples rather than relying only on a diagnosis or an attendance total.
+
+For example, “My child attended on Tuesday” tells staff less than “They managed the morning with rest breaks, then could not manage the same routine the following day.” Record what helped as well as what did not.
+
+Ask relevant health professionals to advise on the effects of your child’s needs and appropriate support. Welsh Government healthcare guidance calls for collaboration between education, health, families and the learner. Maintained-school governing bodies and local authorities must have regard to that statutory guidance. It provides for individual healthcare plans where appropriate, while recognising that not every learner with healthcare needs needs one. [[4]](#ref-4)
+
+Questions for a planning discussion could include:
+
+- What adjustments would make the day more manageable?
+- What should staff do if symptoms change during school?
+- Would an individual healthcare plan, or a review of an existing plan, help?
+- Does an existing IDP describe the support currently needed?
+- Who will coordinate the actions, and when will we check whether they are working?
+
+An individual healthcare plan and an Individual Development Plan serve different purposes. Our [IDP overview for families in Wales](https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/) explains the education plan and who secures its provision. If IDP support is missing, see [our practical guide to what to do when your child’s IDP support is not happening](https://blog.learnwithoutlimitscic.org/2026/11/20/idp-support-not-happening-wales/).
+
+## Can the school nursing service help?
+
+Families can contact their school nursing service for advice and support. Healthy Child Wales describes a single point of access for families, confidential secondary-school drop-ins and alternative venues for children educated otherwise than at school. [[5]](#ref-5)
+
+Ask your health board how to reach the service if your child cannot access it at school. Explain what help you are seeking, such as advice on healthcare planning or signposting to another service. Contacting the service does not guarantee a particular assessment or letter, and the school remains responsible for its attendance-recording decisions.
+
+## What if a reduced timetable is suggested?
+
+Ask what the arrangement is intended to achieve and what education your child will receive during the time away from school.
+
+Welsh engagement and attendance guidance treats part-time timetables as exceptional, temporary measures, generally no more than six weeks, with a planned return to full-time attendance. It says they should not be used to manage behavioural issues. Six weeks is a guidance expectation, not an absolute statutory cut-off. [[1]](#ref-1)
+
+Ask for an agreed written plan covering the purpose, education offered, named responsibilities, support, review dates and intended next steps. Include transport, meals and supervision if they affect whether the plan can work. The guidance also addresses continuing IDP support and local authority involvement. [[1]](#ref-1)
+
+If a plan is not progressing, ask what needs to change rather than simply renewing the same reduced hours. Agree who will review access to education and how your child’s views will be included.
+
+## Is persistent absence an automatic trigger for a fine?
+
+No. Welsh Government’s official statistical measure uses a 10% persistent-absence threshold based on the most common number of required sessions in the relevant collection. Primary and secondary annual collections have different coverage. This is not, by itself, a finding that a parent has committed an attendance offence. [[6]](#ref-6)
+
+Welsh penalty-notice guidance requires local codes of conduct and individual consideration. Ask which unauthorised sessions and which part of the local code are being relied upon if a notice is proposed. [[7]](#ref-7)
+
+## What if an Education Welfare Officer becomes involved?
+
+The Education Welfare Service has support and assessment functions as well as an enforcement role. Welsh guidance describes partnership working with learners, parents, schools and other services. [[1]](#ref-1)
+
+Use the conversation to clarify the problem and the response. You can ask:
+
+> “Please explain the attendance concerns, the support already considered and the next steps proposed. Our child’s difficulties are [brief explanation]. How will these be taken into account in the plan?”
+
+Ask for a written summary of actions and responsibilities. If the school’s account differs from yours, identify the specific dates or events in dispute and provide relevant records.
+
+## What should you know about penalty notices and prosecution?
+
+Welsh Government’s penalty-notice guidance says cases should be assessed individually. It describes notices as suitable where a parent is considered capable of securing attendance but unwilling to take responsibility. It also allows a notice without prior formal warning in some circumstances. A support meeting or warning is therefore not guaranteed in every case. [[7]](#ref-7)
+
+If you receive a warning, notice or court papers:
+
+- Check the dates, sessions, reasons and deadlines.
+- Ask for any attendance entries you dispute to be explained and reviewed.
+- Provide relevant evidence and explain support sought or tried.
+- Seek advice promptly. Do not assume a complaint pauses a payment or court deadline.
+
+The legal question depends on the facts. England’s attendance-enforcement rules should not be assumed to apply in Wales.
+
+## When should education outside school be considered?
+
+For children of compulsory school age, section 19A of the Education Act 1996 requires Welsh local authorities to arrange suitable education where illness, exclusion or other circumstances mean a child in their area may otherwise go without it. Suitability includes age, ability, aptitude and any ALN. [[8]](#ref-8)
+
+Ask what suitable education your child can access now if school attendance has become impossible or provision has broken down. Keep this question separate from how the absence is coded.
+
+Welsh Government’s March 2026 EOTAS guidance confirms that an IDP is not required to receive EOTAS. Where a learner has ALN, the relevant ALN responsibilities also need consideration. [[9]](#ref-9)
+
+An EOTAS request does not automatically authorise absence or establish entitlement to a particular package. Explain what education is missing, what has been tried and the barriers to the provision offered.
+
+## Should you deregister to resolve an attendance problem?
+
+Elective home education and local-authority-arranged EOTAS are different. The March 2026 guidance says home education should be a positive parental choice and explains that parents choosing it take responsibility for delivering suitable education. [[9]](#ref-9)
+
+Do not send a deregistration request merely because you feel it is the only way to end attendance pressure. Ask for the education and support options to be explained, and obtain advice before deciding.
+
+You might write:
+
+> “We are not requesting home education. Please explain how our child’s needs and access to suitable education will be addressed while they cannot attend as expected.”
+
+## Keep the next step manageable
+
+Start with a short account of the difficulty, the help you are asking for and a date to review progress. Keep the current plan, relevant health advice, attendance queries and important correspondence together.
+
+Include your child’s views in a way they can manage. Ask them what helps, what is difficult and what they would like adults to understand. Avoid requiring them to retell distressing experiences at every meeting.
+
+For independent ALN advice, [SNAP Cymru’s contact page](https://www.snapcymru.org/contact/) provides its parent enquiry route. Its SNAP Connect service uses triage, so check the current arrangements rather than expecting an immediate casework appointment. [[10]](#ref-10)
+
+## Parent peer support and events
+
+You can share experiences and ask how other families have approached similar difficulties in our [online Learn Without Limits parent peer support group](https://www.facebook.com/groups/learnwithoutlimitscic). Individual circumstances and local procedures differ, so use shared experiences to help identify questions rather than as a substitute for advice about your own situation.
+
+For current workshops and other sessions, visit our [LWL events page](https://learnwithoutlimitscic.org/events.en.html). Check the latest dates, booking information, availability and any costs there.
+
+## Related reading from LWL
+
+- [IDP in Wales explained: understanding the plan and responsibilities](https://blog.learnwithoutlimitscic.org/idp-in-wales-explained/)
+- [My child’s IDP support isn’t happening. What should I do?](https://blog.learnwithoutlimitscic.org/2026/11/20/idp-support-not-happening-wales/)
+- [Support Before Crisis: what the October review could mean for Welsh families](https://blog.learnwithoutlimitscic.org/2026/11/20/support-before-crisis-review-welsh-aln-families/)
+
+## References
+
+All online sources accessed 21 November 2026.
+
+[1] Welsh Government, “Belonging, engaging and participating: Guidance on improving learner engagement and attendance,” guidance 293/2023, October 2023, especially printed pp. 26–28 and the Education Welfare Service section. [Online]. Available: [https://www.gov.wales/sites/default/files/publications/2023-10/improving-school-attendance-guidance_0.pdf](https://www.gov.wales/sites/default/files/publications/2023-10/improving-school-attendance-guidance_0.pdf). The [publication page](https://www.gov.wales/improving-school-attendance) was updated on 22 May 2026 and still links this edition.
+{: #ref-1 }
+
+[2] UK Parliament, “Education Act 1996, section 444: Offence: failure to secure regular attendance at school of registered pupil,” as amended, especially subsection (2A). [Online]. Available: [https://www.legislation.gov.uk/ukpga/1996/56/section/444/data.html](https://www.legislation.gov.uk/ukpga/1996/56/section/444/data.html).
+{: #ref-2 }
+
+[3] Welsh Government, “School attendance codes: guidance,” updated 20 July 2026, particularly sections I1, I2, M, C4, B1/B2 and attendance at registration. [Online]. Available: [https://www.gov.wales/school-attendance-codes-guidance-html](https://www.gov.wales/school-attendance-codes-guidance-html).
+{: #ref-3 }
+
+[4] Welsh Government, “Supporting learners with healthcare needs,” guidance 215/2017, March 2017, sections 2 and 3. [Online]. Available: [https://www.gov.wales/sites/default/files/publications/2018-12/supporting-learners-with-healthcare-needs.pdf](https://www.gov.wales/sites/default/files/publications/2018-12/supporting-learners-with-healthcare-needs.pdf).
+{: #ref-4 }
+
+[5] Welsh Government, “Healthy Child Wales Programme: for school aged children, Part 5: supporting children through school ages and stages,” 10 April 2024. [Online]. Available: [https://www.gov.wales/healthy-child-wales-programme-school-aged-children-supporting-children-through-school-ages-and-html](https://www.gov.wales/healthy-child-wales-programme-school-aged-children-supporting-children-through-school-ages-and-html).
+{: #ref-5 }
+
+[6] Welsh Government, “School attendance and absence: quality report,” 16 December 2025, section “Persistent absence.” [Online]. Available: [https://www.gov.wales/school-attendance-and-absence-quality-report-html](https://www.gov.wales/school-attendance-and-absence-quality-report-html).
+{: #ref-6 }
+
+[7] Welsh Government, “Guidance on penalty notices for regular non-attendance at school,” guidance 116/2013, September 2013, especially printed pp. 15–17. [Online]. Available: [https://www.gov.wales/sites/default/files/publications/2018-03/guidance-on-penalty-notices-for-regular-non-attendance-at-school.pdf](https://www.gov.wales/sites/default/files/publications/2018-03/guidance-on-penalty-notices-for-regular-non-attendance-at-school.pdf). The current [publication page](https://www.gov.wales/penalty-notices-regular-non-attendance-school-guidance) links this edition.
+{: #ref-7 }
+
+[8] UK Parliament, “Education Act 1996, section 19A: Exceptional provision of education in pupil referral units or elsewhere: Wales,” as amended. [Online]. Available: [https://www.legislation.gov.uk/ukpga/1996/56/section/19A/data.html](https://www.legislation.gov.uk/ukpga/1996/56/section/19A/data.html).
+{: #ref-8 }
+
+[9] Welsh Government, “Additional learning needs (ALN) and education otherwise than at school (EOTAS),” 27 March 2026, non-statutory guidance. [Online]. Available: [https://www.gov.wales/additional-learning-needs-aln-and-education-otherwise-school-eotas-html](https://www.gov.wales/additional-learning-needs-aln-and-education-otherwise-school-eotas-html).
+{: #ref-9 }
+
+[10] SNAP Cymru, “Contact” and “SNAP Connect.” [Online]. Available: [https://www.snapcymru.org/contact/](https://www.snapcymru.org/contact/) and [https://www.snapcymru.org/snapconnect/](https://www.snapcymru.org/snapconnect/).
+{: #ref-10 }
+
+## Disclaimer
+
+Learn Without Limits CIC provides general information and guidance only. We do not provide legal or medical advice. Families should seek advice from appropriate qualified professionals where needed.
