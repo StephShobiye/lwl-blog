@@ -2,7 +2,7 @@
 layout: post
 title: "EOTAS explained in Wales: what it is, what it isn’t, and what to ask for"
 date: 2026-02-22
-last_modified_at: 2026-11-21 08:31:03 +0000
+last_modified_at: 2026-11-21 08:38:54 +0000
 permalink: /2026/02/22/eotas-explained/
 description: "Understand EOTAS in Wales, local authority responsibilities, how it differs from home education, the role of IDPs and what families can ask for."
 author: Learn Without Limits CIC
@@ -81,6 +81,8 @@ A useful question is:
 > “Please explain how these arrangements will provide suitable education for my child, how they will be accessible and who we should contact if they do not work in practice.”
 
 If a longer-term decision is pending, ask separately what education will be provided during the wait. A panel date does not explain what a child will be taught this week.
+
+Our [guide to education while waiting for an EOTAS decision in Wales](https://blog.learnwithoutlimitscic.org/2026/11/21/waiting-for-eotas-decision-wales/) explains interim arrangements, questions to ask and next steps if education is missing.
 
 ## Further guidance and support
 
